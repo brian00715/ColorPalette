@@ -1,0 +1,8080 @@
+{
+  "npg_nrc": [
+    "#E64B35",
+    "#4DBBD5",
+    "#00A087",
+    "#3C5488",
+    "#F39B7F",
+    "#8491B4",
+    "#91D1C2",
+    "#DC0000",
+    "#7E6148",
+    "#B09C85"
+  ],
+  "aaas": [
+    "#3B4992",
+    "#EE0000",
+    "#008B45",
+    "#631879",
+    "#008280",
+    "#BB0021",
+    "#5F559B",
+    "#A20056",
+    "#808180",
+    "#1B1919"
+  ],
+  "nejm": [
+    "#BC3C29",
+    "#0072B5",
+    "#E18727",
+    "#20854E",
+    "#7876B1",
+    "#6F99AD",
+    "#FFDC91",
+    "#EE4C97"
+  ],
+  "lancet_lanonc": [
+    "#00468B",
+    "#ED0000",
+    "#42B540",
+    "#0099B4",
+    "#925E9F",
+    "#FDAF91",
+    "#AD002A",
+    "#ADB6B6",
+    "#1B1919"
+  ],
+  "jama": [
+    "#374E55",
+    "#DF8F44",
+    "#00A1D5",
+    "#B24745",
+    "#79AF97",
+    "#6A6599",
+    "#80796B"
+  ],
+  "bmj": [
+    "#2A6EBB",
+    "#F0AB00",
+    "#C50084",
+    "#7D5CC6",
+    "#E37222",
+    "#69BE28",
+    "#00B2A9",
+    "#CD202C",
+    "#747678"
+  ],
+  "jco": [
+    "#0073C2",
+    "#EFC000",
+    "#868686",
+    "#CD534C",
+    "#7AA6DC",
+    "#003C67",
+    "#8F7700",
+    "#3B3B3B",
+    "#A73030",
+    "#4A6990"
+  ],
+  "ucscgb": [
+    "#FF0000",
+    "#FF9900",
+    "#FFCC00",
+    "#00FF00",
+    "#6699FF",
+    "#CC33FF",
+    "#99991E",
+    "#999999",
+    "#FF00CC",
+    "#CC0000",
+    "#FFCCCC",
+    "#FFFF00",
+    "#CCFF00",
+    "#358000",
+    "#0000CC",
+    "#99CCFF",
+    "#00FFFF",
+    "#CCFFFF",
+    "#9900CC",
+    "#CC99FF",
+    "#996600",
+    "#666600",
+    "#666666",
+    "#CCCCCC",
+    "#79CC3D",
+    "#CCCC99"
+  ],
+  "d3_category10": [
+    "#1F77B4",
+    "#FF7F0E",
+    "#2CA02C",
+    "#D62728",
+    "#9467BD",
+    "#8C564B",
+    "#E377C2",
+    "#7F7F7F",
+    "#BCBD22",
+    "#17BECF"
+  ],
+  "d3_category20": [
+    "#1F77B4",
+    "#FF7F0E",
+    "#2CA02C",
+    "#D62728",
+    "#9467BD",
+    "#8C564B",
+    "#E377C2",
+    "#7F7F7F",
+    "#BCBD22",
+    "#17BECF",
+    "#AEC7E8",
+    "#FFBB78",
+    "#98DF8A",
+    "#FF9896",
+    "#C5B0D5",
+    "#C49C94",
+    "#F7B6D2",
+    "#C7C7C7",
+    "#DBDB8D",
+    "#9EDAE5"
+  ],
+  "d3_category20b": [
+    "#393B79",
+    "#637939",
+    "#8C6D31",
+    "#843C39",
+    "#7B4173",
+    "#5254A3",
+    "#8CA252",
+    "#BD9E39",
+    "#AD494A",
+    "#A55194",
+    "#6B6ECF",
+    "#B5CF6B",
+    "#E7BA52",
+    "#D6616B",
+    "#CE6DBD",
+    "#9C9EDE",
+    "#CEDB9C",
+    "#E7CB94",
+    "#E7969C",
+    "#DE9ED6"
+  ],
+  "d3_category20c": [
+    "#3182BD",
+    "#E6550D",
+    "#31A354",
+    "#756BB1",
+    "#636363",
+    "#6BAED6",
+    "#FD8D3C",
+    "#74C476",
+    "#9E9AC8",
+    "#969696",
+    "#9ECAE1",
+    "#FDAE6B",
+    "#A1D99B",
+    "#BCBDDC",
+    "#BDBDBD",
+    "#C6DBEF",
+    "#FDD0A2",
+    "#C7E9C0",
+    "#DADAEB",
+    "#D9D9D9"
+  ],
+  "observable_observable10": [
+    "#4269D0",
+    "#EFB118",
+    "#FF725C",
+    "#6CC5B0",
+    "#3CA951",
+    "#FF8AB7",
+    "#A463F2",
+    "#97BBF5",
+    "#9C6B4E",
+    "#9498A0"
+  ],
+  "primer_mark17": [
+    "#006EDB",
+    "#EB670F",
+    "#DF0C24",
+    "#179B9B",
+    "#30A147",
+    "#894CEB",
+    "#B88700",
+    "#CE2C85",
+    "#856D4C",
+    "#527A29",
+    "#D43511",
+    "#167E53",
+    "#9D615C",
+    "#64762D",
+    "#A830E8",
+    "#866E04",
+    "#808FA3"
+  ],
+  "atlassian_categorical8": [
+    "#4688EC",
+    "#94C748",
+    "#C97CF4",
+    "#FCA700",
+    "#1558BC",
+    "#964AC0",
+    "#42B2D7",
+    "#E06C00"
+  ],
+  "igv": [
+    "#5050FF",
+    "#CE3D32",
+    "#749B58",
+    "#F0E685",
+    "#466983",
+    "#BA6338",
+    "#5DB1DD",
+    "#802268",
+    "#6BD76B",
+    "#D595A7",
+    "#924822",
+    "#837B8D",
+    "#C75127",
+    "#D58F5C",
+    "#7A65A5",
+    "#E4AF69",
+    "#3B1B53",
+    "#CDDEB7",
+    "#612A79",
+    "#AE1F63",
+    "#E7C76F",
+    "#5A655E",
+    "#CC9900",
+    "#99CC00",
+    "#A9A9A9",
+    "#CC9900",
+    "#99CC00",
+    "#33CC00",
+    "#00CC33",
+    "#00CC99",
+    "#0099CC",
+    "#0A47FF",
+    "#4775FF",
+    "#FFC20A",
+    "#FFD147",
+    "#990033",
+    "#991A00",
+    "#996600",
+    "#809900",
+    "#339900",
+    "#00991A",
+    "#009966",
+    "#008099",
+    "#003399",
+    "#1A0099",
+    "#660099",
+    "#990080",
+    "#D60047",
+    "#FF1463",
+    "#00D68F",
+    "#14FFB1"
+  ],
+  "igv_alternating": [
+    "#5773CC",
+    "#FFB900"
+  ],
+  "locuszoom": [
+    "#D43F3A",
+    "#EEA236",
+    "#5CB85C",
+    "#46B8DA",
+    "#357EBD",
+    "#9632B8",
+    "#B8B8B8"
+  ],
+  "uchicago": [
+    "#800000",
+    "#767676",
+    "#FFA319",
+    "#8A9045",
+    "#155F83",
+    "#C16622",
+    "#8F3931",
+    "#58593F",
+    "#350E20"
+  ],
+  "uchicago_light": [
+    "#800000",
+    "#D6D6CE",
+    "#FFB547",
+    "#ADB17D",
+    "#5B8FA8",
+    "#D49464",
+    "#B1746F",
+    "#8A8B79",
+    "#725663"
+  ],
+  "uchicago_dark": [
+    "#800000",
+    "#767676",
+    "#CC8214",
+    "#616530",
+    "#0F425C",
+    "#9A5324",
+    "#642822",
+    "#3E3E23",
+    "#350E20"
+  ],
+  "cosmic_hallmarks_dark": [
+    "#171717",
+    "#7D0226",
+    "#300049",
+    "#165459",
+    "#3F2327",
+    "#0B1948",
+    "#E71012",
+    "#555555",
+    "#193006",
+    "#A8450C"
+  ],
+  "cosmic_hallmarks_light": [
+    "#2E2A2B",
+    "#CF4E9C",
+    "#8C57A2",
+    "#358DB9",
+    "#82581F",
+    "#2F509E",
+    "#E5614C",
+    "#97A1A7",
+    "#3DA873",
+    "#DC9445"
+  ],
+  "cosmic_signature_substitutions": [
+    "#5ABCEB",
+    "#050708",
+    "#D33C32",
+    "#CBCACB",
+    "#ABCD72",
+    "#E7C9C6"
+  ],
+  "simpsons_springfield": [
+    "#FED439",
+    "#709AE1",
+    "#8A9197",
+    "#D2AF81",
+    "#FD7446",
+    "#D5E4A2",
+    "#197EC0",
+    "#F05C3B",
+    "#46732E",
+    "#71D0F5",
+    "#370335",
+    "#075149",
+    "#C80813",
+    "#91331F",
+    "#1A9993",
+    "#FD8CC1"
+  ],
+  "futurama_planetexpress": [
+    "#FF6F00",
+    "#C71000",
+    "#008EA0",
+    "#8A4198",
+    "#5A9599",
+    "#FF6348",
+    "#84D7E1",
+    "#FF95A8",
+    "#3D3B25",
+    "#ADE2D0",
+    "#1A5354",
+    "#3F4041"
+  ],
+  "rickandmorty_schwifty": [
+    "#FAFD7C",
+    "#82491E",
+    "#24325F",
+    "#B7E4F9",
+    "#FB6467",
+    "#526E2D",
+    "#E762D7",
+    "#E89242",
+    "#FAE48B",
+    "#A6EEE6",
+    "#917C5D",
+    "#69C8EC"
+  ],
+  "startrek_uniform": [
+    "#CC0C00",
+    "#5C88DA",
+    "#84BD00",
+    "#FFCD00",
+    "#7C878E",
+    "#00B5E2",
+    "#00AF66"
+  ],
+  "tron_legacy": [
+    "#FF410D",
+    "#6EE2FF",
+    "#F7C530",
+    "#95CC5E",
+    "#D0DFE6",
+    "#F79D1E",
+    "#748AA6"
+  ],
+  "frontiers": [
+    "#D51317",
+    "#F39200",
+    "#EFD500",
+    "#95C11F",
+    "#007B3D",
+    "#31B7BC",
+    "#0094CD",
+    "#164194",
+    "#6F286A",
+    "#706F6F"
+  ],
+  "flatui": [
+    "#c0392b",
+    "#d35400",
+    "#f39c12",
+    "#27ae60",
+    "#16a085",
+    "#2980b9",
+    "#8e44ad",
+    "#2c3e50",
+    "#7f8c8d",
+    "#bdc3c7"
+  ],
+  "flatui_flattastic": [
+    "#DA4453",
+    "#E95546",
+    "#F6BA59",
+    "#8BC163",
+    "#34BC9D",
+    "#3BB0D6",
+    "#4B8AD6",
+    "#977BD5",
+    "#D870A9",
+    "#E6E9ED",
+    "#AAB2BC",
+    "#434A53"
+  ],
+  "flatui_aussie": [
+    "#F9CA24",
+    "#F0932B",
+    "#EB4D4B",
+    "#6AB04C",
+    "#C7ECEE",
+    "#22A6B3",
+    "#BE2EDD",
+    "#4834D4",
+    "#130F40",
+    "#535C68"
+  ],
+  "gsea": [
+    "#4500AD",
+    "#2700D1",
+    "#6B58EF",
+    "#8888FF",
+    "#C7C1FF",
+    "#D5D5FF",
+    "#FFC0E5",
+    "#FF8989",
+    "#FF7080",
+    "#FF5A5A",
+    "#EF4040",
+    "#D60C00"
+  ],
+  "bs5_blue": [
+    "#cfe2ff",
+    "#9ec5fe",
+    "#6ea8fe",
+    "#3d8bfd",
+    "#0d6efd",
+    "#0a58ca",
+    "#084298",
+    "#052c65",
+    "#031633"
+  ],
+  "bs5_indigo": [
+    "#e0cffc",
+    "#c29ffa",
+    "#a370f7",
+    "#8540f5",
+    "#6610f2",
+    "#520dc2",
+    "#3d0a91",
+    "#290661",
+    "#140330"
+  ],
+  "bs5_purple": [
+    "#e2d9f3",
+    "#c5b3e6",
+    "#a98eda",
+    "#8c68cd",
+    "#6f42c1",
+    "#59359a",
+    "#432874",
+    "#2c1a4d",
+    "#160d27"
+  ],
+  "bs5_pink": [
+    "#f7d6e6",
+    "#efadce",
+    "#e685b5",
+    "#de5c9d",
+    "#d63384",
+    "#ab296a",
+    "#801f4f",
+    "#561435",
+    "#2b0a1a"
+  ],
+  "bs5_red": [
+    "#f8d7da",
+    "#f1aeb5",
+    "#ea868f",
+    "#e35d6a",
+    "#dc3545",
+    "#b02a37",
+    "#842029",
+    "#58151c",
+    "#2c0b0e"
+  ],
+  "bs5_orange": [
+    "#ffe5d0",
+    "#fecba1",
+    "#feb272",
+    "#fd9843",
+    "#fd7e14",
+    "#ca6510",
+    "#984c0c",
+    "#653208",
+    "#331904"
+  ],
+  "bs5_yellow": [
+    "#fff3cd",
+    "#ffe69c",
+    "#ffda6a",
+    "#ffcd39",
+    "#ffc107",
+    "#cc9a06",
+    "#997404",
+    "#664d03",
+    "#332701"
+  ],
+  "bs5_green": [
+    "#d1e7dd",
+    "#a3cfbb",
+    "#75b798",
+    "#479f76",
+    "#198754",
+    "#146c43",
+    "#0f5132",
+    "#0a3622",
+    "#051b11"
+  ],
+  "bs5_teal": [
+    "#d2f4ea",
+    "#a6e9d5",
+    "#79dfc1",
+    "#4dd4ac",
+    "#20c997",
+    "#1aa179",
+    "#13795b",
+    "#0d503c",
+    "#06281e"
+  ],
+  "bs5_cyan": [
+    "#cff4fc",
+    "#9eeaf9",
+    "#6edff6",
+    "#3dd5f3",
+    "#0dcaf0",
+    "#0aa2c0",
+    "#087990",
+    "#055160",
+    "#032830"
+  ],
+  "bs5_gray": [
+    "#f8f9fa",
+    "#e9ecef",
+    "#dee2e6",
+    "#ced4da",
+    "#adb5bd",
+    "#6c757d",
+    "#495057",
+    "#343a40",
+    "#212529"
+  ],
+  "material_red": [
+    "#FFEBEE",
+    "#FFCDD2",
+    "#EF9A9A",
+    "#E57373",
+    "#EF5350",
+    "#F44336",
+    "#E53935",
+    "#D32F2F",
+    "#C62828",
+    "#B71C1C"
+  ],
+  "material_pink": [
+    "#FCE4EC",
+    "#F8BBD0",
+    "#F48FB1",
+    "#F06292",
+    "#EC407A",
+    "#E91E63",
+    "#D81B60",
+    "#C2185B",
+    "#AD1457",
+    "#880E4F"
+  ],
+  "material_purple": [
+    "#F3E5F5",
+    "#E1BEE7",
+    "#CE93D8",
+    "#BA68C8",
+    "#AB47BC",
+    "#9C27B0",
+    "#8E24AA",
+    "#7B1FA2",
+    "#6A1B9A",
+    "#4A148C"
+  ],
+  "material_deep-purple": [
+    "#EDE7F6",
+    "#D1C4E9",
+    "#B39DDB",
+    "#9575CD",
+    "#7E57C2",
+    "#673AB7",
+    "#5E35B1",
+    "#512DA8",
+    "#4527A0",
+    "#311B92"
+  ],
+  "material_indigo": [
+    "#E8EAF6",
+    "#C5CAE9",
+    "#9FA8DA",
+    "#7986CB",
+    "#5C6BC0",
+    "#3F51B5",
+    "#3949AB",
+    "#303F9F",
+    "#283593",
+    "#1A237E"
+  ],
+  "material_blue": [
+    "#E3F2FD",
+    "#BBDEFB",
+    "#90CAF9",
+    "#64B5F6",
+    "#42A5F5",
+    "#2196F3",
+    "#1E88E5",
+    "#1976D2",
+    "#1565C0",
+    "#0D47A1"
+  ],
+  "material_light-blue": [
+    "#E1F5FE",
+    "#B3E5FC",
+    "#81D4FA",
+    "#4FC3F7",
+    "#29B6F6",
+    "#03A9F4",
+    "#039BE5",
+    "#0288D1",
+    "#0277BD",
+    "#01579B"
+  ],
+  "material_cyan": [
+    "#E0F7FA",
+    "#B2EBF2",
+    "#80DEEA",
+    "#4DD0E1",
+    "#26C6DA",
+    "#00BCD4",
+    "#00ACC1",
+    "#0097A7",
+    "#00838F",
+    "#006064"
+  ],
+  "material_teal": [
+    "#E0F2F1",
+    "#B2DFDB",
+    "#80CBC4",
+    "#4DB6AC",
+    "#26A69A",
+    "#009688",
+    "#00897B",
+    "#00796B",
+    "#00695C",
+    "#004D40"
+  ],
+  "material_green": [
+    "#E8F5E9",
+    "#C8E6C9",
+    "#A5D6A7",
+    "#81C784",
+    "#66BB6A",
+    "#4CAF50",
+    "#43A047",
+    "#388E3C",
+    "#2E7D32",
+    "#1B5E20"
+  ],
+  "material_light-green": [
+    "#F1F8E9",
+    "#DCEDC8",
+    "#C5E1A5",
+    "#AED581",
+    "#9CCC65",
+    "#8BC34A",
+    "#7CB342",
+    "#689F38",
+    "#558B2F",
+    "#33691E"
+  ],
+  "material_lime": [
+    "#F9FBE7",
+    "#F0F4C3",
+    "#E6EE9C",
+    "#DCE775",
+    "#D4E157",
+    "#CDDC39",
+    "#C0CA33",
+    "#AFB42B",
+    "#9E9D24",
+    "#827717"
+  ],
+  "material_yellow": [
+    "#FFFDE7",
+    "#FFF9C4",
+    "#FFF59D",
+    "#FFF176",
+    "#FFEE58",
+    "#FFEB3B",
+    "#FDD835",
+    "#FBC02D",
+    "#F9A825",
+    "#F57F17"
+  ],
+  "material_amber": [
+    "#FFF8E1",
+    "#FFECB3",
+    "#FFE082",
+    "#FFD54F",
+    "#FFCA28",
+    "#FFC107",
+    "#FFB300",
+    "#FFA000",
+    "#FF8F00",
+    "#FF6F00"
+  ],
+  "material_orange": [
+    "#FFF3E0",
+    "#FFE0B2",
+    "#FFCC80",
+    "#FFB74D",
+    "#FFA726",
+    "#FF9800",
+    "#FB8C00",
+    "#F57C00",
+    "#EF6C00",
+    "#E65100"
+  ],
+  "material_deep-orange": [
+    "#FBE9E7",
+    "#FFCCBC",
+    "#FFAB91",
+    "#FF8A65",
+    "#FF7043",
+    "#FF5722",
+    "#F4511E",
+    "#E64A19",
+    "#D84315",
+    "#BF360C"
+  ],
+  "material_brown": [
+    "#EFEBE9",
+    "#D7CCC8",
+    "#BCAAA4",
+    "#A1887F",
+    "#8D6E63",
+    "#795548",
+    "#6D4C41",
+    "#5D4037",
+    "#4E342E",
+    "#3E2723"
+  ],
+  "material_grey": [
+    "#FAFAFA",
+    "#F5F5F5",
+    "#EEEEEE",
+    "#E0E0E0",
+    "#BDBDBD",
+    "#9E9E9E",
+    "#757575",
+    "#616161",
+    "#424242",
+    "#212121"
+  ],
+  "material_blue-grey": [
+    "#ECEFF1",
+    "#CFD8DC",
+    "#B0BEC5",
+    "#90A4AE",
+    "#78909C",
+    "#607D8B",
+    "#546E7A",
+    "#455A64",
+    "#37474F",
+    "#263238"
+  ],
+  "tw3_slate": [
+    "#f8fafc",
+    "#f1f5f9",
+    "#e2e8f0",
+    "#cbd5e1",
+    "#94a3b8",
+    "#64748b",
+    "#475569",
+    "#334155",
+    "#1e293b",
+    "#0f172a",
+    "#020617"
+  ],
+  "tw3_gray": [
+    "#f9fafb",
+    "#f3f4f6",
+    "#e5e7eb",
+    "#d1d5db",
+    "#9ca3af",
+    "#6b7280",
+    "#4b5563",
+    "#374151",
+    "#1f2937",
+    "#111827",
+    "#030712"
+  ],
+  "tw3_zinc": [
+    "#fafafa",
+    "#f4f4f5",
+    "#e4e4e7",
+    "#d4d4d8",
+    "#a1a1aa",
+    "#71717a",
+    "#52525b",
+    "#3f3f46",
+    "#27272a",
+    "#18181b",
+    "#09090b"
+  ],
+  "tw3_neutral": [
+    "#fafafa",
+    "#f5f5f5",
+    "#e5e5e5",
+    "#d4d4d4",
+    "#a3a3a3",
+    "#737373",
+    "#525252",
+    "#404040",
+    "#262626",
+    "#171717",
+    "#0a0a0a"
+  ],
+  "tw3_stone": [
+    "#fafaf9",
+    "#f5f5f4",
+    "#e7e5e4",
+    "#d6d3d1",
+    "#a8a29e",
+    "#78716c",
+    "#57534e",
+    "#44403c",
+    "#292524",
+    "#1c1917",
+    "#0c0a09"
+  ],
+  "tw3_red": [
+    "#fef2f2",
+    "#fee2e2",
+    "#fecaca",
+    "#fca5a5",
+    "#f87171",
+    "#ef4444",
+    "#dc2626",
+    "#b91c1c",
+    "#991b1b",
+    "#7f1d1d",
+    "#450a0a"
+  ],
+  "tw3_orange": [
+    "#fff7ed",
+    "#ffedd5",
+    "#fed7aa",
+    "#fdba74",
+    "#fb923c",
+    "#f97316",
+    "#ea580c",
+    "#c2410c",
+    "#9a3412",
+    "#7c2d12",
+    "#431407"
+  ],
+  "tw3_amber": [
+    "#fffbeb",
+    "#fef3c7",
+    "#fde68a",
+    "#fcd34d",
+    "#fbbf24",
+    "#f59e0b",
+    "#d97706",
+    "#b45309",
+    "#92400e",
+    "#78350f",
+    "#451a03"
+  ],
+  "tw3_yellow": [
+    "#fefce8",
+    "#fef9c3",
+    "#fef08a",
+    "#fde047",
+    "#facc15",
+    "#eab308",
+    "#ca8a04",
+    "#a16207",
+    "#854d0e",
+    "#713f12",
+    "#422006"
+  ],
+  "tw3_lime": [
+    "#f7fee7",
+    "#ecfccb",
+    "#d9f99d",
+    "#bef264",
+    "#a3e635",
+    "#84cc16",
+    "#65a30d",
+    "#4d7c0f",
+    "#3f6212",
+    "#365314",
+    "#1a2e05"
+  ],
+  "tw3_green": [
+    "#f0fdf4",
+    "#dcfce7",
+    "#bbf7d0",
+    "#86efac",
+    "#4ade80",
+    "#22c55e",
+    "#16a34a",
+    "#15803d",
+    "#166534",
+    "#14532d",
+    "#052e16"
+  ],
+  "tw3_emerald": [
+    "#ecfdf5",
+    "#d1fae5",
+    "#a7f3d0",
+    "#6ee7b7",
+    "#34d399",
+    "#10b981",
+    "#059669",
+    "#047857",
+    "#065f46",
+    "#064e3b",
+    "#022c22"
+  ],
+  "tw3_teal": [
+    "#f0fdfa",
+    "#ccfbf1",
+    "#99f6e4",
+    "#5eead4",
+    "#2dd4bf",
+    "#14b8a6",
+    "#0d9488",
+    "#0f766e",
+    "#115e59",
+    "#134e4a",
+    "#042f2e"
+  ],
+  "tw3_cyan": [
+    "#ecfeff",
+    "#cffafe",
+    "#a5f3fc",
+    "#67e8f9",
+    "#22d3ee",
+    "#06b6d4",
+    "#0891b2",
+    "#0e7490",
+    "#155e75",
+    "#164e63",
+    "#083344"
+  ],
+  "tw3_sky": [
+    "#f0f9ff",
+    "#e0f2fe",
+    "#bae6fd",
+    "#7dd3fc",
+    "#38bdf8",
+    "#0ea5e9",
+    "#0284c7",
+    "#0369a1",
+    "#075985",
+    "#0c4a6e",
+    "#082f49"
+  ],
+  "tw3_blue": [
+    "#eff6ff",
+    "#dbeafe",
+    "#bfdbfe",
+    "#93c5fd",
+    "#60a5fa",
+    "#3b82f6",
+    "#2563eb",
+    "#1d4ed8",
+    "#1e40af",
+    "#1e3a8a",
+    "#172554"
+  ],
+  "tw3_indigo": [
+    "#eef2ff",
+    "#e0e7ff",
+    "#c7d2fe",
+    "#a5b4fc",
+    "#818cf8",
+    "#6366f1",
+    "#4f46e5",
+    "#4338ca",
+    "#3730a3",
+    "#312e81",
+    "#1e1b4b"
+  ],
+  "tw3_violet": [
+    "#f5f3ff",
+    "#ede9fe",
+    "#ddd6fe",
+    "#c4b5fd",
+    "#a78bfa",
+    "#8b5cf6",
+    "#7c3aed",
+    "#6d28d9",
+    "#5b21b6",
+    "#4c1d95",
+    "#2e1065"
+  ],
+  "tw3_purple": [
+    "#faf5ff",
+    "#f3e8ff",
+    "#e9d5ff",
+    "#d8b4fe",
+    "#c084fc",
+    "#a855f7",
+    "#9333ea",
+    "#7e22ce",
+    "#6b21a8",
+    "#581c87",
+    "#3b0764"
+  ],
+  "tw3_fuchsia": [
+    "#fdf4ff",
+    "#fae8ff",
+    "#f5d0fe",
+    "#f0abfc",
+    "#e879f9",
+    "#d946ef",
+    "#c026d3",
+    "#a21caf",
+    "#86198f",
+    "#701a75",
+    "#4a044e"
+  ],
+  "tw3_pink": [
+    "#fdf2f8",
+    "#fce7f3",
+    "#fbcfe8",
+    "#f9a8d4",
+    "#f472b6",
+    "#ec4899",
+    "#db2777",
+    "#be185d",
+    "#9d174d",
+    "#831843",
+    "#500724"
+  ],
+  "tw3_rose": [
+    "#fff1f2",
+    "#ffe4e6",
+    "#fecdd3",
+    "#fda4af",
+    "#fb7185",
+    "#f43f5e",
+    "#e11d48",
+    "#be123c",
+    "#9f1239",
+    "#881337",
+    "#4c0519"
+  ],
+  "iterm_0x96f_normal": [
+    "#00CDE8",
+    "#FFC739",
+    "#FF666D",
+    "#9DEAF6",
+    "#B3E03A",
+    "#A392E8"
+  ],
+  "iterm_0x96f_bright": [
+    "#1BD5EB",
+    "#FFD05E",
+    "#FF7E83",
+    "#ACEDF8",
+    "#BEE55E",
+    "#B0A3EB"
+  ],
+  "iterm_12-bit Rainbow_normal": [
+    "#3060B0",
+    "#E09040",
+    "#A03050",
+    "#0090C0",
+    "#40D080",
+    "#603090"
+  ],
+  "iterm_12-bit Rainbow_bright": [
+    "#00B0C0",
+    "#E0D000",
+    "#C06060",
+    "#20B0C0",
+    "#90D050",
+    "#801070"
+  ],
+  "iterm_3024 Day_normal": [
+    "#01A0E4",
+    "#FDED02",
+    "#DB2D20",
+    "#B5E4F4",
+    "#01A252",
+    "#A16A94"
+  ],
+  "iterm_3024 Day_bright": [
+    "#807D7C",
+    "#4A4543",
+    "#E8BBD0",
+    "#CDAB53",
+    "#3A3432",
+    "#D6D5D4"
+  ],
+  "iterm_3024 Night_normal": [
+    "#01A0E4",
+    "#FDED02",
+    "#DB2D20",
+    "#B5E4F4",
+    "#01A252",
+    "#A16A94"
+  ],
+  "iterm_3024 Night_bright": [
+    "#807D7C",
+    "#4A4543",
+    "#E8BBD0",
+    "#CDAB53",
+    "#3A3432",
+    "#D6D5D4"
+  ],
+  "iterm_Aardvark Blue_normal": [
+    "#1370D3",
+    "#DBBA00",
+    "#AA342E",
+    "#008EB0",
+    "#4B8C0F",
+    "#C43AC3"
+  ],
+  "iterm_Aardvark Blue_bright": [
+    "#60A4EC",
+    "#FFE763",
+    "#F05B50",
+    "#60B6CB",
+    "#95DC55",
+    "#E26BE2"
+  ],
+  "iterm_Abernathy_normal": [
+    "#1093F5",
+    "#CDCD00",
+    "#CD0000",
+    "#00CDCD",
+    "#00CD00",
+    "#CD00CD"
+  ],
+  "iterm_Abernathy_bright": [
+    "#11B5F6",
+    "#FFFF00",
+    "#FF0000",
+    "#00FFFF",
+    "#00FF00",
+    "#FF00FF"
+  ],
+  "iterm_Adventure Time_normal": [
+    "#0F4AC6",
+    "#E7741E",
+    "#BD0013",
+    "#70A598",
+    "#4AB118",
+    "#665993"
+  ],
+  "iterm_Adventure Time_bright": [
+    "#1997C6",
+    "#EFC11A",
+    "#FC5F5A",
+    "#C8FAF4",
+    "#9EFF6E",
+    "#9B5953"
+  ],
+  "iterm_Adventure_normal": [
+    "#417AB3",
+    "#EEBB6E",
+    "#D84A33",
+    "#BDCFE5",
+    "#5DA602",
+    "#E5C499"
+  ],
+  "iterm_Adventure_bright": [
+    "#97D7EF",
+    "#FFB670",
+    "#D76B42",
+    "#BDCFE5",
+    "#99B52C",
+    "#AA7900"
+  ],
+  "iterm_Adwaita Dark_normal": [
+    "#1E78E4",
+    "#F5C211",
+    "#C01C28",
+    "#0AB9DC",
+    "#2EC27E",
+    "#9841BB"
+  ],
+  "iterm_Adwaita Dark_bright": [
+    "#51A1FF",
+    "#F8E45C",
+    "#ED333B",
+    "#4FD2FD",
+    "#57E389",
+    "#C061CB"
+  ],
+  "iterm_Adwaita_normal": [
+    "#1E78E4",
+    "#F5C211",
+    "#C01C28",
+    "#0AB9DC",
+    "#2EC27E",
+    "#9841BB"
+  ],
+  "iterm_Adwaita_bright": [
+    "#51A1FF",
+    "#F8E45C",
+    "#ED333B",
+    "#4FD2FD",
+    "#57E389",
+    "#C061CB"
+  ],
+  "iterm_Afterglow_normal": [
+    "#6C99BB",
+    "#E5B567",
+    "#AC4142",
+    "#7DD6CF",
+    "#7E8E50",
+    "#9F4E85"
+  ],
+  "iterm_Afterglow_bright": [
+    "#6C99BB",
+    "#E5B567",
+    "#AC4142",
+    "#7DD6CF",
+    "#7E8E50",
+    "#9F4E85"
+  ],
+  "iterm_Alabaster_normal": [
+    "#325CC0",
+    "#CB9000",
+    "#AA3731",
+    "#0083B2",
+    "#448C27",
+    "#7A3E9D"
+  ],
+  "iterm_Alabaster_bright": [
+    "#007ACC",
+    "#FFBC5D",
+    "#F05050",
+    "#00AACB",
+    "#60CB00",
+    "#E64CE6"
+  ],
+  "iterm_Alien Blood_normal": [
+    "#2F6A7F",
+    "#717F24",
+    "#7F2B27",
+    "#327F77",
+    "#2F7E25",
+    "#47587F"
+  ],
+  "iterm_Alien Blood_bright": [
+    "#00AAE0",
+    "#BDE000",
+    "#E08009",
+    "#00E0C4",
+    "#18E000",
+    "#0058E0"
+  ],
+  "iterm_Andromeda_normal": [
+    "#2472C8",
+    "#E5E512",
+    "#CD3131",
+    "#0FA8CD",
+    "#05BC79",
+    "#BC3FBC"
+  ],
+  "iterm_Andromeda_bright": [
+    "#2472C8",
+    "#E5E512",
+    "#CD3131",
+    "#0FA8CD",
+    "#05BC79",
+    "#BC3FBC"
+  ],
+  "iterm_Apple Classic_normal": [
+    "#0225C7",
+    "#C7C400",
+    "#C91B00",
+    "#00C5C7",
+    "#00C200",
+    "#CA30C7"
+  ],
+  "iterm_Apple Classic_bright": [
+    "#6871FF",
+    "#FFFC67",
+    "#FF6E67",
+    "#60FDFF",
+    "#5FFA68",
+    "#FF77FF"
+  ],
+  "iterm_Apple System Colors Light_normal": [
+    "#0869CB",
+    "#CDAC08",
+    "#CC372E",
+    "#479EC2",
+    "#26A439",
+    "#9647BF"
+  ],
+  "iterm_Apple System Colors Light_bright": [
+    "#0A84FF",
+    "#FFD60A",
+    "#FF453A",
+    "#76D6FF",
+    "#32D74B",
+    "#BF5AF2"
+  ],
+  "iterm_Apple System Colors_normal": [
+    "#0869CB",
+    "#CDAC08",
+    "#CC372E",
+    "#479EC2",
+    "#26A439",
+    "#9647BF"
+  ],
+  "iterm_Apple System Colors_bright": [
+    "#0A84FF",
+    "#FFD60A",
+    "#FF453A",
+    "#76D6FF",
+    "#32D74B",
+    "#BF5AF2"
+  ],
+  "iterm_Arcoiris_normal": [
+    "#518BFC",
+    "#FFC656",
+    "#DA2700",
+    "#63FAD5",
+    "#12C258",
+    "#E37BD9"
+  ],
+  "iterm_Arcoiris_bright": [
+    "#B3E8F3",
+    "#FFDDAA",
+    "#FFB9B9",
+    "#BCFFC7",
+    "#E3F6AA",
+    "#CBBAF9"
+  ],
+  "iterm_Ardoise_normal": [
+    "#2465C2",
+    "#FCA93A",
+    "#D3322D",
+    "#64E1B8",
+    "#588B35",
+    "#7332B4"
+  ],
+  "iterm_Ardoise_bright": [
+    "#6AB5F8",
+    "#FFEA51",
+    "#FA5852",
+    "#89FFDB",
+    "#8DC252",
+    "#BE68CA"
+  ],
+  "iterm_Argonaut_normal": [
+    "#008DF8",
+    "#FFB900",
+    "#FF000F",
+    "#00D8EB",
+    "#8CE10B",
+    "#6D43A6"
+  ],
+  "iterm_Argonaut_bright": [
+    "#0092FF",
+    "#FFD242",
+    "#FF2740",
+    "#67FFF0",
+    "#ABE15B",
+    "#9A5FEB"
+  ],
+  "iterm_Arthur_normal": [
+    "#6495ED",
+    "#E8AE5B",
+    "#CD5C5C",
+    "#B0C4DE",
+    "#86AF80",
+    "#DEB887"
+  ],
+  "iterm_Arthur_bright": [
+    "#87CEEB",
+    "#FFA75D",
+    "#CC5533",
+    "#B0C4DE",
+    "#88AA22",
+    "#996600"
+  ],
+  "iterm_Atelier Sulphurpool_normal": [
+    "#3D8FD1",
+    "#C08B30",
+    "#C94922",
+    "#22A2C9",
+    "#AC9739",
+    "#6679CC"
+  ],
+  "iterm_Atelier Sulphurpool_bright": [
+    "#898EA4",
+    "#5E6687",
+    "#C76B29",
+    "#9C637A",
+    "#293256",
+    "#DFE2F1"
+  ],
+  "iterm_Atom One Dark_normal": [
+    "#61AFEF",
+    "#E5C07B",
+    "#E06C75",
+    "#56B6C2",
+    "#98C379",
+    "#C678DD"
+  ],
+  "iterm_Atom One Dark_bright": [
+    "#61AFEF",
+    "#E5C07B",
+    "#E06C75",
+    "#56B6C2",
+    "#98C379",
+    "#C678DD"
+  ],
+  "iterm_Atom One Light_normal": [
+    "#2F5AF3",
+    "#D2B67C",
+    "#DE3E35",
+    "#3F953A",
+    "#3F953A",
+    "#950095"
+  ],
+  "iterm_Atom One Light_bright": [
+    "#2F5AF3",
+    "#D2B67C",
+    "#DE3E35",
+    "#3F953A",
+    "#3F953A",
+    "#A00095"
+  ],
+  "iterm_Atom_normal": [
+    "#85BEFD",
+    "#FFD7B1",
+    "#FD5FF1",
+    "#85BEFD",
+    "#87C38A",
+    "#B9B6FC"
+  ],
+  "iterm_Atom_bright": [
+    "#96CBFE",
+    "#F5FFA8",
+    "#FD5FF1",
+    "#85BEFD",
+    "#94FA36",
+    "#B9B6FC"
+  ],
+  "iterm_Aura_normal": [
+    "#A277FF",
+    "#FFCA85",
+    "#FF6767",
+    "#61FFCA",
+    "#61FFCA",
+    "#A277FF"
+  ],
+  "iterm_Aura_bright": [
+    "#A277FF",
+    "#FFCA85",
+    "#FFCA85",
+    "#61FFCA",
+    "#A277FF",
+    "#A277FF"
+  ],
+  "iterm_Aurora_normal": [
+    "#0321D7",
+    "#FFE66D",
+    "#F0266F",
+    "#03D6B8",
+    "#8FD46D",
+    "#EE5D43"
+  ],
+  "iterm_Aurora_bright": [
+    "#03D6B8",
+    "#FFE66D",
+    "#F92672",
+    "#03D6B8",
+    "#8FD46D",
+    "#EE5D43"
+  ],
+  "iterm_Ayu Light_normal": [
+    "#41A6D9",
+    "#F29718",
+    "#FF3333",
+    "#4DBF99",
+    "#86B300",
+    "#F07178"
+  ],
+  "iterm_Ayu Light_bright": [
+    "#73D8FF",
+    "#FFC94A",
+    "#FF6565",
+    "#7FF1CB",
+    "#B8E532",
+    "#FFA3AA"
+  ],
+  "iterm_Ayu Mirage_normal": [
+    "#6DCBFA",
+    "#FAD07B",
+    "#ED8274",
+    "#90E1C6",
+    "#A6CC70",
+    "#CFBAFA"
+  ],
+  "iterm_Ayu Mirage_bright": [
+    "#73D0FF",
+    "#FFD580",
+    "#F28779",
+    "#95E6CB",
+    "#BAE67E",
+    "#D4BFFF"
+  ],
+  "iterm_Ayu_normal": [
+    "#36A3D9",
+    "#E7C547",
+    "#FF3333",
+    "#95E6CB",
+    "#B8CC52",
+    "#F07178"
+  ],
+  "iterm_Ayu_bright": [
+    "#68D5FF",
+    "#FFF779",
+    "#FF6565",
+    "#C7FFFD",
+    "#EAFE84",
+    "#FFA3AA"
+  ],
+  "iterm_Banana Blueberry_normal": [
+    "#22E8DF",
+    "#E6C62F",
+    "#FF6B7F",
+    "#56B6C2",
+    "#00BD9C",
+    "#DC396A"
+  ],
+  "iterm_Banana Blueberry_bright": [
+    "#91FFF4",
+    "#F9E46B",
+    "#FE9EA1",
+    "#BCF3FF",
+    "#98C379",
+    "#DA70D6"
+  ],
+  "iterm_Batman_normal": [
+    "#737174",
+    "#F4FD22",
+    "#E6DC44",
+    "#62605F",
+    "#C8BE46",
+    "#747271"
+  ],
+  "iterm_Batman_bright": [
+    "#919495",
+    "#FEED6C",
+    "#FFF78E",
+    "#A3A3A6",
+    "#FFF27D",
+    "#9A9A9D"
+  ],
+  "iterm_Belafonte Day_normal": [
+    "#426A79",
+    "#EAA549",
+    "#BE100E",
+    "#989A9C",
+    "#858162",
+    "#97522C"
+  ],
+  "iterm_Belafonte Day_bright": [
+    "#426A79",
+    "#EAA549",
+    "#BE100E",
+    "#989A9C",
+    "#858162",
+    "#97522C"
+  ],
+  "iterm_Belafonte Night_normal": [
+    "#426A79",
+    "#EAA549",
+    "#BE100E",
+    "#989A9C",
+    "#858162",
+    "#97522C"
+  ],
+  "iterm_Belafonte Night_bright": [
+    "#426A79",
+    "#EAA549",
+    "#BE100E",
+    "#989A9C",
+    "#858162",
+    "#97522C"
+  ],
+  "iterm_Birds Of Paradise_normal": [
+    "#5A86AD",
+    "#E99D2A",
+    "#BE2D26",
+    "#74A6AD",
+    "#6BA18A",
+    "#AC80A6"
+  ],
+  "iterm_Birds Of Paradise_bright": [
+    "#B8D3ED",
+    "#D0D150",
+    "#E84627",
+    "#93CFD7",
+    "#95D8BA",
+    "#D19ECB"
+  ],
+  "iterm_Black Metal (Bathory)_normal": [
+    "#888888",
+    "#E78A53",
+    "#5F8787",
+    "#AAAAAA",
+    "#FBCB97",
+    "#999999"
+  ],
+  "iterm_Black Metal (Bathory)_bright": [
+    "#888888",
+    "#E78A53",
+    "#5F8787",
+    "#AAAAAA",
+    "#FBCB97",
+    "#999999"
+  ],
+  "iterm_Black Metal (Burzum)_normal": [
+    "#888888",
+    "#99BBAA",
+    "#5F8787",
+    "#AAAAAA",
+    "#DDEECC",
+    "#999999"
+  ],
+  "iterm_Black Metal (Burzum)_bright": [
+    "#888888",
+    "#99BBAA",
+    "#5F8787",
+    "#AAAAAA",
+    "#DDEECC",
+    "#999999"
+  ],
+  "iterm_Black Metal (Dark Funeral)_normal": [
+    "#888888",
+    "#5F81A5",
+    "#5F8787",
+    "#AAAAAA",
+    "#D0DFEE",
+    "#999999"
+  ],
+  "iterm_Black Metal (Dark Funeral)_bright": [
+    "#888888",
+    "#5F81A5",
+    "#5F8787",
+    "#AAAAAA",
+    "#D0DFEE",
+    "#999999"
+  ],
+  "iterm_Black Metal (Gorgoroth)_normal": [
+    "#888888",
+    "#8C7F70",
+    "#5F8787",
+    "#AAAAAA",
+    "#9B8D7F",
+    "#999999"
+  ],
+  "iterm_Black Metal (Gorgoroth)_bright": [
+    "#888888",
+    "#8C7F70",
+    "#5F8787",
+    "#AAAAAA",
+    "#9B8D7F",
+    "#999999"
+  ],
+  "iterm_Black Metal (Immortal)_normal": [
+    "#888888",
+    "#556677",
+    "#5F8787",
+    "#AAAAAA",
+    "#7799BB",
+    "#999999"
+  ],
+  "iterm_Black Metal (Immortal)_bright": [
+    "#888888",
+    "#556677",
+    "#5F8787",
+    "#AAAAAA",
+    "#7799BB",
+    "#999999"
+  ],
+  "iterm_Black Metal (Khold)_normal": [
+    "#888888",
+    "#974B46",
+    "#5F8787",
+    "#AAAAAA",
+    "#ECEEE3",
+    "#999999"
+  ],
+  "iterm_Black Metal (Khold)_bright": [
+    "#888888",
+    "#974B46",
+    "#5F8787",
+    "#AAAAAA",
+    "#ECEEE3",
+    "#999999"
+  ],
+  "iterm_Black Metal (Marduk)_normal": [
+    "#888888",
+    "#626B67",
+    "#5F8787",
+    "#AAAAAA",
+    "#A5AAA7",
+    "#999999"
+  ],
+  "iterm_Black Metal (Marduk)_bright": [
+    "#888888",
+    "#626B67",
+    "#5F8787",
+    "#AAAAAA",
+    "#A5AAA7",
+    "#999999"
+  ],
+  "iterm_Black Metal (Mayhem)_normal": [
+    "#888888",
+    "#EECC6C",
+    "#5F8787",
+    "#AAAAAA",
+    "#F3ECD4",
+    "#999999"
+  ],
+  "iterm_Black Metal (Mayhem)_bright": [
+    "#888888",
+    "#EECC6C",
+    "#5F8787",
+    "#AAAAAA",
+    "#F3ECD4",
+    "#999999"
+  ],
+  "iterm_Black Metal (Nile)_normal": [
+    "#888888",
+    "#777755",
+    "#5F8787",
+    "#AAAAAA",
+    "#AA9988",
+    "#999999"
+  ],
+  "iterm_Black Metal (Nile)_bright": [
+    "#888888",
+    "#777755",
+    "#5F8787",
+    "#AAAAAA",
+    "#AA9988",
+    "#999999"
+  ],
+  "iterm_Black Metal (Venom)_normal": [
+    "#888888",
+    "#79241F",
+    "#5F8787",
+    "#AAAAAA",
+    "#F8F7F2",
+    "#999999"
+  ],
+  "iterm_Black Metal (Venom)_bright": [
+    "#888888",
+    "#79241F",
+    "#5F8787",
+    "#AAAAAA",
+    "#F8F7F2",
+    "#999999"
+  ],
+  "iterm_Black Metal_normal": [
+    "#888888",
+    "#A06666",
+    "#486E6F",
+    "#AAAAAA",
+    "#DD9999",
+    "#999999"
+  ],
+  "iterm_Black Metal_bright": [
+    "#888888",
+    "#A06666",
+    "#486E6F",
+    "#AAAAAA",
+    "#DD9999",
+    "#999999"
+  ],
+  "iterm_Blazer_normal": [
+    "#7A7AB8",
+    "#B8B87A",
+    "#B87A7A",
+    "#7AB8B8",
+    "#7AB87A",
+    "#B87AB8"
+  ],
+  "iterm_Blazer_bright": [
+    "#BDBDDB",
+    "#DBDBBD",
+    "#DBBDBD",
+    "#BDDBDB",
+    "#BDDBBD",
+    "#DBBDDB"
+  ],
+  "iterm_Blue Berry Pie_normal": [
+    "#90A5BD",
+    "#EAB9A8",
+    "#99246E",
+    "#7E83CC",
+    "#5CB1B3",
+    "#9D54A7"
+  ],
+  "iterm_Blue Berry Pie_bright": [
+    "#39173D",
+    "#7A3188",
+    "#C87272",
+    "#5E6071",
+    "#0A6C7E",
+    "#BC94B7"
+  ],
+  "iterm_Blue Dolphin_normal": [
+    "#82AAFF",
+    "#F4D69F",
+    "#FF8288",
+    "#89EBFF",
+    "#B4E88D",
+    "#E9C1FF"
+  ],
+  "iterm_Blue Dolphin_bright": [
+    "#9CC4FF",
+    "#FFE585",
+    "#FF8B92",
+    "#A3F7FF",
+    "#DDFFA7",
+    "#DDB0F6"
+  ],
+  "iterm_Blue Matrix_normal": [
+    "#00B0FF",
+    "#FFFC58",
+    "#FF5680",
+    "#76C1FF",
+    "#00FF9C",
+    "#D57BFF"
+  ],
+  "iterm_Blue Matrix_bright": [
+    "#6871FF",
+    "#FFFC67",
+    "#FF6E67",
+    "#60FDFF",
+    "#5FFA68",
+    "#D682EC"
+  ],
+  "iterm_Bluloco Dark_normal": [
+    "#3476FF",
+    "#FF936A",
+    "#FC2F52",
+    "#4483AA",
+    "#25A45C",
+    "#7A82DA"
+  ],
+  "iterm_Bluloco Dark_bright": [
+    "#10B1FE",
+    "#F9C859",
+    "#FF6480",
+    "#5FB9BC",
+    "#3FC56B",
+    "#FF78F8"
+  ],
+  "iterm_Bluloco Light_normal": [
+    "#275FE4",
+    "#DF631C",
+    "#D52753",
+    "#27618D",
+    "#23974A",
+    "#823FF1"
+  ],
+  "iterm_Bluloco Light_bright": [
+    "#0099E1",
+    "#C5A332",
+    "#FF6480",
+    "#6D93BB",
+    "#3CBC66",
+    "#CE33C0"
+  ],
+  "iterm_Borland_normal": [
+    "#96CBFE",
+    "#FFFFB6",
+    "#FF6C60",
+    "#C6C5FE",
+    "#A8FF60",
+    "#FF73FD"
+  ],
+  "iterm_Borland_bright": [
+    "#B5DCFF",
+    "#FFFFCC",
+    "#FFB6B0",
+    "#DFDFFE",
+    "#CEFFAC",
+    "#FF9CFE"
+  ],
+  "iterm_Box_normal": [
+    "#0D73CC",
+    "#CECB00",
+    "#CC0403",
+    "#0DCDCD",
+    "#19CB00",
+    "#CB1ED1"
+  ],
+  "iterm_Box_bright": [
+    "#1A8FFF",
+    "#FFFD00",
+    "#F2201F",
+    "#14FFFF",
+    "#23FD00",
+    "#FD28FF"
+  ],
+  "iterm_Breadog_normal": [
+    "#005CB4",
+    "#8B4C00",
+    "#B10B00",
+    "#006A78",
+    "#007232",
+    "#9B0097"
+  ],
+  "iterm_Breadog_bright": [
+    "#0074E1",
+    "#AE6000",
+    "#DE1100",
+    "#008697",
+    "#008F40",
+    "#C300BD"
+  ],
+  "iterm_Breeze_normal": [
+    "#1D99F3",
+    "#F67400",
+    "#ED1515",
+    "#1ABC9C",
+    "#11D116",
+    "#9B59B6"
+  ],
+  "iterm_Breeze_bright": [
+    "#3DAEE9",
+    "#FDBC4B",
+    "#C0392B",
+    "#16A085",
+    "#1CDC9A",
+    "#8E44AD"
+  ],
+  "iterm_Bright Lights_normal": [
+    "#76D4FF",
+    "#FFC251",
+    "#FF355B",
+    "#6CBFB5",
+    "#B7E876",
+    "#BA76E7"
+  ],
+  "iterm_Bright Lights_bright": [
+    "#76D5FF",
+    "#FFC251",
+    "#FF355B",
+    "#6CBFB5",
+    "#B7E876",
+    "#BA76E7"
+  ],
+  "iterm_Broadcast_normal": [
+    "#6D9CBE",
+    "#FFD24A",
+    "#DA4939",
+    "#6E9CBE",
+    "#519F50",
+    "#D0D0FF"
+  ],
+  "iterm_Broadcast_bright": [
+    "#9FCEF0",
+    "#FFFF7C",
+    "#FF7B6B",
+    "#A0CEF0",
+    "#83D182",
+    "#FFFFFF"
+  ],
+  "iterm_Brogrammer_normal": [
+    "#2A84D2",
+    "#ECBA0F",
+    "#F81118",
+    "#1081D6",
+    "#2DC55E",
+    "#4E5AB7"
+  ],
+  "iterm_Brogrammer_bright": [
+    "#1081D6",
+    "#F3BD09",
+    "#DE352E",
+    "#0F7DDB",
+    "#1DD361",
+    "#5350B9"
+  ],
+  "iterm_Builtin Dark_normal": [
+    "#0000BB",
+    "#BBBB00",
+    "#BB0000",
+    "#00BBBB",
+    "#00BB00",
+    "#BB00BB"
+  ],
+  "iterm_Builtin Dark_bright": [
+    "#5555FF",
+    "#FFFF55",
+    "#FF5555",
+    "#55FFFF",
+    "#55FF55",
+    "#FF55FF"
+  ],
+  "iterm_Builtin Light_normal": [
+    "#0000BB",
+    "#BBBB00",
+    "#BB0000",
+    "#00BBBB",
+    "#00BB00",
+    "#BB00BB"
+  ],
+  "iterm_Builtin Light_bright": [
+    "#5555FF",
+    "#FFFF55",
+    "#FF5555",
+    "#55FFFF",
+    "#55FF55",
+    "#FF55FF"
+  ],
+  "iterm_Builtin Pastel Dark_normal": [
+    "#96CBFE",
+    "#FFFFB6",
+    "#FF6C60",
+    "#C6C5FE",
+    "#A8FF60",
+    "#FF73FD"
+  ],
+  "iterm_Builtin Pastel Dark_bright": [
+    "#B5DCFF",
+    "#FFFFCC",
+    "#FFB6B0",
+    "#DFDFFE",
+    "#CEFFAC",
+    "#FF9CFE"
+  ],
+  "iterm_Builtin Solarized Dark_normal": [
+    "#268BD2",
+    "#B58900",
+    "#DC322F",
+    "#2AA198",
+    "#859900",
+    "#D33682"
+  ],
+  "iterm_Builtin Solarized Dark_bright": [
+    "#839496",
+    "#657B83",
+    "#CB4B16",
+    "#93A1A1",
+    "#586E75",
+    "#6C71C4"
+  ],
+  "iterm_Builtin Solarized Light_normal": [
+    "#268BD2",
+    "#B58900",
+    "#DC322F",
+    "#2AA198",
+    "#859900",
+    "#D33682"
+  ],
+  "iterm_Builtin Solarized Light_bright": [
+    "#839496",
+    "#657B83",
+    "#CB4B16",
+    "#93A1A1",
+    "#586E75",
+    "#6C71C4"
+  ],
+  "iterm_Builtin Tango Dark_normal": [
+    "#3465A4",
+    "#C4A000",
+    "#CC0000",
+    "#06989A",
+    "#4E9A06",
+    "#75507B"
+  ],
+  "iterm_Builtin Tango Dark_bright": [
+    "#729FCF",
+    "#FCE94F",
+    "#EF2929",
+    "#34E2E2",
+    "#8AE234",
+    "#AD7FA8"
+  ],
+  "iterm_Builtin Tango Light_normal": [
+    "#3465A4",
+    "#C4A000",
+    "#CC0000",
+    "#06989A",
+    "#4E9A06",
+    "#75507B"
+  ],
+  "iterm_Builtin Tango Light_bright": [
+    "#729FCF",
+    "#FCE94F",
+    "#EF2929",
+    "#34E2E2",
+    "#8AE234",
+    "#AD7FA8"
+  ],
+  "iterm_C64_normal": [
+    "#40318D",
+    "#BFCE72",
+    "#883932",
+    "#67B6BD",
+    "#55A049",
+    "#8B3F96"
+  ],
+  "iterm_C64_bright": [
+    "#40318D",
+    "#BFCE72",
+    "#883932",
+    "#67B6BD",
+    "#55A049",
+    "#8B3F96"
+  ],
+  "iterm_Calamity_normal": [
+    "#3B79C7",
+    "#E9D7A5",
+    "#FC644D",
+    "#74D3DE",
+    "#A5F69C",
+    "#F92672"
+  ],
+  "iterm_Calamity_bright": [
+    "#3B79C7",
+    "#E9D7A5",
+    "#FC644D",
+    "#74D3DE",
+    "#A5F69C",
+    "#F92672"
+  ],
+  "iterm_Carbonfox_normal": [
+    "#78A9FF",
+    "#08BDBA",
+    "#EE5396",
+    "#33B1FF",
+    "#25BE6A",
+    "#BE95FF"
+  ],
+  "iterm_Carbonfox_bright": [
+    "#8CB6FF",
+    "#2DC7C4",
+    "#F16DA6",
+    "#52BDFF",
+    "#46C880",
+    "#C8A5FF"
+  ],
+  "iterm_Catppuccin Frappe_normal": [
+    "#8CAAEE",
+    "#E5C890",
+    "#E78284",
+    "#81C8BE",
+    "#A6D189",
+    "#F4B8E4"
+  ],
+  "iterm_Catppuccin Frappe_bright": [
+    "#7B9EF0",
+    "#D9BA73",
+    "#E67172",
+    "#5ABFB5",
+    "#8EC772",
+    "#F2A4DB"
+  ],
+  "iterm_Catppuccin Latte_normal": [
+    "#1E66F5",
+    "#DF8E1D",
+    "#D20F39",
+    "#179299",
+    "#40A02B",
+    "#EA76CB"
+  ],
+  "iterm_Catppuccin Latte_bright": [
+    "#456EFF",
+    "#EEA02D",
+    "#DE293E",
+    "#2D9FA8",
+    "#49AF3D",
+    "#FE85D8"
+  ],
+  "iterm_Catppuccin Macchiato_normal": [
+    "#8AADF4",
+    "#EED49F",
+    "#ED8796",
+    "#8BD5CA",
+    "#A6DA95",
+    "#F5BDE6"
+  ],
+  "iterm_Catppuccin Macchiato_bright": [
+    "#78A1F6",
+    "#E1C682",
+    "#EC7486",
+    "#63CBC0",
+    "#8CCF7F",
+    "#F2A9DD"
+  ],
+  "iterm_Catppuccin Mocha_normal": [
+    "#89B4FA",
+    "#F9E2AF",
+    "#F38BA8",
+    "#94E2D5",
+    "#A6E3A1",
+    "#F5C2E7"
+  ],
+  "iterm_Catppuccin Mocha_bright": [
+    "#74A8FC",
+    "#EBD391",
+    "#F37799",
+    "#6BD7CA",
+    "#89D88B",
+    "#F2AEDE"
+  ],
+  "iterm_CGA_normal": [
+    "#0000AA",
+    "#AA5500",
+    "#AA0000",
+    "#00AAAA",
+    "#00AA00",
+    "#AA00AA"
+  ],
+  "iterm_CGA_bright": [
+    "#5555FF",
+    "#FFFF55",
+    "#FF5555",
+    "#55FFFF",
+    "#55FF55",
+    "#FF55FF"
+  ],
+  "iterm_Chalk_normal": [
+    "#2A7FAC",
+    "#B9AC4A",
+    "#B23A52",
+    "#44A799",
+    "#789B6A",
+    "#BD4F5A"
+  ],
+  "iterm_Chalk_bright": [
+    "#4196FF",
+    "#FFEB62",
+    "#F24840",
+    "#53CDBD",
+    "#80C470",
+    "#FC5275"
+  ],
+  "iterm_Chalkboard_normal": [
+    "#7372C3",
+    "#C2C372",
+    "#C37372",
+    "#72C2C3",
+    "#72C373",
+    "#C372C2"
+  ],
+  "iterm_Chalkboard_bright": [
+    "#AAAADB",
+    "#DADBAA",
+    "#DBAAAA",
+    "#AADADB",
+    "#AADBAA",
+    "#DBAADA"
+  ],
+  "iterm_Challenger Deep_normal": [
+    "#65B2FF",
+    "#FFB378",
+    "#FF5458",
+    "#63F2F1",
+    "#62D196",
+    "#906CFF"
+  ],
+  "iterm_Challenger Deep_bright": [
+    "#91DDFF",
+    "#FFE9AA",
+    "#FF8080",
+    "#AAFFE4",
+    "#95FFA4",
+    "#C991E1"
+  ],
+  "iterm_Chester_normal": [
+    "#288AD6",
+    "#FFC83F",
+    "#FA5E5B",
+    "#28DDDE",
+    "#16C98D",
+    "#D34590"
+  ],
+  "iterm_Chester_bright": [
+    "#278AD6",
+    "#FEEF6D",
+    "#FA5E5B",
+    "#27DEDE",
+    "#16C98D",
+    "#D34590"
+  ],
+  "iterm_Ciapre_normal": [
+    "#576D8C",
+    "#CC8B3F",
+    "#810009",
+    "#5C4F4B",
+    "#48513B",
+    "#724D7C"
+  ],
+  "iterm_Ciapre_bright": [
+    "#3097C6",
+    "#DCDF7C",
+    "#AC3835",
+    "#F3DBB2",
+    "#A6A75D",
+    "#D33061"
+  ],
+  "iterm_Citruszest_normal": [
+    "#00BFFF",
+    "#FFD400",
+    "#FF5454",
+    "#48D1CC",
+    "#00CC7A",
+    "#FF90FE"
+  ],
+  "iterm_Citruszest_bright": [
+    "#33CFFF",
+    "#FFFF00",
+    "#FF1A75",
+    "#00FFF2",
+    "#1AFFA3",
+    "#FFB2FE"
+  ],
+  "iterm_CLRS_normal": [
+    "#135CD0",
+    "#FA701D",
+    "#F8282A",
+    "#33C3C1",
+    "#328A5D",
+    "#9F00BD"
+  ],
+  "iterm_CLRS_bright": [
+    "#1670FF",
+    "#FDD727",
+    "#FB0416",
+    "#3AD5CE",
+    "#2CC631",
+    "#E900B0"
+  ],
+  "iterm_Cobalt Neon_normal": [
+    "#8FF586",
+    "#E9E75C",
+    "#FF2320",
+    "#8FF586",
+    "#3BA5FF",
+    "#781AA0"
+  ],
+  "iterm_Cobalt Neon_bright": [
+    "#3C7DD2",
+    "#E9F06D",
+    "#D4312E",
+    "#6CBC67",
+    "#8FF586",
+    "#8230A7"
+  ],
+  "iterm_Cobalt Next Dark_normal": [
+    "#409DD4",
+    "#FFC64C",
+    "#F94967",
+    "#37B5B4",
+    "#8CC98F",
+    "#CBA3C7"
+  ],
+  "iterm_Cobalt Next Dark_bright": [
+    "#7AC0EB",
+    "#FFDC91",
+    "#E47E8B",
+    "#84E4E3",
+    "#BADDBB",
+    "#F3CCEF"
+  ],
+  "iterm_Cobalt Next Minimal_normal": [
+    "#409DD4",
+    "#FFC64C",
+    "#FF657A",
+    "#37B5B4",
+    "#8CC98F",
+    "#CBA3C7"
+  ],
+  "iterm_Cobalt Next Minimal_bright": [
+    "#7AC0EB",
+    "#FFDC91",
+    "#E47E8B",
+    "#84E4E3",
+    "#BADDBB",
+    "#F3CCEF"
+  ],
+  "iterm_Cobalt Next_normal": [
+    "#409DD4",
+    "#FFC64C",
+    "#FF527B",
+    "#37B5B4",
+    "#8CC98F",
+    "#CBA3C7"
+  ],
+  "iterm_Cobalt Next_bright": [
+    "#7AC0EB",
+    "#FFDC91",
+    "#E47E8B",
+    "#84E4E3",
+    "#BADDBB",
+    "#F3CCEF"
+  ],
+  "iterm_Cobalt2_normal": [
+    "#1460D2",
+    "#FFE50A",
+    "#FF0000",
+    "#00BBBB",
+    "#38DE21",
+    "#FF005D"
+  ],
+  "iterm_Cobalt2_bright": [
+    "#5555FF",
+    "#EDC809",
+    "#F40E17",
+    "#6AE3FA",
+    "#3BD01D",
+    "#FF55FF"
+  ],
+  "iterm_Coffee Theme_normal": [
+    "#0225C7",
+    "#C7C400",
+    "#C91B00",
+    "#00C5C7",
+    "#00C200",
+    "#CA30C7"
+  ],
+  "iterm_Coffee Theme_bright": [
+    "#6871FF",
+    "#FFFC67",
+    "#FF6E67",
+    "#60FDFF",
+    "#5FFA68",
+    "#FF77FF"
+  ],
+  "iterm_Crayon Pony Fish_normal": [
+    "#8C87B0",
+    "#AB311B",
+    "#91002B",
+    "#E8A866",
+    "#579524",
+    "#692F50"
+  ],
+  "iterm_Crayon Pony Fish_bright": [
+    "#CFC9FF",
+    "#C8381D",
+    "#C5255D",
+    "#FFCEAF",
+    "#8DFF57",
+    "#FC6CBA"
+  ],
+  "iterm_Cursor Dark_normal": [
+    "#81A1C1",
+    "#EBCB8B",
+    "#BF616A",
+    "#88C0D0",
+    "#A3BE8C",
+    "#B48EAD"
+  ],
+  "iterm_Cursor Dark_bright": [
+    "#81A1C1",
+    "#EBCB8B",
+    "#BF616A",
+    "#88C0D0",
+    "#A3BE8C",
+    "#B48EAD"
+  ],
+  "iterm_Cutie Pro_normal": [
+    "#42D9C5",
+    "#F58669",
+    "#F56E7F",
+    "#37CB8A",
+    "#BEC975",
+    "#D286B7"
+  ],
+  "iterm_Cutie Pro_bright": [
+    "#80C5DE",
+    "#F1BB79",
+    "#E5A1A3",
+    "#9DCCBB",
+    "#E8D6A7",
+    "#B294BB"
+  ],
+  "iterm_Cyberdyne_normal": [
+    "#0071CF",
+    "#D2A700",
+    "#FF8373",
+    "#6BFFDD",
+    "#00C172",
+    "#FF90FE"
+  ],
+  "iterm_Cyberdyne_bright": [
+    "#C2E3FF",
+    "#FFFED5",
+    "#FFC4BE",
+    "#E6E7FE",
+    "#D6FCBA",
+    "#FFB2FE"
+  ],
+  "iterm_Cyberpunk Scarlet Protocol_normal": [
+    "#0271B6",
+    "#FAF945",
+    "#FF0051",
+    "#00C5C7",
+    "#01DC84",
+    "#C930C7"
+  ],
+  "iterm_Cyberpunk Scarlet Protocol_bright": [
+    "#6871FF",
+    "#FFFC67",
+    "#FF6E67",
+    "#60FDFF",
+    "#60FA68",
+    "#BD35EC"
+  ],
+  "iterm_Cyberpunk_normal": [
+    "#00BFFF",
+    "#FFFA6A",
+    "#FF7092",
+    "#86CBFE",
+    "#00FBAC",
+    "#DF95FF"
+  ],
+  "iterm_Cyberpunk_bright": [
+    "#1BCCFD",
+    "#FFF787",
+    "#FF8AA4",
+    "#99D6FC",
+    "#21F6BC",
+    "#E6AEFE"
+  ],
+  "iterm_Dark Modern_normal": [
+    "#0078D4",
+    "#9E6A03",
+    "#F74949",
+    "#1DB4D6",
+    "#2EA043",
+    "#D01273"
+  ],
+  "iterm_Dark Modern_bright": [
+    "#3B8EEA",
+    "#F5F543",
+    "#DC5452",
+    "#29B8DB",
+    "#23D18B",
+    "#D670D6"
+  ],
+  "iterm_Dark Pastel_normal": [
+    "#5555FF",
+    "#FFFF55",
+    "#FF5555",
+    "#55FFFF",
+    "#55FF55",
+    "#FF55FF"
+  ],
+  "iterm_Dark Pastel_bright": [
+    "#5555FF",
+    "#FFFF55",
+    "#FF5555",
+    "#55FFFF",
+    "#55FF55",
+    "#FF55FF"
+  ],
+  "iterm_Dark+_normal": [
+    "#2472C8",
+    "#E5E510",
+    "#CD3131",
+    "#11A8CD",
+    "#0DBC79",
+    "#BC3FBC"
+  ],
+  "iterm_Dark+_bright": [
+    "#3B8EEA",
+    "#F5F543",
+    "#F14C4C",
+    "#29B8DB",
+    "#23D18B",
+    "#D670D6"
+  ],
+  "iterm_Darkermatrix_normal": [
+    "#00CB6B",
+    "#595900",
+    "#002E18",
+    "#125459",
+    "#6FA64C",
+    "#412A4D"
+  ],
+  "iterm_Darkermatrix_bright": [
+    "#00FF87",
+    "#E2E500",
+    "#00381D",
+    "#176C73",
+    "#90D762",
+    "#412A4D"
+  ],
+  "iterm_Darkmatrix_normal": [
+    "#2C9A84",
+    "#7E8000",
+    "#006536",
+    "#114D53",
+    "#6FA64C",
+    "#452D53"
+  ],
+  "iterm_Darkmatrix_bright": [
+    "#46D8B8",
+    "#E2E500",
+    "#00733D",
+    "#12545A",
+    "#90D762",
+    "#4A3059"
+  ],
+  "iterm_Darkside_normal": [
+    "#1C98E8",
+    "#F2D42C",
+    "#E8341C",
+    "#1C98E8",
+    "#68C256",
+    "#8E69C9"
+  ],
+  "iterm_Darkside_bright": [
+    "#387CD3",
+    "#EFD64B",
+    "#E05A4F",
+    "#3D97E2",
+    "#77B869",
+    "#957BBE"
+  ],
+  "iterm_Dawnfox_normal": [
+    "#286983",
+    "#EA9D34",
+    "#B4637A",
+    "#56949F",
+    "#618774",
+    "#907AA9"
+  ],
+  "iterm_Dawnfox_bright": [
+    "#2D81A3",
+    "#EEA846",
+    "#C26D85",
+    "#5CA7B4",
+    "#629F81",
+    "#9A80B9"
+  ],
+  "iterm_Dayfox_normal": [
+    "#2848A9",
+    "#AC5402",
+    "#A5222F",
+    "#287980",
+    "#396847",
+    "#6E33CE"
+  ],
+  "iterm_Dayfox_bright": [
+    "#4863B6",
+    "#B86E28",
+    "#B3434E",
+    "#488D93",
+    "#577F63",
+    "#8452D5"
+  ],
+  "iterm_Deep_normal": [
+    "#5665FF",
+    "#D9BD26",
+    "#D70005",
+    "#50D2DA",
+    "#1CD915",
+    "#B052DA"
+  ],
+  "iterm_Deep_bright": [
+    "#9FA9FF",
+    "#FEDC2B",
+    "#FB0007",
+    "#8DF9FF",
+    "#22FF18",
+    "#E09AFF"
+  ],
+  "iterm_Desert_normal": [
+    "#CD853F",
+    "#F0E68C",
+    "#FF2B2B",
+    "#FFA0A0",
+    "#98FB98",
+    "#FFDEAD"
+  ],
+  "iterm_Desert_bright": [
+    "#87CEFF",
+    "#FFFF55",
+    "#FF5555",
+    "#FFD700",
+    "#55FF55",
+    "#FF55FF"
+  ],
+  "iterm_Detuned_normal": [
+    "#0094D9",
+    "#E6DA73",
+    "#FE4386",
+    "#50B7D9",
+    "#A6E32D",
+    "#9B37FF"
+  ],
+  "iterm_Detuned_bright": [
+    "#00BEFF",
+    "#FFF27F",
+    "#FA80AC",
+    "#5ED7FF",
+    "#BDE371",
+    "#BE9EFF"
+  ],
+  "iterm_Dimidium_normal": [
+    "#0575D8",
+    "#DB9C11",
+    "#CF494C",
+    "#1DB6BB",
+    "#60B442",
+    "#AF5ED2"
+  ],
+  "iterm_Dimidium_bright": [
+    "#688DFD",
+    "#FCCD1A",
+    "#FF643B",
+    "#32E0FB",
+    "#37E57B",
+    "#ED6FE9"
+  ],
+  "iterm_Dimmed Monokai_normal": [
+    "#4F76A1",
+    "#C5A635",
+    "#BE3F48",
+    "#578FA4",
+    "#879A3B",
+    "#855C8D"
+  ],
+  "iterm_Dimmed Monokai_bright": [
+    "#186DE3",
+    "#C47033",
+    "#FB001F",
+    "#2E706D",
+    "#0F722F",
+    "#FB0067"
+  ],
+  "iterm_Django Reborn Again_normal": [
+    "#245032",
+    "#FFE862",
+    "#FD6209",
+    "#9DF39F",
+    "#41A83E",
+    "#F8F8F8"
+  ],
+  "iterm_Django Reborn Again_bright": [
+    "#568264",
+    "#FFFF94",
+    "#FF943B",
+    "#CFFFD1",
+    "#73DA70",
+    "#FFFFFF"
+  ],
+  "iterm_Django Smooth_normal": [
+    "#989898",
+    "#FFE862",
+    "#FD6209",
+    "#9DF39F",
+    "#41A83E",
+    "#F8F8F8"
+  ],
+  "iterm_Django Smooth_bright": [
+    "#CACACA",
+    "#FFFF94",
+    "#FF943B",
+    "#CFFFD1",
+    "#73DA70",
+    "#FFFFFF"
+  ],
+  "iterm_Django_normal": [
+    "#245032",
+    "#FFE862",
+    "#FD6209",
+    "#9DF39F",
+    "#41A83E",
+    "#F8F8F8"
+  ],
+  "iterm_Django_bright": [
+    "#568264",
+    "#FFFF94",
+    "#FF943B",
+    "#CFFFD1",
+    "#73DA70",
+    "#FFFFFF"
+  ],
+  "iterm_Doom One_normal": [
+    "#A9A1E1",
+    "#ECBE7B",
+    "#FF6C6B",
+    "#51AFEF",
+    "#98BE65",
+    "#C678DD"
+  ],
+  "iterm_Doom One_bright": [
+    "#A9A1E1",
+    "#ECBE7B",
+    "#FF6655",
+    "#51AFEF",
+    "#99BB66",
+    "#C678DD"
+  ],
+  "iterm_Doom Peacock_normal": [
+    "#2A6CC6",
+    "#BCD42A",
+    "#CB4B16",
+    "#5699AF",
+    "#26A6A6",
+    "#A9A1E1"
+  ],
+  "iterm_Doom Peacock_bright": [
+    "#51AFEF",
+    "#E6F972",
+    "#FF5D38",
+    "#46D9FF",
+    "#98BE65",
+    "#C678DD"
+  ],
+  "iterm_Dot Gov_normal": [
+    "#17B2E0",
+    "#F6BB34",
+    "#BF091D",
+    "#8BD2ED",
+    "#3D9751",
+    "#7830B0"
+  ],
+  "iterm_Dot Gov_bright": [
+    "#17B2E0",
+    "#F6BB34",
+    "#BF091D",
+    "#8BD2ED",
+    "#3D9751",
+    "#7830B0"
+  ],
+  "iterm_Dracula_normal": [
+    "#BD93F9",
+    "#F1FA8C",
+    "#FF5555",
+    "#8BE9FD",
+    "#50FA7B",
+    "#FF79C6"
+  ],
+  "iterm_Dracula_bright": [
+    "#D6ACFF",
+    "#FFFFA5",
+    "#FF6E6E",
+    "#A4FFFF",
+    "#69FF94",
+    "#FF92DF"
+  ],
+  "iterm_Dracula+_normal": [
+    "#82AAFF",
+    "#FFCB6B",
+    "#FF5555",
+    "#8BE9FD",
+    "#50FA7B",
+    "#C792EA"
+  ],
+  "iterm_Dracula+_bright": [
+    "#D6ACFF",
+    "#FFCB6B",
+    "#FF6E6E",
+    "#A4FFFF",
+    "#69FF94",
+    "#FF92DF"
+  ],
+  "iterm_Duckbones_normal": [
+    "#00A3CB",
+    "#E39500",
+    "#E03600",
+    "#00A3CB",
+    "#5DCD97",
+    "#795CCC"
+  ],
+  "iterm_Duckbones_bright": [
+    "#00B4E0",
+    "#F6A100",
+    "#FF4821",
+    "#00B4E0",
+    "#58DB9E",
+    "#B3A1E6"
+  ],
+  "iterm_Duotone Dark_normal": [
+    "#FFC284",
+    "#D9B76E",
+    "#D9393E",
+    "#2488FF",
+    "#2DCD73",
+    "#DE8D40"
+  ],
+  "iterm_Duotone Dark_bright": [
+    "#FFC284",
+    "#D9B76E",
+    "#D9393E",
+    "#2488FF",
+    "#2DCD73",
+    "#DE8D40"
+  ],
+  "iterm_Duskfox_normal": [
+    "#569FBA",
+    "#F6C177",
+    "#EB6F92",
+    "#9CCFD8",
+    "#A3BE8C",
+    "#C4A7E7"
+  ],
+  "iterm_Duskfox_bright": [
+    "#65B1CD",
+    "#F9CB8C",
+    "#F083A2",
+    "#A6DAE3",
+    "#B1D196",
+    "#CCB1ED"
+  ],
+  "iterm_Earthsong_normal": [
+    "#1398B9",
+    "#F5AE2E",
+    "#C94234",
+    "#509552",
+    "#85C54C",
+    "#D0633D"
+  ],
+  "iterm_Earthsong_bright": [
+    "#5FDAFF",
+    "#E0D561",
+    "#FF645A",
+    "#84F088",
+    "#98E036",
+    "#FF9269"
+  ],
+  "iterm_Electron Highlighter_normal": [
+    "#77ABFF",
+    "#FFD7A9",
+    "#FF6C8D",
+    "#00FDFF",
+    "#00FFC3",
+    "#DAA4F4"
+  ],
+  "iterm_Electron Highlighter_bright": [
+    "#77ABFF",
+    "#FFD7A9",
+    "#FF6C8D",
+    "#00FDFF",
+    "#00FFC3",
+    "#DAA4F4"
+  ],
+  "iterm_Elegant_normal": [
+    "#8DABE1",
+    "#FFCB8B",
+    "#FF0257",
+    "#78CCF0",
+    "#85CC95",
+    "#C792EB"
+  ],
+  "iterm_Elegant_bright": [
+    "#8DABE1",
+    "#FFCB8B",
+    "#FF0057",
+    "#3FACEF",
+    "#85CC95",
+    "#C792EB"
+  ],
+  "iterm_Elemental_normal": [
+    "#497F7D",
+    "#7F7111",
+    "#98290F",
+    "#387F58",
+    "#479A43",
+    "#7F4E2F"
+  ],
+  "iterm_Elemental_bright": [
+    "#79D9D9",
+    "#D69927",
+    "#E0502A",
+    "#59D599",
+    "#61E070",
+    "#CD7C54"
+  ],
+  "iterm_Elementary_normal": [
+    "#063B8C",
+    "#FDB40C",
+    "#D71C15",
+    "#2595E1",
+    "#5AA513",
+    "#E40038"
+  ],
+  "iterm_Elementary_bright": [
+    "#0955FF",
+    "#FEC80E",
+    "#FC1C18",
+    "#3EA8FC",
+    "#6BC219",
+    "#FB0050"
+  ],
+  "iterm_Embark_normal": [
+    "#57C7FF",
+    "#FFE9AA",
+    "#F0719B",
+    "#87DFEB",
+    "#A1EFD3",
+    "#C792EA"
+  ],
+  "iterm_Embark_bright": [
+    "#1DA0E2",
+    "#FFB378",
+    "#F02E6E",
+    "#63F2F1",
+    "#2CE592",
+    "#A742EA"
+  ],
+  "iterm_Embers Dark_normal": [
+    "#6D5782",
+    "#6D8257",
+    "#826D57",
+    "#576D82",
+    "#57826D",
+    "#82576D"
+  ],
+  "iterm_Embers Dark_bright": [
+    "#8A8075",
+    "#433B32",
+    "#828257",
+    "#825757",
+    "#2C2620",
+    "#BEB6AE"
+  ],
+  "iterm_ENCOM_normal": [
+    "#0081FF",
+    "#FFD000",
+    "#9F0000",
+    "#008B8B",
+    "#008B00",
+    "#BC00CA"
+  ],
+  "iterm_ENCOM_bright": [
+    "#0000FF",
+    "#FFFF00",
+    "#FF0000",
+    "#00CDCD",
+    "#00EE00",
+    "#FF00FF"
+  ],
+  "iterm_Espresso Libre_normal": [
+    "#0066FF",
+    "#F0E53A",
+    "#CC0000",
+    "#06989A",
+    "#1A921C",
+    "#C5656B"
+  ],
+  "iterm_Espresso Libre_bright": [
+    "#43A8ED",
+    "#FFFB5C",
+    "#EF2929",
+    "#34E2E2",
+    "#9AFF87",
+    "#FF818A"
+  ],
+  "iterm_Espresso_normal": [
+    "#6C99BB",
+    "#FFC66D",
+    "#D25252",
+    "#BED6FF",
+    "#A5C261",
+    "#D197D9"
+  ],
+  "iterm_Espresso_bright": [
+    "#8AB7D9",
+    "#E1E48B",
+    "#F00C0C",
+    "#DCF4FF",
+    "#C2E075",
+    "#EFB5F7"
+  ],
+  "iterm_Everblush_normal": [
+    "#67B0E8",
+    "#E5C76B",
+    "#E57474",
+    "#6CBFBF",
+    "#8CCF7E",
+    "#C47FD5"
+  ],
+  "iterm_Everblush_bright": [
+    "#71BAF2",
+    "#F4D67A",
+    "#EF7E7E",
+    "#67CBE7",
+    "#96D988",
+    "#CE89DF"
+  ],
+  "iterm_Everforest Dark Hard_normal": [
+    "#7FBBB3",
+    "#DBBC7F",
+    "#E67E80",
+    "#83C092",
+    "#A7C080",
+    "#D699B6"
+  ],
+  "iterm_Everforest Dark Hard_bright": [
+    "#3A94C5",
+    "#DFA000",
+    "#F85552",
+    "#35A77C",
+    "#8DA101",
+    "#DF69BA"
+  ],
+  "iterm_Everforest Light Med_normal": [
+    "#7FBBB3",
+    "#DBBC7F",
+    "#E67E80",
+    "#83C092",
+    "#A7C080",
+    "#D699B6"
+  ],
+  "iterm_Everforest Light Med_bright": [
+    "#3A94C5",
+    "#DFA000",
+    "#F85552",
+    "#35A77C",
+    "#8DA101",
+    "#DF69BA"
+  ],
+  "iterm_Fahrenheit_normal": [
+    "#720102",
+    "#FECF75",
+    "#CDA074",
+    "#979797",
+    "#9E744D",
+    "#734C4D"
+  ],
+  "iterm_Fahrenheit_bright": [
+    "#CB4A05",
+    "#FD9F4D",
+    "#FECEA0",
+    "#FED04D",
+    "#CC734D",
+    "#4E739F"
+  ],
+  "iterm_Fairyfloss_normal": [
+    "#C2FFDF",
+    "#E6C000",
+    "#F92672",
+    "#C5A3FF",
+    "#C2FFDF",
+    "#FFB8D1"
+  ],
+  "iterm_Fairyfloss_bright": [
+    "#C2FFDF",
+    "#FFEA00",
+    "#FF857F",
+    "#C5A3FF",
+    "#C2FFDF",
+    "#FFB8D1"
+  ],
+  "iterm_Farmhouse Dark_normal": [
+    "#0049E6",
+    "#C87300",
+    "#BA0004",
+    "#1FB65C",
+    "#549D00",
+    "#9F1B61"
+  ],
+  "iterm_Farmhouse Dark_bright": [
+    "#006EFE",
+    "#EA9A00",
+    "#EB0009",
+    "#19E062",
+    "#7AC100",
+    "#BF3B7F"
+  ],
+  "iterm_Farmhouse Light_normal": [
+    "#092CCD",
+    "#A95600",
+    "#8D0003",
+    "#229256",
+    "#3A7D00",
+    "#820046"
+  ],
+  "iterm_Farmhouse Light_bright": [
+    "#006EFE",
+    "#EA9A00",
+    "#EB0009",
+    "#19E062",
+    "#7AC100",
+    "#BF3B7F"
+  ],
+  "iterm_Fideloper_normal": [
+    "#2E78C2",
+    "#B7AB9B",
+    "#CB1E2D",
+    "#309186",
+    "#EDB8AC",
+    "#C0236F"
+  ],
+  "iterm_Fideloper_bright": [
+    "#7C85C4",
+    "#A86671",
+    "#D4605A",
+    "#819090",
+    "#D4605A",
+    "#5C5DB2"
+  ],
+  "iterm_Firefly Traditional_normal": [
+    "#5A63FF",
+    "#AFAD24",
+    "#C23720",
+    "#33BBC7",
+    "#33BC26",
+    "#D53AD2"
+  ],
+  "iterm_Firefly Traditional_bright": [
+    "#838DFF",
+    "#ECEC16",
+    "#FF3B1E",
+    "#29F0F0",
+    "#2EE720",
+    "#FF5CFE"
+  ],
+  "iterm_Firefox Dev_normal": [
+    "#359DDF",
+    "#A57706",
+    "#E63853",
+    "#4B73A2",
+    "#5EB83C",
+    "#D75CFF"
+  ],
+  "iterm_Firefox Dev_bright": [
+    "#006FC0",
+    "#CD9409",
+    "#E1003F",
+    "#005794",
+    "#1D9000",
+    "#A200DA"
+  ],
+  "iterm_Firewatch_normal": [
+    "#4D89C4",
+    "#DFB563",
+    "#D95360",
+    "#44A8B6",
+    "#5AB977",
+    "#D55119"
+  ],
+  "iterm_Firewatch_bright": [
+    "#4C89C5",
+    "#DFB563",
+    "#D95360",
+    "#44A8B6",
+    "#5AB977",
+    "#D55119"
+  ],
+  "iterm_Fish Tank_normal": [
+    "#525FB8",
+    "#FECD5E",
+    "#C6004A",
+    "#968763",
+    "#ACF157",
+    "#986F82"
+  ],
+  "iterm_Fish Tank_bright": [
+    "#B2BEFA",
+    "#FEE6A9",
+    "#DA4B8A",
+    "#A5BD86",
+    "#DBFFA9",
+    "#FDA5CD"
+  ],
+  "iterm_Flat_normal": [
+    "#3167AC",
+    "#E58D11",
+    "#A82320",
+    "#2C9370",
+    "#32A548",
+    "#781AA0"
+  ],
+  "iterm_Flat_bright": [
+    "#3C7DD2",
+    "#E5BE0C",
+    "#D4312E",
+    "#35B387",
+    "#2D9440",
+    "#8230A7"
+  ],
+  "iterm_Flatland_normal": [
+    "#5096BE",
+    "#F4EF6D",
+    "#F18339",
+    "#D63865",
+    "#9FD364",
+    "#695ABC"
+  ],
+  "iterm_Flatland_bright": [
+    "#61B9D0",
+    "#FF8949",
+    "#D22A24",
+    "#D63865",
+    "#A7D42C",
+    "#695ABC"
+  ],
+  "iterm_Flexoki Dark_normal": [
+    "#4385BE",
+    "#D0A215",
+    "#D14D41",
+    "#3AA99F",
+    "#879A39",
+    "#CE5D97"
+  ],
+  "iterm_Flexoki Dark_bright": [
+    "#205EA6",
+    "#AD8301",
+    "#AF3029",
+    "#24837B",
+    "#66800B",
+    "#A02F6F"
+  ],
+  "iterm_Flexoki Light_normal": [
+    "#205EA6",
+    "#AD8301",
+    "#AF3029",
+    "#24837B",
+    "#66800B",
+    "#A02F6F"
+  ],
+  "iterm_Flexoki Light_bright": [
+    "#4385BE",
+    "#D0A215",
+    "#D14D41",
+    "#3AA99F",
+    "#879A39",
+    "#CE5D97"
+  ],
+  "iterm_Floraverse_normal": [
+    "#1D6DA1",
+    "#CD751C",
+    "#64002C",
+    "#42A38C",
+    "#5D731A",
+    "#B7077E"
+  ],
+  "iterm_Floraverse_bright": [
+    "#40A4CF",
+    "#FAC357",
+    "#D02063",
+    "#62CAA8",
+    "#B4CE59",
+    "#F12AAE"
+  ],
+  "iterm_Forest Blue_normal": [
+    "#8ED0CE",
+    "#1A8E63",
+    "#F8818E",
+    "#31658C",
+    "#92D3A2",
+    "#5E468C"
+  ],
+  "iterm_Forest Blue_bright": [
+    "#39A7A2",
+    "#30C85A",
+    "#FB3D66",
+    "#6096BF",
+    "#6BB48D",
+    "#7E62B3"
+  ],
+  "iterm_Framer_normal": [
+    "#00AAFF",
+    "#FFCC33",
+    "#FF5555",
+    "#88DDFF",
+    "#98EC65",
+    "#AA88FF"
+  ],
+  "iterm_Framer_bright": [
+    "#33BBFF",
+    "#FFD966",
+    "#FF8888",
+    "#BBECFF",
+    "#B6F292",
+    "#CEBBFF"
+  ],
+  "iterm_Front End Delight_normal": [
+    "#2C70B7",
+    "#FA771D",
+    "#F8511B",
+    "#3CA1A6",
+    "#565747",
+    "#F02E4F"
+  ],
+  "iterm_Front End Delight_bright": [
+    "#3393CA",
+    "#FDC325",
+    "#F74319",
+    "#4FBCE6",
+    "#74EC4C",
+    "#E75E4F"
+  ],
+  "iterm_Fun Forrest_normal": [
+    "#4699A3",
+    "#BE8A13",
+    "#D6262B",
+    "#DA8213",
+    "#919C00",
+    "#8D4331"
+  ],
+  "iterm_Fun Forrest_bright": [
+    "#7CC9CF",
+    "#FFCB1B",
+    "#E55A1C",
+    "#E6A96B",
+    "#BFC65A",
+    "#D26349"
+  ],
+  "iterm_Galaxy_normal": [
+    "#589DF6",
+    "#FEF02A",
+    "#F9555F",
+    "#1F9EE7",
+    "#21B089",
+    "#944D95"
+  ],
+  "iterm_Galaxy_bright": [
+    "#589DF6",
+    "#FFFF55",
+    "#FA8C8F",
+    "#3979BC",
+    "#35BB9A",
+    "#E75699"
+  ],
+  "iterm_Galizur_normal": [
+    "#2255CC",
+    "#CCAA22",
+    "#AA1122",
+    "#22BBDD",
+    "#33AA11",
+    "#7755AA"
+  ],
+  "iterm_Galizur_bright": [
+    "#3377FF",
+    "#FFDD33",
+    "#FF1133",
+    "#33DDFF",
+    "#33FF11",
+    "#AA77FF"
+  ],
+  "iterm_Ghostty Default Style Dark_normal": [
+    "#82A2BE",
+    "#F0C674",
+    "#CC6566",
+    "#8ABEB7",
+    "#B6BD68",
+    "#B294BB"
+  ],
+  "iterm_Ghostty Default Style Dark_bright": [
+    "#7AA6DA",
+    "#E7C547",
+    "#D54E53",
+    "#70C0B1",
+    "#B9CA4B",
+    "#C397D8"
+  ],
+  "iterm_GitHub Dark Colorblind_normal": [
+    "#58A6FF",
+    "#D29922",
+    "#EC8E2C",
+    "#39C5CF",
+    "#58A6FF",
+    "#BC8CFF"
+  ],
+  "iterm_GitHub Dark Colorblind_bright": [
+    "#79C0FF",
+    "#E3B341",
+    "#FDAC54",
+    "#56D4DD",
+    "#79C0FF",
+    "#D2A8FF"
+  ],
+  "iterm_GitHub Dark Default_normal": [
+    "#58A6FF",
+    "#D29922",
+    "#FF7B72",
+    "#39C5CF",
+    "#3FB950",
+    "#BC8CFF"
+  ],
+  "iterm_GitHub Dark Default_bright": [
+    "#79C0FF",
+    "#E3B341",
+    "#FFA198",
+    "#56D4DD",
+    "#56D364",
+    "#D2A8FF"
+  ],
+  "iterm_GitHub Dark Dimmed_normal": [
+    "#539BF5",
+    "#C69026",
+    "#F47067",
+    "#39C5CF",
+    "#57AB5A",
+    "#B083F0"
+  ],
+  "iterm_GitHub Dark Dimmed_bright": [
+    "#6CB6FF",
+    "#DAAA3F",
+    "#FF938A",
+    "#56D4DD",
+    "#6BC46D",
+    "#DCBDFB"
+  ],
+  "iterm_GitHub Dark High Contrast_normal": [
+    "#71B7FF",
+    "#F0B72F",
+    "#FF9492",
+    "#39C5CF",
+    "#26CD4D",
+    "#CB9EFF"
+  ],
+  "iterm_GitHub Dark High Contrast_bright": [
+    "#91CBFF",
+    "#F7C843",
+    "#FFB1AF",
+    "#56D4DD",
+    "#4AE168",
+    "#DBB7FF"
+  ],
+  "iterm_GitHub Dark_normal": [
+    "#6CA4F8",
+    "#E3B341",
+    "#F78166",
+    "#2B7489",
+    "#56D364",
+    "#DB61A2"
+  ],
+  "iterm_GitHub Dark_bright": [
+    "#6CA4F8",
+    "#E3B341",
+    "#F78166",
+    "#2B7489",
+    "#56D364",
+    "#DB61A2"
+  ],
+  "iterm_GitHub Light Colorblind_normal": [
+    "#0969DA",
+    "#4D2D00",
+    "#B35900",
+    "#1B7C83",
+    "#0550AE",
+    "#8250DF"
+  ],
+  "iterm_GitHub Light Colorblind_bright": [
+    "#218BFF",
+    "#633C01",
+    "#8A4600",
+    "#3192AA",
+    "#0969DA",
+    "#A475F9"
+  ],
+  "iterm_GitHub Light Default_normal": [
+    "#0969DA",
+    "#4D2D00",
+    "#CF222E",
+    "#1B7C83",
+    "#116329",
+    "#8250DF"
+  ],
+  "iterm_GitHub Light Default_bright": [
+    "#218BFF",
+    "#633C01",
+    "#A40E26",
+    "#3192AA",
+    "#1A7F37",
+    "#A475F9"
+  ],
+  "iterm_GitHub Light High Contrast_normal": [
+    "#0349B4",
+    "#3F2200",
+    "#A0111F",
+    "#1B7C83",
+    "#024C1A",
+    "#622CBC"
+  ],
+  "iterm_GitHub Light High Contrast_bright": [
+    "#1168E3",
+    "#4E2C00",
+    "#86061D",
+    "#3192AA",
+    "#055D20",
+    "#844AE7"
+  ],
+  "iterm_GitHub_normal": [
+    "#003E8A",
+    "#F8EEC7",
+    "#970B16",
+    "#89D1EC",
+    "#07962A",
+    "#E94691"
+  ],
+  "iterm_GitHub_bright": [
+    "#2E6CBA",
+    "#F1D007",
+    "#DE0000",
+    "#1CFAFE",
+    "#87D5A2",
+    "#FFA29F"
+  ],
+  "iterm_GitLab Dark Grey_normal": [
+    "#7FB6ED",
+    "#D99530",
+    "#F57F6C",
+    "#32C5D2",
+    "#52B87A",
+    "#F88AAF"
+  ],
+  "iterm_GitLab Dark Grey_bright": [
+    "#498DD1",
+    "#E9BE74",
+    "#FCB5AA",
+    "#5EDEE3",
+    "#91D4A8",
+    "#FCACC5"
+  ],
+  "iterm_GitLab Dark_normal": [
+    "#7FB6ED",
+    "#D99530",
+    "#F57F6C",
+    "#32C5D2",
+    "#52B87A",
+    "#F88AAF"
+  ],
+  "iterm_GitLab Dark_bright": [
+    "#498DD1",
+    "#E9BE74",
+    "#FCB5AA",
+    "#5EDEE3",
+    "#91D4A8",
+    "#FCACC5"
+  ],
+  "iterm_GitLab Light_normal": [
+    "#006CD8",
+    "#AF551D",
+    "#A31700",
+    "#00798A",
+    "#0A7F3D",
+    "#583CAC"
+  ],
+  "iterm_GitLab Light_bright": [
+    "#006CD8",
+    "#AF551D",
+    "#A31700",
+    "#00798A",
+    "#0A7F3D",
+    "#583CAC"
+  ],
+  "iterm_Glacier_normal": [
+    "#1F5872",
+    "#FB9435",
+    "#BD0F2F",
+    "#778397",
+    "#35A770",
+    "#BD2523"
+  ],
+  "iterm_Glacier_bright": [
+    "#2A8BC1",
+    "#FDDF6E",
+    "#BD0F2F",
+    "#A0B6D3",
+    "#49E998",
+    "#EA4727"
+  ],
+  "iterm_Grape_normal": [
+    "#487DF4",
+    "#8DDC20",
+    "#ED2261",
+    "#3BDEED",
+    "#1FA91B",
+    "#8D35C9"
+  ],
+  "iterm_Grape_bright": [
+    "#A9BCEC",
+    "#B2DC87",
+    "#F0729A",
+    "#9DE3EB",
+    "#53AA5E",
+    "#AD81C2"
+  ],
+  "iterm_Grass_normal": [
+    "#0000A3",
+    "#E7B000",
+    "#BB0000",
+    "#00BBBB",
+    "#00BB00",
+    "#950062"
+  ],
+  "iterm_Grass_bright": [
+    "#0000BB",
+    "#E7B000",
+    "#BB0000",
+    "#55FFFF",
+    "#00BB00",
+    "#FF55FF"
+  ],
+  "iterm_Grey Green_normal": [
+    "#00DEFF",
+    "#F1FF01",
+    "#FE1414",
+    "#00FFBC",
+    "#74FF00",
+    "#FF00F0"
+  ],
+  "iterm_Grey Green_bright": [
+    "#00AFFF",
+    "#FFD100",
+    "#FF3939",
+    "#00FFD3",
+    "#00FF44",
+    "#FF008A"
+  ],
+  "iterm_Gruber Darker_normal": [
+    "#92A7CB",
+    "#FFDB00",
+    "#FF0A36",
+    "#90AA9E",
+    "#42DC00",
+    "#A095CB"
+  ],
+  "iterm_Gruber Darker_bright": [
+    "#92A7CB",
+    "#FFDB00",
+    "#FF3851",
+    "#90AA9E",
+    "#42DC00",
+    "#AFAFDA"
+  ],
+  "iterm_Gruvbox Dark Hard_normal": [
+    "#458588",
+    "#D79921",
+    "#CC241D",
+    "#689D6A",
+    "#98971A",
+    "#B16286"
+  ],
+  "iterm_Gruvbox Dark Hard_bright": [
+    "#83A598",
+    "#FABD2F",
+    "#FB4934",
+    "#8EC07C",
+    "#B8BB26",
+    "#D3869B"
+  ],
+  "iterm_Gruvbox Dark_normal": [
+    "#458588",
+    "#D79921",
+    "#CC241D",
+    "#689D6A",
+    "#98971A",
+    "#B16286"
+  ],
+  "iterm_Gruvbox Dark_bright": [
+    "#83A598",
+    "#FABD2F",
+    "#FB4934",
+    "#8EC07C",
+    "#B8BB26",
+    "#D3869B"
+  ],
+  "iterm_Gruvbox Light Hard_normal": [
+    "#458588",
+    "#D79921",
+    "#CC241D",
+    "#689D6A",
+    "#98971A",
+    "#B16286"
+  ],
+  "iterm_Gruvbox Light Hard_bright": [
+    "#076678",
+    "#B57614",
+    "#9D0006",
+    "#427B58",
+    "#79740E",
+    "#8F3F71"
+  ],
+  "iterm_Gruvbox Light_normal": [
+    "#458588",
+    "#D79921",
+    "#CC241D",
+    "#689D6A",
+    "#98971A",
+    "#B16286"
+  ],
+  "iterm_Gruvbox Light_bright": [
+    "#076678",
+    "#B57614",
+    "#9D0006",
+    "#427B58",
+    "#79740E",
+    "#8F3F71"
+  ],
+  "iterm_Gruvbox Material Dark_normal": [
+    "#7DAEA3",
+    "#D8A657",
+    "#EA6962",
+    "#89B482",
+    "#A9B665",
+    "#D3869B"
+  ],
+  "iterm_Gruvbox Material Dark_bright": [
+    "#7DAEA3",
+    "#D8A657",
+    "#EA6962",
+    "#89B482",
+    "#A9B665",
+    "#D3869B"
+  ],
+  "iterm_Gruvbox Material Light_normal": [
+    "#45707A",
+    "#B47109",
+    "#C14A4A",
+    "#4C7A5D",
+    "#6C782E",
+    "#945E80"
+  ],
+  "iterm_Gruvbox Material Light_bright": [
+    "#45707A",
+    "#B47109",
+    "#C14A4A",
+    "#4C7A5D",
+    "#6C782E",
+    "#945E80"
+  ],
+  "iterm_Gruvbox Material_normal": [
+    "#6DA3EC",
+    "#EECF75",
+    "#EA6926",
+    "#FE9D6E",
+    "#C1D041",
+    "#FD9BC1"
+  ],
+  "iterm_Gruvbox Material_bright": [
+    "#2C86FF",
+    "#EECF75",
+    "#D3573B",
+    "#92A5DF",
+    "#C1D041",
+    "#FD9BC1"
+  ],
+  "iterm_Guezwhoz_normal": [
+    "#5AA0D6",
+    "#B7D074",
+    "#E85181",
+    "#58D6CE",
+    "#7AD694",
+    "#9A90E0"
+  ],
+  "iterm_Guezwhoz_bright": [
+    "#64B2ED",
+    "#D1ED85",
+    "#E85181",
+    "#61EDE4",
+    "#AFD7AF",
+    "#A398ED"
+  ],
+  "iterm_Hacktober_normal": [
+    "#206EC5",
+    "#D08949",
+    "#B34538",
+    "#AC9166",
+    "#587744",
+    "#864651"
+  ],
+  "iterm_Hacktober_bright": [
+    "#5389C5",
+    "#C75A22",
+    "#B33323",
+    "#EBC587",
+    "#42824A",
+    "#E795A5"
+  ],
+  "iterm_Hardcore_normal": [
+    "#66D9EF",
+    "#FD971F",
+    "#F92672",
+    "#5E7175",
+    "#A6E22E",
+    "#9E6FFE"
+  ],
+  "iterm_Hardcore_bright": [
+    "#66D9EF",
+    "#E6DB74",
+    "#FF669D",
+    "#A3BABF",
+    "#BEED5F",
+    "#9E6FFE"
+  ],
+  "iterm_Harper_normal": [
+    "#489E48",
+    "#D6DA25",
+    "#F8B63F",
+    "#F5BFD7",
+    "#7FB5E1",
+    "#B296C6"
+  ],
+  "iterm_Harper_bright": [
+    "#489E48",
+    "#D6DA25",
+    "#F8B63F",
+    "#F5BFD7",
+    "#7FB5E1",
+    "#B296C6"
+  ],
+  "iterm_Havn Daggry_normal": [
+    "#3A577D",
+    "#BE6B00",
+    "#985248",
+    "#925780",
+    "#577159",
+    "#7C5C97"
+  ],
+  "iterm_Havn Daggry_bright": [
+    "#6089C0",
+    "#FEB234",
+    "#CC4A35",
+    "#AA869D",
+    "#719679",
+    "#7D7396"
+  ],
+  "iterm_Havn Skumring_normal": [
+    "#596CF7",
+    "#F8B330",
+    "#EA563E",
+    "#D588C1",
+    "#6EAD7B",
+    "#7C719E"
+  ],
+  "iterm_Havn Skumring_bright": [
+    "#5186CB",
+    "#EAC58C",
+    "#D17264",
+    "#D17AB6",
+    "#8C9E8F",
+    "#9B7CEE"
+  ],
+  "iterm_HaX0R Blue_normal": [
+    "#10B6FF",
+    "#10B6FF",
+    "#10B6FF",
+    "#10B6FF",
+    "#10B6FF",
+    "#10B6FF"
+  ],
+  "iterm_HaX0R Blue_bright": [
+    "#00B3F7",
+    "#00B3F7",
+    "#00B3F7",
+    "#00B3F7",
+    "#00B3F7",
+    "#00B3F7"
+  ],
+  "iterm_HaX0R Gr33N_normal": [
+    "#15D00D",
+    "#15D00D",
+    "#15D00D",
+    "#15D00D",
+    "#15D00D",
+    "#15D00D"
+  ],
+  "iterm_HaX0R Gr33N_bright": [
+    "#19E20E",
+    "#19E20E",
+    "#19E20E",
+    "#19E20E",
+    "#19E20E",
+    "#19E20E"
+  ],
+  "iterm_HaX0R R3D_normal": [
+    "#B00D0D",
+    "#B00D0D",
+    "#B00D0D",
+    "#B00D0D",
+    "#B00D0D",
+    "#B00D0D"
+  ],
+  "iterm_HaX0R R3D_bright": [
+    "#FF1010",
+    "#FF1010",
+    "#FF1111",
+    "#FF1010",
+    "#FF1010",
+    "#FF1010"
+  ],
+  "iterm_Heeler_normal": [
+    "#5BA5F2",
+    "#F4CE65",
+    "#E44C2E",
+    "#FF9763",
+    "#BDD100",
+    "#FF95C2"
+  ],
+  "iterm_Heeler_bright": [
+    "#0088FF",
+    "#F4CE65",
+    "#E44C2E",
+    "#8DA6E4",
+    "#BDD100",
+    "#FF95C2"
+  ],
+  "iterm_Highway_normal": [
+    "#006BB3",
+    "#FFCB3E",
+    "#D00E18",
+    "#384564",
+    "#138034",
+    "#6B2775"
+  ],
+  "iterm_Highway_bright": [
+    "#4FC2FD",
+    "#FFF120",
+    "#F07E18",
+    "#5D504A",
+    "#B1D130",
+    "#DE0071"
+  ],
+  "iterm_Hipster Green_normal": [
+    "#246EB2",
+    "#BFBF00",
+    "#B6214A",
+    "#00A6B2",
+    "#00A600",
+    "#B200B2"
+  ],
+  "iterm_Hipster Green_bright": [
+    "#0000FF",
+    "#E5E500",
+    "#E50000",
+    "#00E5E5",
+    "#86A93E",
+    "#E500E5"
+  ],
+  "iterm_Hivacruz_normal": [
+    "#3D8FD1",
+    "#C08B30",
+    "#C94922",
+    "#22A2C9",
+    "#AC9739",
+    "#6679CC"
+  ],
+  "iterm_Hivacruz_bright": [
+    "#898EA4",
+    "#5E6687",
+    "#C76B29",
+    "#9C637A",
+    "#73AD43",
+    "#DFE2F1"
+  ],
+  "iterm_Homebrew_normal": [
+    "#0000B2",
+    "#999900",
+    "#990000",
+    "#00A6B2",
+    "#00A600",
+    "#B200B2"
+  ],
+  "iterm_Homebrew_bright": [
+    "#0000FF",
+    "#E5E500",
+    "#E50000",
+    "#00E5E5",
+    "#00D900",
+    "#E500E5"
+  ],
+  "iterm_Hopscotch.256_normal": [
+    "#1290BF",
+    "#FDCC59",
+    "#DD464C",
+    "#149B93",
+    "#8FC13E",
+    "#C85E7C"
+  ],
+  "iterm_Hopscotch.256_bright": [
+    "#1290BF",
+    "#FDCC59",
+    "#DD464C",
+    "#149B93",
+    "#8FC13E",
+    "#C85E7C"
+  ],
+  "iterm_Hopscotch_normal": [
+    "#1290BF",
+    "#FDCC59",
+    "#DD464C",
+    "#149B93",
+    "#8FC13E",
+    "#C85E7C"
+  ],
+  "iterm_Hopscotch_bright": [
+    "#989498",
+    "#5C545B",
+    "#FD8B19",
+    "#B33508",
+    "#433B42",
+    "#D5D3D5"
+  ],
+  "iterm_Horizon Bright_normal": [
+    "#00BEDD",
+    "#FFB38F",
+    "#FC4777",
+    "#00E7E5",
+    "#00D793",
+    "#FF58B1"
+  ],
+  "iterm_Horizon Bright_bright": [
+    "#00C9E2",
+    "#FFC0A2",
+    "#FE5F87",
+    "#07E9E8",
+    "#00DEA0",
+    "#FF6CBA"
+  ],
+  "iterm_Horizon_normal": [
+    "#26BBD9",
+    "#FAB795",
+    "#E95678",
+    "#59E1E3",
+    "#29D398",
+    "#EE64AC"
+  ],
+  "iterm_Horizon_bright": [
+    "#3FC4DE",
+    "#FBC3A7",
+    "#EC6A88",
+    "#6BE4E6",
+    "#3FDAA4",
+    "#F075B5"
+  ],
+  "iterm_Hurtado_normal": [
+    "#496487",
+    "#FBE74A",
+    "#FF1B00",
+    "#86E9FE",
+    "#A5E055",
+    "#FD5FF1"
+  ],
+  "iterm_Hurtado_bright": [
+    "#89BEFF",
+    "#FBE84A",
+    "#D51D00",
+    "#86EAFE",
+    "#A5DF55",
+    "#C001C1"
+  ],
+  "iterm_Hybrid_normal": [
+    "#6E90B0",
+    "#E4B55E",
+    "#B84D51",
+    "#7FBFB4",
+    "#B3BF5A",
+    "#A17EAC"
+  ],
+  "iterm_Hybrid_bright": [
+    "#4B6B88",
+    "#E58A50",
+    "#8D2E32",
+    "#4D7B74",
+    "#798431",
+    "#6E5079"
+  ],
+  "iterm_IBM 5153 CGA (Black)_normal": [
+    "#0000C4",
+    "#C47E00",
+    "#C40000",
+    "#00C4C4",
+    "#00C400",
+    "#C400C4"
+  ],
+  "iterm_IBM 5153 CGA (Black)_bright": [
+    "#4E4EDC",
+    "#F3F34E",
+    "#DC4E4E",
+    "#4EF3F3",
+    "#4EDC4E",
+    "#F34EF3"
+  ],
+  "iterm_IBM 5153 CGA_normal": [
+    "#3333DB",
+    "#DB9833",
+    "#DB3333",
+    "#33DBDB",
+    "#33DB33",
+    "#DB33DB"
+  ],
+  "iterm_IBM 5153 CGA_bright": [
+    "#4E4EDC",
+    "#F3F34E",
+    "#DC4E4E",
+    "#4EF3F3",
+    "#4EDC4E",
+    "#F34EF3"
+  ],
+  "iterm_IC Green PPL_normal": [
+    "#2EC3B9",
+    "#76A831",
+    "#FF2736",
+    "#3CA078",
+    "#41A638",
+    "#50A096"
+  ],
+  "iterm_IC Green PPL_bright": [
+    "#2EFAEB",
+    "#DAFA87",
+    "#B4FA5C",
+    "#3CFAC8",
+    "#AEFB86",
+    "#50FAFA"
+  ],
+  "iterm_IC Orange PPL_normal": [
+    "#BD6D00",
+    "#CAAF00",
+    "#C13900",
+    "#F79500",
+    "#A4A900",
+    "#FC5E00"
+  ],
+  "iterm_IC Orange PPL_bright": [
+    "#FFBE55",
+    "#FFE36E",
+    "#FF8C68",
+    "#C69752",
+    "#F6FF40",
+    "#FC874F"
+  ],
+  "iterm_Iceberg Dark_normal": [
+    "#84A0C6",
+    "#E2A478",
+    "#E27878",
+    "#89B8C2",
+    "#B4BE82",
+    "#A093C7"
+  ],
+  "iterm_Iceberg Dark_bright": [
+    "#91ACD1",
+    "#E9B189",
+    "#E98989",
+    "#95C4CE",
+    "#C0CA8E",
+    "#ADA0D3"
+  ],
+  "iterm_Iceberg Light_normal": [
+    "#2D539E",
+    "#C57339",
+    "#CC517A",
+    "#3F83A6",
+    "#668E3D",
+    "#7759B4"
+  ],
+  "iterm_Iceberg Light_bright": [
+    "#22478E",
+    "#B6662D",
+    "#CC3768",
+    "#327698",
+    "#598030",
+    "#6845AD"
+  ],
+  "iterm_Idea_normal": [
+    "#437EE7",
+    "#CCB444",
+    "#FC5256",
+    "#248887",
+    "#98B61C",
+    "#9D74B0"
+  ],
+  "iterm_Idea_bright": [
+    "#6C9CED",
+    "#FFFF0B",
+    "#FC7072",
+    "#248887",
+    "#98B61C",
+    "#FC7EFF"
+  ],
+  "iterm_Idle Toes_normal": [
+    "#4099FF",
+    "#FFC66D",
+    "#D25252",
+    "#BED6FF",
+    "#7FE173",
+    "#F680FF"
+  ],
+  "iterm_Idle Toes_bright": [
+    "#5EB7F7",
+    "#FFE48B",
+    "#F07070",
+    "#DCF4FF",
+    "#9DFF91",
+    "#FF9DFF"
+  ],
+  "iterm_IR Black_normal": [
+    "#96CAFE",
+    "#FFFEB7",
+    "#FA6C60",
+    "#C6C5FE",
+    "#A8FF60",
+    "#FA73FD"
+  ],
+  "iterm_IR Black_bright": [
+    "#B5DCFF",
+    "#FFFFCC",
+    "#FCB6B0",
+    "#E0E0FE",
+    "#CFFFAB",
+    "#FB9CFE"
+  ],
+  "iterm_IRIX Console_normal": [
+    "#0739E2",
+    "#C29D28",
+    "#D42426",
+    "#4497DF",
+    "#37A327",
+    "#911F9C"
+  ],
+  "iterm_IRIX Console_bright": [
+    "#4079FF",
+    "#F9F2A7",
+    "#F34F59",
+    "#6ED7D7",
+    "#45C731",
+    "#C31BA2"
+  ],
+  "iterm_IRIX Terminal_normal": [
+    "#0004FF",
+    "#FFFF44",
+    "#FF2B1E",
+    "#56FFFF",
+    "#57FF3D",
+    "#FF2CFF"
+  ],
+  "iterm_IRIX Terminal_bright": [
+    "#FFFF44",
+    "#FFFC72",
+    "#FFFF44",
+    "#FFFF44",
+    "#FFFF44",
+    "#FFFF44"
+  ],
+  "iterm_iTerm2 Dark Background_normal": [
+    "#0225C7",
+    "#C7C400",
+    "#C91B00",
+    "#00C5C7",
+    "#00C200",
+    "#CA30C7"
+  ],
+  "iterm_iTerm2 Dark Background_bright": [
+    "#6871FF",
+    "#FFFC67",
+    "#FF6E67",
+    "#60FDFF",
+    "#5FFA68",
+    "#FF77FF"
+  ],
+  "iterm_iTerm2 Default_normal": [
+    "#2225C4",
+    "#C7C400",
+    "#C91B00",
+    "#00C5C7",
+    "#00C200",
+    "#CA30C7"
+  ],
+  "iterm_iTerm2 Default_bright": [
+    "#6871FF",
+    "#FFFC67",
+    "#FF6E67",
+    "#60FDFF",
+    "#5FFA68",
+    "#FF77FF"
+  ],
+  "iterm_iTerm2 Light Background_normal": [
+    "#0225C7",
+    "#C7C400",
+    "#C91B00",
+    "#00C5C7",
+    "#00C200",
+    "#CA30C7"
+  ],
+  "iterm_iTerm2 Light Background_bright": [
+    "#6871FF",
+    "#FFFC67",
+    "#FF6E67",
+    "#60FDFF",
+    "#5FFA68",
+    "#FF77FF"
+  ],
+  "iterm_iTerm2 Pastel Dark Background_normal": [
+    "#A5D5FE",
+    "#FFFDC3",
+    "#FF8373",
+    "#D1D1FE",
+    "#B4FB73",
+    "#FF90FE"
+  ],
+  "iterm_iTerm2 Pastel Dark Background_bright": [
+    "#C2E3FF",
+    "#FFFED5",
+    "#FFC4BE",
+    "#E6E6FE",
+    "#D6FCBA",
+    "#FFB2FE"
+  ],
+  "iterm_iTerm2 Smoooooth_normal": [
+    "#2744C7",
+    "#C7C400",
+    "#B43C2A",
+    "#00C5C7",
+    "#00C200",
+    "#C040BE"
+  ],
+  "iterm_iTerm2 Smoooooth_bright": [
+    "#A7ABF2",
+    "#ECE100",
+    "#DD7975",
+    "#60FDFF",
+    "#58E790",
+    "#E17EE1"
+  ],
+  "iterm_iTerm2 Solarized Dark_normal": [
+    "#268BD2",
+    "#B58900",
+    "#DC322F",
+    "#2AA198",
+    "#859900",
+    "#D33682"
+  ],
+  "iterm_iTerm2 Solarized Dark_bright": [
+    "#839496",
+    "#657B83",
+    "#CB4B16",
+    "#93A1A1",
+    "#586E75",
+    "#6C71C4"
+  ],
+  "iterm_iTerm2 Solarized Light_normal": [
+    "#268BD2",
+    "#B58900",
+    "#DC322F",
+    "#2AA198",
+    "#859900",
+    "#D33682"
+  ],
+  "iterm_iTerm2 Solarized Light_bright": [
+    "#839496",
+    "#657B83",
+    "#CB4B16",
+    "#93A1A1",
+    "#586E75",
+    "#6C71C4"
+  ],
+  "iterm_iTerm2 Tango Dark_normal": [
+    "#427AB3",
+    "#CFAE00",
+    "#D81E00",
+    "#00A7AA",
+    "#5EA702",
+    "#89658E"
+  ],
+  "iterm_iTerm2 Tango Dark_bright": [
+    "#84B0D8",
+    "#FDEB61",
+    "#F54235",
+    "#37E6E8",
+    "#99E343",
+    "#BC94B7"
+  ],
+  "iterm_iTerm2 Tango Light_normal": [
+    "#427AB3",
+    "#CFAE00",
+    "#D81E00",
+    "#00A7AA",
+    "#5EA702",
+    "#89658E"
+  ],
+  "iterm_iTerm2 Tango Light_bright": [
+    "#84B0D8",
+    "#FDEB61",
+    "#F54235",
+    "#37E6E8",
+    "#99E343",
+    "#BC94B7"
+  ],
+  "iterm_Jackie Brown_normal": [
+    "#246EB2",
+    "#BEBF00",
+    "#EF5734",
+    "#00ACEE",
+    "#2BAF2B",
+    "#D05EC1"
+  ],
+  "iterm_Jackie Brown_bright": [
+    "#0000FF",
+    "#E5E500",
+    "#E50000",
+    "#00E5E5",
+    "#86A93E",
+    "#E500E5"
+  ],
+  "iterm_Japanesque_normal": [
+    "#4C9AD4",
+    "#E9B32A",
+    "#CF3F61",
+    "#389AAD",
+    "#7BB75B",
+    "#A57FC4"
+  ],
+  "iterm_Japanesque_bright": [
+    "#135979",
+    "#78592F",
+    "#D18FA6",
+    "#76BBCA",
+    "#767F2C",
+    "#604291"
+  ],
+  "iterm_Jellybeans_normal": [
+    "#97BEDC",
+    "#FFBA7B",
+    "#E27373",
+    "#00988E",
+    "#94B979",
+    "#E1C0FA"
+  ],
+  "iterm_Jellybeans_bright": [
+    "#B1D8F6",
+    "#FFDCA0",
+    "#FFA1A1",
+    "#1AB2A8",
+    "#BDDEAB",
+    "#FBDAFF"
+  ],
+  "iterm_JetBrains Darcula_normal": [
+    "#4581EB",
+    "#C2C300",
+    "#FA5355",
+    "#33C2C1",
+    "#126E00",
+    "#FA54FF"
+  ],
+  "iterm_JetBrains Darcula_bright": [
+    "#6D9DF1",
+    "#FFFF00",
+    "#FB7172",
+    "#60D3D1",
+    "#67FF4F",
+    "#FB82FF"
+  ],
+  "iterm_Jubi_normal": [
+    "#576EA6",
+    "#6EBFC0",
+    "#CF7B98",
+    "#75A7D2",
+    "#90A94B",
+    "#BC4F68"
+  ],
+  "iterm_Jubi_bright": [
+    "#8C9FCD",
+    "#87E9EA",
+    "#DE90AB",
+    "#B7C9EF",
+    "#BCDD61",
+    "#E16C87"
+  ],
+  "iterm_Kanagawa Dragon_normal": [
+    "#8BA4B0",
+    "#C4B28A",
+    "#C4746E",
+    "#8EA4A2",
+    "#8A9A7B",
+    "#A292A3"
+  ],
+  "iterm_Kanagawa Dragon_bright": [
+    "#7FB4CA",
+    "#E6C384",
+    "#E46876",
+    "#7AA89F",
+    "#87A987",
+    "#938AA9"
+  ],
+  "iterm_Kanagawa Wave_normal": [
+    "#7E9CD8",
+    "#C0A36E",
+    "#C34043",
+    "#6A9589",
+    "#76946A",
+    "#957FB8"
+  ],
+  "iterm_Kanagawa Wave_bright": [
+    "#7FB4CA",
+    "#E6C384",
+    "#E82424",
+    "#7AA89F",
+    "#98BB6C",
+    "#938AA9"
+  ],
+  "iterm_Kanagawabones_normal": [
+    "#7EB3C9",
+    "#E5C283",
+    "#E46A78",
+    "#7EB3C9",
+    "#98BC6D",
+    "#957FB8"
+  ],
+  "iterm_Kanagawabones_bright": [
+    "#7BC2DF",
+    "#F1C982",
+    "#EC818C",
+    "#7BC2DF",
+    "#9EC967",
+    "#A98FD2"
+  ],
+  "iterm_Kibble_normal": [
+    "#3449D1",
+    "#D8E30E",
+    "#C70031",
+    "#0798AB",
+    "#29CF13",
+    "#8400FF"
+  ],
+  "iterm_Kibble_bright": [
+    "#97A4F7",
+    "#F3F79E",
+    "#F01578",
+    "#68F2E0",
+    "#6CE05C",
+    "#C495F0"
+  ],
+  "iterm_Kitty Default_normal": [
+    "#0D73CC",
+    "#CECB00",
+    "#CC0403",
+    "#0DCDCD",
+    "#19CB00",
+    "#CB1ED1"
+  ],
+  "iterm_Kitty Default_bright": [
+    "#1A8FFF",
+    "#FFFD00",
+    "#F2201F",
+    "#14FFFF",
+    "#23FD00",
+    "#FD28FF"
+  ],
+  "iterm_Kitty Low Contrast_normal": [
+    "#0D73CC",
+    "#CECB00",
+    "#CC0403",
+    "#0DCDCD",
+    "#19CB00",
+    "#CB1ED1"
+  ],
+  "iterm_Kitty Low Contrast_bright": [
+    "#1A8FFF",
+    "#FFFD00",
+    "#F2201F",
+    "#14FFFF",
+    "#23FD00",
+    "#FD28FF"
+  ],
+  "iterm_Kolorit_normal": [
+    "#5DB4EE",
+    "#E8E562",
+    "#FF5B82",
+    "#57E9EB",
+    "#47D7A1",
+    "#DA6CDA"
+  ],
+  "iterm_Kolorit_bright": [
+    "#5DB4EE",
+    "#E8E562",
+    "#FF5B82",
+    "#57E9EB",
+    "#47D7A1",
+    "#DA6CDA"
+  ],
+  "iterm_Konsolas_normal": [
+    "#2323A5",
+    "#EBAE1F",
+    "#AA1717",
+    "#42B0C8",
+    "#18B218",
+    "#AD1EDC"
+  ],
+  "iterm_Konsolas_bright": [
+    "#4B4BFF",
+    "#FFFF55",
+    "#FF4141",
+    "#69FFFF",
+    "#5FFF5F",
+    "#FF54FF"
+  ],
+  "iterm_Kurokula_normal": [
+    "#5C91DD",
+    "#E1B917",
+    "#C35A52",
+    "#867268",
+    "#78B3A9",
+    "#8B79A6"
+  ],
+  "iterm_Kurokula_bright": [
+    "#90DBFF",
+    "#FFF700",
+    "#FFC34C",
+    "#FFCDB6",
+    "#AFFFA5",
+    "#AD93FF"
+  ],
+  "iterm_Lab Fox_normal": [
+    "#DB3B21",
+    "#FCA121",
+    "#FC6D26",
+    "#6E49CB",
+    "#3EB383",
+    "#380D75"
+  ],
+  "iterm_Lab Fox_bright": [
+    "#DB501F",
+    "#FCA013",
+    "#FF6517",
+    "#7D53E7",
+    "#53EAA8",
+    "#441090"
+  ],
+  "iterm_Laser_normal": [
+    "#FED300",
+    "#09B4BD",
+    "#FF8373",
+    "#D1D1FE",
+    "#B4FB73",
+    "#FF90FE"
+  ],
+  "iterm_Laser_bright": [
+    "#F92883",
+    "#FFFED5",
+    "#FFC4BE",
+    "#E6E7FE",
+    "#D6FCBA",
+    "#FFB2FE"
+  ],
+  "iterm_Later This Evening_normal": [
+    "#A0BAD6",
+    "#E5D289",
+    "#D45A60",
+    "#91BFB7",
+    "#AFBA67",
+    "#C092D6"
+  ],
+  "iterm_Later This Evening_bright": [
+    "#6699D6",
+    "#E5BE39",
+    "#D3232F",
+    "#5FC0AE",
+    "#AABB39",
+    "#AB53D6"
+  ],
+  "iterm_Lavandula_normal": [
+    "#4F4A7F",
+    "#7F6F49",
+    "#7D1625",
+    "#58777F",
+    "#337E6F",
+    "#5A3F7F"
+  ],
+  "iterm_Lavandula_bright": [
+    "#8E87E0",
+    "#E0C386",
+    "#E05167",
+    "#9AD4E0",
+    "#52E0C4",
+    "#A776E0"
+  ],
+  "iterm_Light Owl_normal": [
+    "#288ED7",
+    "#E0AF02",
+    "#DE3D3B",
+    "#2AA298",
+    "#08916A",
+    "#D6438A"
+  ],
+  "iterm_Light Owl_bright": [
+    "#288ED7",
+    "#DAAA01",
+    "#DE3D3B",
+    "#2AA298",
+    "#08916A",
+    "#D6438A"
+  ],
+  "iterm_Liquid Carbon Transparent_normal": [
+    "#0099CC",
+    "#CCAC00",
+    "#FF3030",
+    "#7AC4CC",
+    "#559A70",
+    "#CC69C8"
+  ],
+  "iterm_Liquid Carbon Transparent_bright": [
+    "#0099CC",
+    "#CCAC00",
+    "#FF3030",
+    "#7AC4CC",
+    "#559A70",
+    "#CC69C8"
+  ],
+  "iterm_Liquid Carbon_normal": [
+    "#0099CC",
+    "#CCAC00",
+    "#FF3030",
+    "#7AC4CC",
+    "#559A70",
+    "#CC69C8"
+  ],
+  "iterm_Liquid Carbon_bright": [
+    "#0099CC",
+    "#CCAC00",
+    "#FF3030",
+    "#7AC4CC",
+    "#559A70",
+    "#CC69C8"
+  ],
+  "iterm_Lovelace_normal": [
+    "#8897F4",
+    "#F2A272",
+    "#F37F97",
+    "#79E6F3",
+    "#5ADECD",
+    "#C574DD"
+  ],
+  "iterm_Lovelace_bright": [
+    "#556FFF",
+    "#FF8037",
+    "#FF4971",
+    "#3FDCEE",
+    "#18E3C8",
+    "#B043D1"
+  ],
+  "iterm_Man Page_normal": [
+    "#0000B2",
+    "#999900",
+    "#CC0000",
+    "#00A6B2",
+    "#00A600",
+    "#B200B2"
+  ],
+  "iterm_Man Page_bright": [
+    "#0000FF",
+    "#E5E500",
+    "#E50000",
+    "#00E5E5",
+    "#00D900",
+    "#E500E5"
+  ],
+  "iterm_Mariana_normal": [
+    "#6699CC",
+    "#F9AE58",
+    "#EC5F66",
+    "#5FB4B4",
+    "#99C794",
+    "#C695C6"
+  ],
+  "iterm_Mariana_bright": [
+    "#85ADD6",
+    "#FAC761",
+    "#F97B58",
+    "#82C4C4",
+    "#ACD1A8",
+    "#D8B6D8"
+  ],
+  "iterm_Material Dark_normal": [
+    "#134EB2",
+    "#F6981E",
+    "#B7141F",
+    "#0E717C",
+    "#457B24",
+    "#560088"
+  ],
+  "iterm_Material Dark_bright": [
+    "#54A4F3",
+    "#FFEA2E",
+    "#E83B3F",
+    "#26BBD1",
+    "#7ABA3A",
+    "#AA4DBC"
+  ],
+  "iterm_Material Darker_normal": [
+    "#82AAFF",
+    "#FFCB6B",
+    "#FF5370",
+    "#89DDFF",
+    "#C3E88D",
+    "#C792EA"
+  ],
+  "iterm_Material Darker_bright": [
+    "#82AAFF",
+    "#FFCB6B",
+    "#FF5370",
+    "#89DDFF",
+    "#C3E88D",
+    "#C792EA"
+  ],
+  "iterm_Material Design Colors_normal": [
+    "#37B6FF",
+    "#FED032",
+    "#FC3841",
+    "#59FFD1",
+    "#5CF19E",
+    "#FC226E"
+  ],
+  "iterm_Material Design Colors_bright": [
+    "#70CFFF",
+    "#FEE16C",
+    "#FC746D",
+    "#9AFFE6",
+    "#ADF7BE",
+    "#FC669B"
+  ],
+  "iterm_Material Ocean_normal": [
+    "#82AAFF",
+    "#FFCB6B",
+    "#FF5370",
+    "#89DDFF",
+    "#C3E88D",
+    "#C792EA"
+  ],
+  "iterm_Material Ocean_bright": [
+    "#82AAFF",
+    "#FFCB6B",
+    "#FF5370",
+    "#89DDFF",
+    "#C3E88D",
+    "#C792EA"
+  ],
+  "iterm_Material_normal": [
+    "#134EB2",
+    "#F6981E",
+    "#B7141F",
+    "#0E717C",
+    "#457B24",
+    "#560088"
+  ],
+  "iterm_Material_bright": [
+    "#54A4F3",
+    "#FFEA2E",
+    "#E83B3F",
+    "#26BBD1",
+    "#7ABA3A",
+    "#AA4DBC"
+  ],
+  "iterm_Mathias_normal": [
+    "#C48DFF",
+    "#FC951E",
+    "#E52222",
+    "#67D9F0",
+    "#A6E32D",
+    "#FA2573"
+  ],
+  "iterm_Mathias_bright": [
+    "#5555FF",
+    "#FFFF55",
+    "#FF5555",
+    "#55FFFF",
+    "#55FF55",
+    "#FF55FF"
+  ],
+  "iterm_Matrix_normal": [
+    "#3F5242",
+    "#FFD700",
+    "#23755A",
+    "#50B45A",
+    "#82D967",
+    "#409931"
+  ],
+  "iterm_Matrix_bright": [
+    "#4F7E7E",
+    "#FAFF00",
+    "#2FC079",
+    "#C1FF8A",
+    "#90D762",
+    "#11FF25"
+  ],
+  "iterm_Medallion_normal": [
+    "#616BB0",
+    "#D3BD26",
+    "#B64C00",
+    "#916C25",
+    "#7C8B16",
+    "#8C5A90"
+  ],
+  "iterm_Medallion_bright": [
+    "#ACB8FF",
+    "#FFE54A",
+    "#FF9149",
+    "#FFBC51",
+    "#B2CA3B",
+    "#FFA0FF"
+  ],
+  "iterm_Melange Dark_normal": [
+    "#7F91B2",
+    "#E49B5D",
+    "#BD8183",
+    "#7B9695",
+    "#78997A",
+    "#B380B0"
+  ],
+  "iterm_Melange Dark_bright": [
+    "#A3A9CE",
+    "#EBC06D",
+    "#D47766",
+    "#89B3B6",
+    "#85B695",
+    "#CF9BC2"
+  ],
+  "iterm_Melange Light_normal": [
+    "#7892BD",
+    "#BC5C00",
+    "#C77B8B",
+    "#739797",
+    "#6E9B72",
+    "#BE79BB"
+  ],
+  "iterm_Melange Light_bright": [
+    "#465AA4",
+    "#A06D00",
+    "#BF0021",
+    "#3D6568",
+    "#3A684A",
+    "#904180"
+  ],
+  "iterm_Mellifluous_normal": [
+    "#A8A1BE",
+    "#CBAA89",
+    "#D29393",
+    "#C0AF8C",
+    "#B3B393",
+    "#B39FB0"
+  ],
+  "iterm_Mellifluous_bright": [
+    "#5A6599",
+    "#A6794C",
+    "#C95954",
+    "#74A39E",
+    "#828040",
+    "#9C6995"
+  ],
+  "iterm_Mellow_normal": [
+    "#ACA1CF",
+    "#E6B99D",
+    "#F5A191",
+    "#EA83A5",
+    "#90B99F",
+    "#E29ECA"
+  ],
+  "iterm_Mellow_bright": [
+    "#B9AEDA",
+    "#F0C5A9",
+    "#FFAE9F",
+    "#F591B2",
+    "#9DC6AC",
+    "#ECAAD6"
+  ],
+  "iterm_Miasma_normal": [
+    "#78824B",
+    "#B36D43",
+    "#685742",
+    "#C9A554",
+    "#5F875F",
+    "#BB7744"
+  ],
+  "iterm_Miasma_bright": [
+    "#78824B",
+    "#B36D43",
+    "#685742",
+    "#C9A554",
+    "#5F875F",
+    "#BB7744"
+  ],
+  "iterm_Midnight In Mojave_normal": [
+    "#0A84FF",
+    "#FFD60A",
+    "#FF453A",
+    "#5AC8FA",
+    "#32D74B",
+    "#BF5AF2"
+  ],
+  "iterm_Midnight In Mojave_bright": [
+    "#0A84FF",
+    "#FFD60A",
+    "#FF453A",
+    "#5AC8FA",
+    "#32D74B",
+    "#BF5AF2"
+  ],
+  "iterm_Mirage_normal": [
+    "#7FB5FF",
+    "#FFD700",
+    "#FF9999",
+    "#21C7A8",
+    "#85CC95",
+    "#DDB3FF"
+  ],
+  "iterm_Mirage_bright": [
+    "#7FB5FF",
+    "#FFD700",
+    "#FF9999",
+    "#85CC95",
+    "#85CC95",
+    "#DDB3FF"
+  ],
+  "iterm_Misterioso_normal": [
+    "#338F86",
+    "#FFAD29",
+    "#FF4242",
+    "#23D7D7",
+    "#74AF68",
+    "#9414E6"
+  ],
+  "iterm_Misterioso_bright": [
+    "#23D7D7",
+    "#FFB929",
+    "#FF3242",
+    "#00EDE1",
+    "#74CD68",
+    "#FF37FF"
+  ],
+  "iterm_Molokai_normal": [
+    "#1080D0",
+    "#DFD460",
+    "#FA2573",
+    "#43A8D0",
+    "#98E123",
+    "#8700FF"
+  ],
+  "iterm_Molokai_bright": [
+    "#00AFFF",
+    "#FFF26D",
+    "#F6669D",
+    "#51CEFF",
+    "#B1E05F",
+    "#AF87FF"
+  ],
+  "iterm_Mona Lisa_normal": [
+    "#515C5D",
+    "#C36E28",
+    "#9B291C",
+    "#588056",
+    "#636232",
+    "#9B1D29"
+  ],
+  "iterm_Mona Lisa_bright": [
+    "#9EB2B4",
+    "#FF9566",
+    "#FF4331",
+    "#8ACD8F",
+    "#B4B264",
+    "#FF5B6A"
+  ],
+  "iterm_Monokai Classic_normal": [
+    "#FD971F",
+    "#E6DB74",
+    "#F92672",
+    "#66D9EF",
+    "#A6E22E",
+    "#AE81FF"
+  ],
+  "iterm_Monokai Classic_bright": [
+    "#FD971F",
+    "#E6DB74",
+    "#F92672",
+    "#66D9EF",
+    "#A6E22E",
+    "#AE81FF"
+  ],
+  "iterm_Monokai Pro Light Sun_normal": [
+    "#D4572B",
+    "#B16803",
+    "#CE4770",
+    "#2473B6",
+    "#218871",
+    "#6851A2"
+  ],
+  "iterm_Monokai Pro Light Sun_bright": [
+    "#D4572B",
+    "#B16803",
+    "#CE4770",
+    "#2473B6",
+    "#218871",
+    "#6851A2"
+  ],
+  "iterm_Monokai Pro Light_normal": [
+    "#E16032",
+    "#CC7A0A",
+    "#E14775",
+    "#1C8CA8",
+    "#269D69",
+    "#7058BE"
+  ],
+  "iterm_Monokai Pro Light_bright": [
+    "#E16032",
+    "#CC7A0A",
+    "#E14775",
+    "#1C8CA8",
+    "#269D69",
+    "#7058BE"
+  ],
+  "iterm_Monokai Pro Machine_normal": [
+    "#FFB270",
+    "#FFED72",
+    "#FF6D7E",
+    "#7CD5F1",
+    "#A2E57B",
+    "#BAA0F8"
+  ],
+  "iterm_Monokai Pro Machine_bright": [
+    "#FFB270",
+    "#FFED72",
+    "#FF6D7E",
+    "#7CD5F1",
+    "#A2E57B",
+    "#BAA0F8"
+  ],
+  "iterm_Monokai Pro Octagon_normal": [
+    "#FF9B5E",
+    "#FFD76D",
+    "#FF657A",
+    "#9CD1BB",
+    "#BAD761",
+    "#C39AC9"
+  ],
+  "iterm_Monokai Pro Octagon_bright": [
+    "#FF9B5E",
+    "#FFD76D",
+    "#FF657A",
+    "#9CD1BB",
+    "#BAD761",
+    "#C39AC9"
+  ],
+  "iterm_Monokai Pro Ristretto_normal": [
+    "#F38D70",
+    "#F9CC6C",
+    "#FD6883",
+    "#85DACC",
+    "#ADDA78",
+    "#A8A9EB"
+  ],
+  "iterm_Monokai Pro Ristretto_bright": [
+    "#F38D70",
+    "#F9CC6C",
+    "#FD6883",
+    "#85DACC",
+    "#ADDA78",
+    "#A8A9EB"
+  ],
+  "iterm_Monokai Pro Spectrum_normal": [
+    "#FD9353",
+    "#FCE566",
+    "#FC618D",
+    "#5AD4E6",
+    "#7BD88F",
+    "#948AE3"
+  ],
+  "iterm_Monokai Pro Spectrum_bright": [
+    "#FD9353",
+    "#FCE566",
+    "#FC618D",
+    "#5AD4E6",
+    "#7BD88F",
+    "#948AE3"
+  ],
+  "iterm_Monokai Pro_normal": [
+    "#FC9867",
+    "#FFD866",
+    "#FF6188",
+    "#78DCE8",
+    "#A9DC76",
+    "#AB9DF2"
+  ],
+  "iterm_Monokai Pro_bright": [
+    "#FC9867",
+    "#FFD866",
+    "#FF6188",
+    "#78DCE8",
+    "#A9DC76",
+    "#AB9DF2"
+  ],
+  "iterm_Monokai Remastered_normal": [
+    "#9D65FF",
+    "#FD971F",
+    "#F4005F",
+    "#58D1EB",
+    "#98E024",
+    "#F4005F"
+  ],
+  "iterm_Monokai Remastered_bright": [
+    "#9D65FF",
+    "#E0D561",
+    "#F4005F",
+    "#58D1EB",
+    "#98E024",
+    "#F4005F"
+  ],
+  "iterm_Monokai Soda_normal": [
+    "#9D65FF",
+    "#FA8419",
+    "#F4005F",
+    "#58D1EB",
+    "#98E024",
+    "#F4005F"
+  ],
+  "iterm_Monokai Soda_bright": [
+    "#9D65FF",
+    "#E0D561",
+    "#F4005F",
+    "#58D1EB",
+    "#98E024",
+    "#F4005F"
+  ],
+  "iterm_Monokai Vivid_normal": [
+    "#0443FF",
+    "#FFF30A",
+    "#FA2934",
+    "#01B6ED",
+    "#98E123",
+    "#F800F8"
+  ],
+  "iterm_Monokai Vivid_bright": [
+    "#0443FF",
+    "#FFF26D",
+    "#F6669D",
+    "#51CEFF",
+    "#B1E05F",
+    "#F200F6"
+  ],
+  "iterm_Moonfly_normal": [
+    "#80A0FF",
+    "#E3C78A",
+    "#FF5454",
+    "#79DAC8",
+    "#8CC85F",
+    "#CF87E8"
+  ],
+  "iterm_Moonfly_bright": [
+    "#74B2FF",
+    "#C6C684",
+    "#FF5189",
+    "#85DC85",
+    "#36C692",
+    "#AE81FF"
+  ],
+  "iterm_N0Tch2K_normal": [
+    "#657D3E",
+    "#A98051",
+    "#A95551",
+    "#C9C9C9",
+    "#666666",
+    "#767676"
+  ],
+  "iterm_N0Tch2K_bright": [
+    "#98BD5E",
+    "#A99175",
+    "#A97775",
+    "#DCDCDC",
+    "#8C8C8C",
+    "#A3A3A3"
+  ],
+  "iterm_Neobones Dark_normal": [
+    "#8190D4",
+    "#B77E64",
+    "#DE6E7C",
+    "#66A5AD",
+    "#90FF6B",
+    "#B279A7"
+  ],
+  "iterm_Neobones Dark_bright": [
+    "#92A0E2",
+    "#D68C67",
+    "#E8838F",
+    "#65B8C1",
+    "#A0FF85",
+    "#CF86C1"
+  ],
+  "iterm_Neobones Light_normal": [
+    "#286486",
+    "#944927",
+    "#A8334C",
+    "#3B8992",
+    "#567A30",
+    "#88507D"
+  ],
+  "iterm_Neobones Light_bright": [
+    "#1D5573",
+    "#803D1C",
+    "#94253E",
+    "#2B747C",
+    "#3F5A22",
+    "#7B3B70"
+  ],
+  "iterm_Neon_normal": [
+    "#0208CB",
+    "#FFFC7E",
+    "#FF3045",
+    "#00FFFC",
+    "#5FFA74",
+    "#F924E7"
+  ],
+  "iterm_Neon_bright": [
+    "#3C40CB",
+    "#FFFD96",
+    "#FF5A5A",
+    "#88FFFE",
+    "#75FF88",
+    "#F15BE5"
+  ],
+  "iterm_Neopolitan_normal": [
+    "#253B76",
+    "#FBDE2D",
+    "#800000",
+    "#8DA6CE",
+    "#61CE3C",
+    "#FF0080"
+  ],
+  "iterm_Neopolitan_bright": [
+    "#253B76",
+    "#FBDE2D",
+    "#800000",
+    "#8DA6CE",
+    "#61CE3C",
+    "#FF0080"
+  ],
+  "iterm_Neutron_normal": [
+    "#6A7C93",
+    "#DEB566",
+    "#B54036",
+    "#3F94A8",
+    "#5AB977",
+    "#A4799D"
+  ],
+  "iterm_Neutron_bright": [
+    "#6A7C93",
+    "#DEB566",
+    "#B54036",
+    "#3F94A8",
+    "#5AB977",
+    "#A4799D"
+  ],
+  "iterm_Night Lion V1_normal": [
+    "#276BD8",
+    "#F3F167",
+    "#BB0000",
+    "#00DADF",
+    "#5FDE8F",
+    "#BB00BB"
+  ],
+  "iterm_Night Lion V1_bright": [
+    "#5555FF",
+    "#FFFF55",
+    "#FF5555",
+    "#55FFFF",
+    "#55FF55",
+    "#FF55FF"
+  ],
+  "iterm_Night Lion V2_normal": [
+    "#64D0F0",
+    "#F3F167",
+    "#BB0000",
+    "#00DADF",
+    "#04F623",
+    "#CE6FDB"
+  ],
+  "iterm_Night Lion V2_bright": [
+    "#62CBE8",
+    "#FFFF55",
+    "#FF5555",
+    "#00CCD8",
+    "#7DF71D",
+    "#FF9BF5"
+  ],
+  "iterm_Night Owl_normal": [
+    "#82AAFF",
+    "#ADDB67",
+    "#EF5350",
+    "#21C7A8",
+    "#22DA6E",
+    "#C792EA"
+  ],
+  "iterm_Night Owl_bright": [
+    "#82AAFF",
+    "#FFEB95",
+    "#EF5350",
+    "#7FDBCA",
+    "#22DA6E",
+    "#C792EA"
+  ],
+  "iterm_Night Owlish Light_normal": [
+    "#4876D6",
+    "#DAAA01",
+    "#D3423E",
+    "#08916A",
+    "#2AA298",
+    "#403F53"
+  ],
+  "iterm_Night Owlish Light_bright": [
+    "#5CA7E4",
+    "#DAC26B",
+    "#F76E6E",
+    "#00C990",
+    "#49D0C5",
+    "#697098"
+  ],
+  "iterm_Nightfox_normal": [
+    "#719CD6",
+    "#DBC074",
+    "#C94F6D",
+    "#63CDCF",
+    "#81B29A",
+    "#9D79D6"
+  ],
+  "iterm_Nightfox_bright": [
+    "#86ABDC",
+    "#E0C989",
+    "#D16983",
+    "#7AD5D6",
+    "#8EBAA4",
+    "#BAA1E2"
+  ],
+  "iterm_Niji_normal": [
+    "#2AB9FF",
+    "#FFF700",
+    "#D23E08",
+    "#1EF9F5",
+    "#54CA74",
+    "#FF50DA"
+  ],
+  "iterm_Niji_bright": [
+    "#8EFFF3",
+    "#FCFFB8",
+    "#FFB7B7",
+    "#BCFFC7",
+    "#C1FFAE",
+    "#FFA2ED"
+  ],
+  "iterm_Nocturnal Winter_normal": [
+    "#3182E0",
+    "#F5F17A",
+    "#F12D52",
+    "#09C87A",
+    "#09CD7E",
+    "#FF2B6D"
+  ],
+  "iterm_Nocturnal Winter_bright": [
+    "#6096FF",
+    "#FFFC67",
+    "#F16D86",
+    "#0AE78D",
+    "#0AE78D",
+    "#FF78A2"
+  ],
+  "iterm_Nord Light_normal": [
+    "#81A1C1",
+    "#EBCB8B",
+    "#BF616A",
+    "#88C0D0",
+    "#A3BE8C",
+    "#B48EAD"
+  ],
+  "iterm_Nord Light_bright": [
+    "#81A1C1",
+    "#EBCB8B",
+    "#BF616A",
+    "#8FBCBB",
+    "#A3BE8C",
+    "#B48EAD"
+  ],
+  "iterm_Nord Wave_normal": [
+    "#81A1C1",
+    "#EBCB8B",
+    "#BF616A",
+    "#88C0D0",
+    "#A3BE8C",
+    "#B48EAD"
+  ],
+  "iterm_Nord Wave_bright": [
+    "#81A1C1",
+    "#EBCB8B",
+    "#BF616A",
+    "#8FBCBB",
+    "#A3BE8C",
+    "#B48EAD"
+  ],
+  "iterm_Nord_normal": [
+    "#81A1C1",
+    "#EBCB8B",
+    "#BF616A",
+    "#88C0D0",
+    "#A3BE8C",
+    "#B48EAD"
+  ],
+  "iterm_Nord_bright": [
+    "#81A1C1",
+    "#EBCB8B",
+    "#BF616A",
+    "#8FBCBB",
+    "#A3BE8C",
+    "#B48EAD"
+  ],
+  "iterm_Nordfox_normal": [
+    "#81A1C1",
+    "#EBCB8B",
+    "#BF616A",
+    "#88C0D0",
+    "#A3BE8C",
+    "#B48EAD"
+  ],
+  "iterm_Nordfox_bright": [
+    "#8CAFD2",
+    "#F0D399",
+    "#D06F79",
+    "#93CCDC",
+    "#B1D196",
+    "#C895BF"
+  ],
+  "iterm_Novel_normal": [
+    "#0000CC",
+    "#D06B00",
+    "#CC0000",
+    "#0087CC",
+    "#009600",
+    "#CC00CC"
+  ],
+  "iterm_Novel_bright": [
+    "#0000CC",
+    "#D06B00",
+    "#CC0000",
+    "#0087CC",
+    "#009600",
+    "#CC00CC"
+  ],
+  "iterm_Nvim Dark_normal": [
+    "#A6DBFF",
+    "#FCE094",
+    "#FFC0B9",
+    "#8CF8F7",
+    "#B3F6C0",
+    "#FFCAFF"
+  ],
+  "iterm_Nvim Dark_bright": [
+    "#A6DBFF",
+    "#FCE094",
+    "#FFC0B9",
+    "#8CF8F7",
+    "#B3F6C0",
+    "#FFCAFF"
+  ],
+  "iterm_Nvim Light_normal": [
+    "#004C73",
+    "#6B5300",
+    "#590008",
+    "#007373",
+    "#005523",
+    "#470045"
+  ],
+  "iterm_Nvim Light_bright": [
+    "#004C73",
+    "#6B5300",
+    "#590008",
+    "#007373",
+    "#005523",
+    "#470045"
+  ],
+  "iterm_Obsidian_normal": [
+    "#3A9BDB",
+    "#FECD22",
+    "#A60001",
+    "#00BBBB",
+    "#00BB00",
+    "#BB00BB"
+  ],
+  "iterm_Obsidian_bright": [
+    "#A1D7FF",
+    "#FEF874",
+    "#FF0003",
+    "#55FFFF",
+    "#93C863",
+    "#FF55FF"
+  ],
+  "iterm_Ocean_normal": [
+    "#0000B2",
+    "#999900",
+    "#990000",
+    "#00A6B2",
+    "#00A600",
+    "#B200B2"
+  ],
+  "iterm_Ocean_bright": [
+    "#0000FF",
+    "#E5E500",
+    "#E50000",
+    "#00E5E5",
+    "#00D900",
+    "#E500E5"
+  ],
+  "iterm_Oceanic Material_normal": [
+    "#1E80F0",
+    "#FFEA2E",
+    "#EE2B2A",
+    "#16AFCA",
+    "#40A33F",
+    "#8800A0"
+  ],
+  "iterm_Oceanic Material_bright": [
+    "#54A4F3",
+    "#FFF163",
+    "#DC5C60",
+    "#42C7DA",
+    "#70BE71",
+    "#AA4DBC"
+  ],
+  "iterm_Oceanic Next_normal": [
+    "#6699CC",
+    "#FAC863",
+    "#EC5F67",
+    "#5FB3B3",
+    "#99C794",
+    "#C594C5"
+  ],
+  "iterm_Oceanic Next_bright": [
+    "#6699CC",
+    "#FAC863",
+    "#EC5F67",
+    "#5FB3B3",
+    "#99C794",
+    "#C594C5"
+  ],
+  "iterm_Ollie_normal": [
+    "#2D57AC",
+    "#AC4300",
+    "#AC2E31",
+    "#1FA6AC",
+    "#31AC61",
+    "#B08528"
+  ],
+  "iterm_Ollie_bright": [
+    "#4488FF",
+    "#FF5E1E",
+    "#FF3D48",
+    "#1FFAFF",
+    "#3BFF99",
+    "#FFC21D"
+  ],
+  "iterm_One Double Dark_normal": [
+    "#3FB1F5",
+    "#ECBE70",
+    "#F16372",
+    "#17B9C4",
+    "#8CC570",
+    "#D373E3"
+  ],
+  "iterm_One Double Dark_bright": [
+    "#6DCAFF",
+    "#F5C065",
+    "#FF777B",
+    "#00E5FB",
+    "#82D882",
+    "#FF7BF4"
+  ],
+  "iterm_One Double Light_normal": [
+    "#0087C1",
+    "#CC8100",
+    "#F74840",
+    "#009AB7",
+    "#25A343",
+    "#B50DA9"
+  ],
+  "iterm_One Double Light_bright": [
+    "#1065DE",
+    "#EC9900",
+    "#FF3711",
+    "#00B4DD",
+    "#00B90E",
+    "#E500D8"
+  ],
+  "iterm_One Half Dark_normal": [
+    "#61AFEF",
+    "#E5C07B",
+    "#E06C75",
+    "#56B6C2",
+    "#98C379",
+    "#C678DD"
+  ],
+  "iterm_One Half Dark_bright": [
+    "#61AFEF",
+    "#E5C07B",
+    "#E06C75",
+    "#56B6C2",
+    "#98C379",
+    "#C678DD"
+  ],
+  "iterm_One Half Light_normal": [
+    "#0184BC",
+    "#C18401",
+    "#E45649",
+    "#0997B3",
+    "#50A14F",
+    "#A626A4"
+  ],
+  "iterm_One Half Light_bright": [
+    "#61AFEF",
+    "#E5C07B",
+    "#E06C75",
+    "#56B6C2",
+    "#98C379",
+    "#C678DD"
+  ],
+  "iterm_Operator Mono Dark_normal": [
+    "#4387CF",
+    "#D4D697",
+    "#CA372D",
+    "#72D5C6",
+    "#4D7B3A",
+    "#B86CB4"
+  ],
+  "iterm_Operator Mono Dark_bright": [
+    "#89D3F6",
+    "#FDFDC5",
+    "#C37D62",
+    "#82EADA",
+    "#83D0A2",
+    "#FF2C7A"
+  ],
+  "iterm_Overnight Slumber_normal": [
+    "#8DABE1",
+    "#FFCB8B",
+    "#FFA7C4",
+    "#78CCF0",
+    "#85CC95",
+    "#C792EB"
+  ],
+  "iterm_Overnight Slumber_bright": [
+    "#8DABE1",
+    "#FFCB8B",
+    "#FFA7C4",
+    "#FFA7C4",
+    "#85CC95",
+    "#C792EB"
+  ],
+  "iterm_Oxocarbon_normal": [
+    "#00C15A",
+    "#FF4297",
+    "#00DFDB",
+    "#FF74B8",
+    "#00B4FF",
+    "#C693FF"
+  ],
+  "iterm_Oxocarbon_bright": [
+    "#00C15A",
+    "#FF4297",
+    "#00DFDB",
+    "#FF74B8",
+    "#00B4FF",
+    "#C693FF"
+  ],
+  "iterm_Pale Night Hc_normal": [
+    "#82AAFF",
+    "#FFCB6B",
+    "#F07178",
+    "#89DDFF",
+    "#C3E88D",
+    "#C792EA"
+  ],
+  "iterm_Pale Night Hc_bright": [
+    "#B4CCFF",
+    "#FFDFA6",
+    "#F6A9AE",
+    "#B8EAFF",
+    "#DBF1BA",
+    "#DDBDF2"
+  ],
+  "iterm_Pandora_normal": [
+    "#338F86",
+    "#FFAD29",
+    "#FF4242",
+    "#23D7D7",
+    "#74AF68",
+    "#9414E6"
+  ],
+  "iterm_Pandora_bright": [
+    "#23D7D7",
+    "#FFB929",
+    "#FF3242",
+    "#00EDE1",
+    "#74CD68",
+    "#FF37FF"
+  ],
+  "iterm_Paraiso Dark_normal": [
+    "#06B6EF",
+    "#FEC418",
+    "#EF6155",
+    "#5BC4BF",
+    "#48B685",
+    "#815BA4"
+  ],
+  "iterm_Paraiso Dark_bright": [
+    "#06B6EF",
+    "#FEC418",
+    "#EF6155",
+    "#5BC4BF",
+    "#48B685",
+    "#815BA4"
+  ],
+  "iterm_Paul Millr_normal": [
+    "#396BD7",
+    "#E7BF00",
+    "#FF0000",
+    "#66CCFF",
+    "#79FF0F",
+    "#B449BE"
+  ],
+  "iterm_Paul Millr_bright": [
+    "#709AED",
+    "#F3D64E",
+    "#FF0080",
+    "#7ADFF2",
+    "#66FF66",
+    "#DB67E6"
+  ],
+  "iterm_Pencil Dark_normal": [
+    "#008EC4",
+    "#A89C14",
+    "#C30771",
+    "#20A5BA",
+    "#10A778",
+    "#523C79"
+  ],
+  "iterm_Pencil Dark_bright": [
+    "#20BBFC",
+    "#F3E430",
+    "#FB007A",
+    "#4FB8CC",
+    "#5FD7AF",
+    "#6855DE"
+  ],
+  "iterm_Pencil Light_normal": [
+    "#008EC4",
+    "#A89C14",
+    "#C30771",
+    "#20A5BA",
+    "#10A778",
+    "#523C79"
+  ],
+  "iterm_Pencil Light_bright": [
+    "#20BBFC",
+    "#F3E430",
+    "#FB007A",
+    "#4FB8CC",
+    "#5FD7AF",
+    "#6855DE"
+  ],
+  "iterm_Peppermint_normal": [
+    "#449FD0",
+    "#DAB853",
+    "#E74669",
+    "#65AAAF",
+    "#89D287",
+    "#DA62DC"
+  ],
+  "iterm_Peppermint_bright": [
+    "#6FBCE2",
+    "#E1E487",
+    "#E4859B",
+    "#96DCDB",
+    "#A3CCA2",
+    "#E586E7"
+  ],
+  "iterm_Phala Green Dark_normal": [
+    "#0223C0",
+    "#A9A700",
+    "#AB1500",
+    "#00B4C0",
+    "#00B100",
+    "#C22EC0"
+  ],
+  "iterm_Phala Green Dark_bright": [
+    "#0433FF",
+    "#EAE700",
+    "#ED2200",
+    "#00E8EA",
+    "#00DB00",
+    "#ED3AEA"
+  ],
+  "iterm_Piatto Light_normal": [
+    "#3C5EA8",
+    "#CD6F34",
+    "#B23771",
+    "#66781E",
+    "#66781E",
+    "#A454B2"
+  ],
+  "iterm_Piatto Light_bright": [
+    "#3C5EA8",
+    "#CD6F34",
+    "#DB3365",
+    "#829429",
+    "#829429",
+    "#A454B2"
+  ],
+  "iterm_Pnevma_normal": [
+    "#7FA5BD",
+    "#D7AF87",
+    "#A36666",
+    "#8ADBB4",
+    "#90A57D",
+    "#C79EC4"
+  ],
+  "iterm_Pnevma_bright": [
+    "#A1BDCE",
+    "#E4C9AF",
+    "#D78787",
+    "#B1E7DD",
+    "#AFBEA2",
+    "#D7BEDA"
+  ],
+  "iterm_Popping And Locking_normal": [
+    "#458588",
+    "#D79921",
+    "#CC241D",
+    "#689D6A",
+    "#98971A",
+    "#B16286"
+  ],
+  "iterm_Popping And Locking_bright": [
+    "#99C6CA",
+    "#FABD2F",
+    "#F42C3E",
+    "#7EC16E",
+    "#B8BB26",
+    "#D3869B"
+  ],
+  "iterm_Powershell_normal": [
+    "#010083",
+    "#C4A000",
+    "#7E0008",
+    "#0E807F",
+    "#098003",
+    "#D33682"
+  ],
+  "iterm_Powershell_bright": [
+    "#268AD2",
+    "#FEFE45",
+    "#EF2929",
+    "#29FFFE",
+    "#1CFE3C",
+    "#FE13FA"
+  ],
+  "iterm_Primary_normal": [
+    "#4285F4",
+    "#F4B400",
+    "#DB4437",
+    "#4285F4",
+    "#0F9D58",
+    "#DB4437"
+  ],
+  "iterm_Primary_bright": [
+    "#4285F4",
+    "#F4B400",
+    "#DB4437",
+    "#0F9D58",
+    "#0F9D58",
+    "#4285F4"
+  ],
+  "iterm_Pro Light_normal": [
+    "#3B75FF",
+    "#C6C440",
+    "#E5492B",
+    "#4ED2DE",
+    "#50D148",
+    "#ED66E8"
+  ],
+  "iterm_Pro Light_bright": [
+    "#0082FF",
+    "#F2F156",
+    "#FF6640",
+    "#61F7F8",
+    "#61EF57",
+    "#FF7EFF"
+  ],
+  "iterm_Pro_normal": [
+    "#2009DB",
+    "#999900",
+    "#990000",
+    "#00A6B2",
+    "#00A600",
+    "#B200B2"
+  ],
+  "iterm_Pro_bright": [
+    "#0000FF",
+    "#E5E500",
+    "#E50000",
+    "#00E5E5",
+    "#00D900",
+    "#E500E5"
+  ],
+  "iterm_Purple Rain_normal": [
+    "#00A2FA",
+    "#FFC400",
+    "#FF260E",
+    "#00DEEF",
+    "#9BE205",
+    "#815BB5"
+  ],
+  "iterm_Purple Rain_bright": [
+    "#00A6FF",
+    "#FFD852",
+    "#FF4250",
+    "#74FDF3",
+    "#B8E36E",
+    "#AC7BF0"
+  ],
+  "iterm_Purplepeter_normal": [
+    "#66D9EF",
+    "#EFDFAC",
+    "#FF796D",
+    "#BA8CFF",
+    "#99B481",
+    "#E78FCD"
+  ],
+  "iterm_Purplepeter_bright": [
+    "#79DAED",
+    "#F2E9BF",
+    "#F99F92",
+    "#A0A0D6",
+    "#B4BE8F",
+    "#BA91D4"
+  ],
+  "iterm_Rapture_normal": [
+    "#6C9BF5",
+    "#FFF09B",
+    "#FC644D",
+    "#64E0FF",
+    "#7AFDE1",
+    "#FF4FA1"
+  ],
+  "iterm_Rapture_bright": [
+    "#6C9BF5",
+    "#FFF09B",
+    "#FC644D",
+    "#64E0FF",
+    "#7AFDE1",
+    "#FF4FA1"
+  ],
+  "iterm_Raycast Dark_normal": [
+    "#56C2FF",
+    "#FFC531",
+    "#FF5360",
+    "#52EEE5",
+    "#59D499",
+    "#CF2F98"
+  ],
+  "iterm_Raycast Dark_bright": [
+    "#56C2FF",
+    "#FFC531",
+    "#FF6363",
+    "#52EEE5",
+    "#59D499",
+    "#CF2F98"
+  ],
+  "iterm_Raycast Light_normal": [
+    "#138AF2",
+    "#F8A300",
+    "#B12424",
+    "#3EB8BF",
+    "#006B4F",
+    "#9A1B6E"
+  ],
+  "iterm_Raycast Light_bright": [
+    "#138AF2",
+    "#F8A300",
+    "#B12424",
+    "#3EB8BF",
+    "#006B4F",
+    "#9A1B6E"
+  ],
+  "iterm_Rebecca_normal": [
+    "#7AA5FF",
+    "#F2E7B7",
+    "#DD7755",
+    "#56D3C2",
+    "#04DBB5",
+    "#BF9CF9"
+  ],
+  "iterm_Rebecca_bright": [
+    "#69C0FA",
+    "#FFFCA8",
+    "#FF92CD",
+    "#8BFDE1",
+    "#01EAC0",
+    "#C17FF8"
+  ],
+  "iterm_Red Alert_normal": [
+    "#489BEE",
+    "#BEB86B",
+    "#D62E4E",
+    "#6BBEB8",
+    "#71BE6B",
+    "#E979D7"
+  ],
+  "iterm_Red Alert_bright": [
+    "#65AAF1",
+    "#DFDDB7",
+    "#E02553",
+    "#B7DFDD",
+    "#AFF08C",
+    "#DDB7DF"
+  ],
+  "iterm_Red Planet_normal": [
+    "#69819E",
+    "#E8BF6A",
+    "#8C3432",
+    "#5B8390",
+    "#728271",
+    "#896492"
+  ],
+  "iterm_Red Planet_bright": [
+    "#60827E",
+    "#EBEB91",
+    "#B55242",
+    "#38ADD8",
+    "#869985",
+    "#DE4974"
+  ],
+  "iterm_Red Sands_normal": [
+    "#0072FF",
+    "#E7B000",
+    "#FF3F00",
+    "#00BBBB",
+    "#00BB00",
+    "#BB00BB"
+  ],
+  "iterm_Red Sands_bright": [
+    "#0072AE",
+    "#E7B000",
+    "#BB0000",
+    "#55FFFF",
+    "#00BB00",
+    "#FF55FF"
+  ],
+  "iterm_Relaxed_normal": [
+    "#6A8799",
+    "#EBC17A",
+    "#BC5653",
+    "#C9DFFF",
+    "#909D63",
+    "#B06698"
+  ],
+  "iterm_Relaxed_bright": [
+    "#7EAAC7",
+    "#EBC17A",
+    "#BC5653",
+    "#ACBBD0",
+    "#A0AC77",
+    "#B06698"
+  ],
+  "iterm_Retro Legends_normal": [
+    "#4066F2",
+    "#F7BF2B",
+    "#DE5454",
+    "#40D9E6",
+    "#45EB45",
+    "#BF4CF2"
+  ],
+  "iterm_Retro Legends_bright": [
+    "#4C80FF",
+    "#FFD933",
+    "#FF6666",
+    "#59E6FF",
+    "#59FF59",
+    "#E666FF"
+  ],
+  "iterm_Retro_normal": [
+    "#13A10E",
+    "#13A10E",
+    "#13A10E",
+    "#13A10E",
+    "#13A10E",
+    "#13A10E"
+  ],
+  "iterm_Retro_bright": [
+    "#16BA10",
+    "#16BA10",
+    "#16BA10",
+    "#16BA10",
+    "#16BA10",
+    "#16BA10"
+  ],
+  "iterm_Rippedcasts_normal": [
+    "#75A5B0",
+    "#BFBB1F",
+    "#CDAF95",
+    "#5A647E",
+    "#A8FF60",
+    "#FF73FD"
+  ],
+  "iterm_Rippedcasts_bright": [
+    "#86BDC9",
+    "#E5E500",
+    "#EECBAD",
+    "#8C9BC4",
+    "#BCEE68",
+    "#E500E5"
+  ],
+  "iterm_Rose Pine Dawn_normal": [
+    "#56949F",
+    "#EA9D34",
+    "#B4637A",
+    "#D7827E",
+    "#286983",
+    "#907AA9"
+  ],
+  "iterm_Rose Pine Dawn_bright": [
+    "#56949F",
+    "#EA9D34",
+    "#B4637A",
+    "#D7827E",
+    "#286983",
+    "#907AA9"
+  ],
+  "iterm_Rose Pine Moon_normal": [
+    "#9CCFD8",
+    "#F6C177",
+    "#EB6F92",
+    "#EA9A97",
+    "#3E8FB0",
+    "#C4A7E7"
+  ],
+  "iterm_Rose Pine Moon_bright": [
+    "#9CCFD8",
+    "#F6C177",
+    "#EB6F92",
+    "#EA9A97",
+    "#3E8FB0",
+    "#C4A7E7"
+  ],
+  "iterm_Rose Pine_normal": [
+    "#9CCFD8",
+    "#F6C177",
+    "#EB6F92",
+    "#EBBCBA",
+    "#31748F",
+    "#C4A7E7"
+  ],
+  "iterm_Rose Pine_bright": [
+    "#9CCFD8",
+    "#F6C177",
+    "#EB6F92",
+    "#EBBCBA",
+    "#31748F",
+    "#C4A7E7"
+  ],
+  "iterm_Rouge 2_normal": [
+    "#6E94B9",
+    "#DBCDAB",
+    "#C6797E",
+    "#8AB6C1",
+    "#969E92",
+    "#4C4E78"
+  ],
+  "iterm_Rouge 2_bright": [
+    "#98B3CD",
+    "#E6DCC4",
+    "#C6797E",
+    "#ABCBD3",
+    "#E6DCC4",
+    "#8283A1"
+  ],
+  "iterm_Royal_normal": [
+    "#6580B0",
+    "#B49D27",
+    "#91284C",
+    "#8AAABE",
+    "#23801C",
+    "#674D96"
+  ],
+  "iterm_Royal_bright": [
+    "#90BAF9",
+    "#FDE83B",
+    "#D5356C",
+    "#ACD4EB",
+    "#2CD946",
+    "#A479E3"
+  ],
+  "iterm_Ryuuko_normal": [
+    "#6A8E95",
+    "#B1A990",
+    "#865F5B",
+    "#88B2AC",
+    "#66907D",
+    "#B18A73"
+  ],
+  "iterm_Ryuuko_bright": [
+    "#6A8E95",
+    "#B1A990",
+    "#865F5B",
+    "#88B2AC",
+    "#66907D",
+    "#B18A73"
+  ],
+  "iterm_Sakura_normal": [
+    "#6964AB",
+    "#BC7053",
+    "#D52370",
+    "#939393",
+    "#41AF1A",
+    "#C71FBF"
+  ],
+  "iterm_Sakura_bright": [
+    "#9892F1",
+    "#F59574",
+    "#F41D99",
+    "#EEEEEE",
+    "#22E529",
+    "#E90CDD"
+  ],
+  "iterm_Scarlet Protocol_normal": [
+    "#0271B6",
+    "#FAF945",
+    "#FF0051",
+    "#00C5C7",
+    "#00DC84",
+    "#CA30C7"
+  ],
+  "iterm_Scarlet Protocol_bright": [
+    "#6871FF",
+    "#FFFC67",
+    "#FF6E67",
+    "#60FDFF",
+    "#5FFA68",
+    "#BD35EC"
+  ],
+  "iterm_Sea Shells_normal": [
+    "#1E4950",
+    "#FCA02F",
+    "#D15123",
+    "#50A3B5",
+    "#027C9B",
+    "#68D4F1"
+  ],
+  "iterm_Sea Shells_bright": [
+    "#1BBCDD",
+    "#FDD39F",
+    "#D48678",
+    "#87ACB4",
+    "#628D98",
+    "#BBE3EE"
+  ],
+  "iterm_Seafoam Pastel_normal": [
+    "#4D7B82",
+    "#ADA16D",
+    "#825D4D",
+    "#729494",
+    "#728C62",
+    "#8A7267"
+  ],
+  "iterm_Seafoam Pastel_bright": [
+    "#7AC3CF",
+    "#FAE79D",
+    "#CF937A",
+    "#ADE0E0",
+    "#98D9AA",
+    "#D6B2A1"
+  ],
+  "iterm_Selenized Dark_normal": [
+    "#4695F7",
+    "#DBB32D",
+    "#FA5750",
+    "#41C7B9",
+    "#75B938",
+    "#F275BE"
+  ],
+  "iterm_Selenized Dark_bright": [
+    "#58A3FF",
+    "#EBC13D",
+    "#FF665C",
+    "#53D6C7",
+    "#84C747",
+    "#FF84CD"
+  ],
+  "iterm_Selenized Light_normal": [
+    "#0072D4",
+    "#AD8900",
+    "#D2212D",
+    "#009C8F",
+    "#489100",
+    "#CA4898"
+  ],
+  "iterm_Selenized Light_bright": [
+    "#006DCE",
+    "#A78300",
+    "#CC1729",
+    "#00978A",
+    "#428B00",
+    "#C44392"
+  ],
+  "iterm_Seoulbones Dark_normal": [
+    "#97BDDE",
+    "#FFDF9B",
+    "#E388A3",
+    "#6FBDBE",
+    "#98BD99",
+    "#A5A6C5"
+  ],
+  "iterm_Seoulbones Dark_bright": [
+    "#A2C8E9",
+    "#FFE5B3",
+    "#EB99B1",
+    "#6BCACB",
+    "#8FCD92",
+    "#B2B3DA"
+  ],
+  "iterm_Seoulbones Light_normal": [
+    "#0084A3",
+    "#C48562",
+    "#DC5284",
+    "#008586",
+    "#628562",
+    "#896788"
+  ],
+  "iterm_Seoulbones Light_bright": [
+    "#006F89",
+    "#A76B48",
+    "#BE3C6D",
+    "#006F70",
+    "#487249",
+    "#7F4C7E"
+  ],
+  "iterm_Seti_normal": [
+    "#43A5D5",
+    "#E0C64F",
+    "#C22832",
+    "#8EC43D",
+    "#8EC43D",
+    "#8B57B5"
+  ],
+  "iterm_Seti_bright": [
+    "#43A5D5",
+    "#E0C64F",
+    "#C22832",
+    "#8EC43D",
+    "#8EC43D",
+    "#8B57B5"
+  ],
+  "iterm_Shades Of Purple_normal": [
+    "#6943FF",
+    "#FFE700",
+    "#D90429",
+    "#00C5C7",
+    "#3AD900",
+    "#FF2C70"
+  ],
+  "iterm_Shades Of Purple_bright": [
+    "#6871FF",
+    "#F1D000",
+    "#F92A1C",
+    "#79E8FB",
+    "#43D426",
+    "#FF77FF"
+  ],
+  "iterm_Shaman_normal": [
+    "#449A86",
+    "#5E8BAA",
+    "#B2302D",
+    "#5D7E19",
+    "#00A941",
+    "#00599D"
+  ],
+  "iterm_Shaman_bright": [
+    "#61D5BA",
+    "#8ED4FD",
+    "#FF4242",
+    "#98D028",
+    "#2AEA5E",
+    "#1298FF"
+  ],
+  "iterm_Slate_normal": [
+    "#264B49",
+    "#C4C9C0",
+    "#E2A8BF",
+    "#15AB9C",
+    "#81D778",
+    "#A481D3"
+  ],
+  "iterm_Slate_bright": [
+    "#7AB0D2",
+    "#D0CCCA",
+    "#FFCDD9",
+    "#8CDFE0",
+    "#BEFFA8",
+    "#C5A7D9"
+  ],
+  "iterm_Sleepy Hollow_normal": [
+    "#5F63B4",
+    "#B55600",
+    "#BA3934",
+    "#8FAEA9",
+    "#91773F",
+    "#A17C7B"
+  ],
+  "iterm_Sleepy Hollow_bright": [
+    "#8086EF",
+    "#F66813",
+    "#D9443F",
+    "#A4DCE7",
+    "#D6B04E",
+    "#E2C2BB"
+  ],
+  "iterm_Smyck_normal": [
+    "#62A3C4",
+    "#C4A500",
+    "#B84131",
+    "#207383",
+    "#7DA900",
+    "#BA8ACC"
+  ],
+  "iterm_Smyck_bright": [
+    "#8DCFF0",
+    "#FEE14D",
+    "#D6837C",
+    "#6AD9CF",
+    "#C4F137",
+    "#F79AFF"
+  ],
+  "iterm_Snazzy Soft_normal": [
+    "#57C7FF",
+    "#F3F99D",
+    "#FF5C57",
+    "#9AEDFE",
+    "#5AF78E",
+    "#FF6AC1"
+  ],
+  "iterm_Snazzy Soft_bright": [
+    "#57C7FF",
+    "#F3F99D",
+    "#FF5C57",
+    "#9AEDFE",
+    "#5AF78E",
+    "#FF6AC1"
+  ],
+  "iterm_Snazzy_normal": [
+    "#49BAFF",
+    "#F0FB8C",
+    "#FC4346",
+    "#8BE9FE",
+    "#50FB7C",
+    "#FC4CB4"
+  ],
+  "iterm_Snazzy_bright": [
+    "#49BAFF",
+    "#F0FB8C",
+    "#FC4346",
+    "#8BE9FE",
+    "#50FB7C",
+    "#FC4CB4"
+  ],
+  "iterm_Soft Server_normal": [
+    "#6B8FA3",
+    "#A3906A",
+    "#A2686A",
+    "#6BA58F",
+    "#9AA56A",
+    "#6A71A3"
+  ],
+  "iterm_Soft Server_bright": [
+    "#62B1DF",
+    "#DEB360",
+    "#DD5C60",
+    "#64E39C",
+    "#BFDF55",
+    "#606EDF"
+  ],
+  "iterm_Solarized Darcula_normal": [
+    "#2075C7",
+    "#B68800",
+    "#F24840",
+    "#15968D",
+    "#629655",
+    "#797FD4"
+  ],
+  "iterm_Solarized Darcula_bright": [
+    "#2075C7",
+    "#B68800",
+    "#F24840",
+    "#15968D",
+    "#629655",
+    "#797FD4"
+  ],
+  "iterm_Solarized Dark Higher Contrast_normal": [
+    "#2176C7",
+    "#A57706",
+    "#D11C24",
+    "#259286",
+    "#6CBE6C",
+    "#C61C6F"
+  ],
+  "iterm_Solarized Dark Higher Contrast_bright": [
+    "#178EC8",
+    "#B27E28",
+    "#F5163B",
+    "#00B39E",
+    "#51EF84",
+    "#E24D8E"
+  ],
+  "iterm_Solarized Dark Patched_normal": [
+    "#2176C7",
+    "#A57706",
+    "#D11C24",
+    "#259286",
+    "#738A05",
+    "#C61C6F"
+  ],
+  "iterm_Solarized Dark Patched_bright": [
+    "#708284",
+    "#536870",
+    "#BD3613",
+    "#819090",
+    "#475B62",
+    "#5956BA"
+  ],
+  "iterm_Solarized Osaka Night_normal": [
+    "#7AA2F7",
+    "#E0AF68",
+    "#F7768E",
+    "#7DCFFF",
+    "#9ECE6A",
+    "#BB9AF7"
+  ],
+  "iterm_Solarized Osaka Night_bright": [
+    "#7AA2F7",
+    "#E0AF68",
+    "#F7768E",
+    "#7DCFFF",
+    "#9ECE6A",
+    "#BB9AF7"
+  ],
+  "iterm_Sonokai_normal": [
+    "#76CCE0",
+    "#E7C664",
+    "#FC5D7C",
+    "#F39660",
+    "#9ED072",
+    "#B39DF3"
+  ],
+  "iterm_Sonokai_bright": [
+    "#76CCE0",
+    "#E7C664",
+    "#FC5D7C",
+    "#F39660",
+    "#9ED072",
+    "#B39DF3"
+  ],
+  "iterm_Spacedust_normal": [
+    "#0F548B",
+    "#E3CD7B",
+    "#E35B00",
+    "#06AFC7",
+    "#5CAB96",
+    "#E35B00"
+  ],
+  "iterm_Spacedust_bright": [
+    "#67A0CE",
+    "#FFC878",
+    "#FF8A3A",
+    "#83A7B4",
+    "#AECAB8",
+    "#FF8A3A"
+  ],
+  "iterm_Spacegray Bright_normal": [
+    "#7BAEC1",
+    "#F6C987",
+    "#BC5553",
+    "#85C9B8",
+    "#A0B56C",
+    "#B98AAE"
+  ],
+  "iterm_Spacegray Bright_bright": [
+    "#7BAEC1",
+    "#F6C987",
+    "#BC5553",
+    "#85C9B8",
+    "#A0B56C",
+    "#B98AAE"
+  ],
+  "iterm_Spacegray Eighties Dull_normal": [
+    "#7C8FA5",
+    "#C6735A",
+    "#B24A56",
+    "#80CDCB",
+    "#92B477",
+    "#A5789E"
+  ],
+  "iterm_Spacegray Eighties Dull_bright": [
+    "#5486C0",
+    "#FEC254",
+    "#EC5F67",
+    "#58C2C1",
+    "#89E986",
+    "#BF83C1"
+  ],
+  "iterm_Spacegray Eighties_normal": [
+    "#5486C0",
+    "#FEC254",
+    "#EC5F67",
+    "#57C2C1",
+    "#81A764",
+    "#BF83C1"
+  ],
+  "iterm_Spacegray Eighties_bright": [
+    "#4D84D1",
+    "#FFD256",
+    "#FF6973",
+    "#83E9E4",
+    "#93D493",
+    "#FF55FF"
+  ],
+  "iterm_Spacegray_normal": [
+    "#7D8FA4",
+    "#E5C179",
+    "#B04B57",
+    "#85A7A5",
+    "#87B379",
+    "#A47996"
+  ],
+  "iterm_Spacegray_bright": [
+    "#7D8FA4",
+    "#E5C179",
+    "#B04B57",
+    "#85A7A5",
+    "#87B379",
+    "#A47996"
+  ],
+  "iterm_Spiderman_normal": [
+    "#2C3FFF",
+    "#E24756",
+    "#E60813",
+    "#3256FF",
+    "#E22928",
+    "#2435DB"
+  ],
+  "iterm_Spiderman_bright": [
+    "#1D50FF",
+    "#FE3A35",
+    "#FF0325",
+    "#6184FF",
+    "#FF3338",
+    "#747CFF"
+  ],
+  "iterm_Spring_normal": [
+    "#1DD3EE",
+    "#1FC95B",
+    "#FF4D83",
+    "#3E999F",
+    "#1F8C3B",
+    "#8959A8"
+  ],
+  "iterm_Spring_bright": [
+    "#15A9FD",
+    "#D5B807",
+    "#FF0021",
+    "#3E999F",
+    "#1FC231",
+    "#8959A8"
+  ],
+  "iterm_Square_normal": [
+    "#A9CDEB",
+    "#ECEBBE",
+    "#E9897C",
+    "#C9CAEC",
+    "#B6377D",
+    "#75507B"
+  ],
+  "iterm_Square_bright": [
+    "#B6DEFB",
+    "#FCFBCC",
+    "#F99286",
+    "#D7D9FC",
+    "#C3F786",
+    "#AD7FA8"
+  ],
+  "iterm_Squirrelsong Dark_normal": [
+    "#4395C6",
+    "#D4B139",
+    "#BA4138",
+    "#2F9794",
+    "#468336",
+    "#855FB8"
+  ],
+  "iterm_Squirrelsong Dark_bright": [
+    "#4CA4DB",
+    "#E8C23F",
+    "#DF4D43",
+    "#60ACA9",
+    "#659A4C",
+    "#9D70DA"
+  ],
+  "iterm_Srcery_normal": [
+    "#2C78BF",
+    "#FBB829",
+    "#EF2F27",
+    "#0AAEB3",
+    "#519F50",
+    "#E02C6D"
+  ],
+  "iterm_Srcery_bright": [
+    "#68A8E4",
+    "#FED06E",
+    "#F75341",
+    "#2BE4D0",
+    "#98BC37",
+    "#FF5C8F"
+  ],
+  "iterm_Starlight_normal": [
+    "#24ACD4",
+    "#E3C401",
+    "#F62B5A",
+    "#13C299",
+    "#47B413",
+    "#F2AFFD"
+  ],
+  "iterm_Starlight_bright": [
+    "#5DC5F8",
+    "#E9E836",
+    "#FF4D51",
+    "#24DFC4",
+    "#35D450",
+    "#FEABF2"
+  ],
+  "iterm_Sublette_normal": [
+    "#5588FF",
+    "#FFDD88",
+    "#EE5577",
+    "#44EEEE",
+    "#55EE77",
+    "#FF77CC"
+  ],
+  "iterm_Sublette_bright": [
+    "#77BBFF",
+    "#FFFF77",
+    "#EE6655",
+    "#55FFBB",
+    "#99EE77",
+    "#AA88FF"
+  ],
+  "iterm_Subliminal_normal": [
+    "#6699CC",
+    "#FFE2A9",
+    "#E15A60",
+    "#5FB3B3",
+    "#A9CFA4",
+    "#F1A5AB"
+  ],
+  "iterm_Subliminal_bright": [
+    "#6699CC",
+    "#FFE2A9",
+    "#E15A60",
+    "#5FB3B3",
+    "#A9CFA4",
+    "#F1A5AB"
+  ],
+  "iterm_Sugarplum_normal": [
+    "#DB7DDD",
+    "#249A84",
+    "#5CA8DC",
+    "#F9F3F9",
+    "#53B397",
+    "#D0BEEE"
+  ],
+  "iterm_Sugarplum_bright": [
+    "#FA5DFD",
+    "#01F5C7",
+    "#5CB5DC",
+    "#FFFFFF",
+    "#52DEB5",
+    "#C6A5FD"
+  ],
+  "iterm_Sundried_normal": [
+    "#485B98",
+    "#9D602A",
+    "#A7463D",
+    "#9C814F",
+    "#587744",
+    "#864651"
+  ],
+  "iterm_Sundried_bright": [
+    "#7999F7",
+    "#FC6A21",
+    "#AA000C",
+    "#FAD484",
+    "#128C21",
+    "#FD8AA1"
+  ],
+  "iterm_Symfonic_normal": [
+    "#0084D4",
+    "#FF8400",
+    "#DC322F",
+    "#CCCCFF",
+    "#56DB3A",
+    "#B729D9"
+  ],
+  "iterm_Symfonic_bright": [
+    "#0084D4",
+    "#FF8400",
+    "#DC322F",
+    "#CCCCFF",
+    "#56DB3A",
+    "#B729D9"
+  ],
+  "iterm_Synthwave Alpha_normal": [
+    "#6E29AD",
+    "#ADAD3E",
+    "#E60A70",
+    "#00B0B1",
+    "#00986C",
+    "#B300AD"
+  ],
+  "iterm_Synthwave Alpha_bright": [
+    "#AA54F9",
+    "#F9F972",
+    "#E60A70",
+    "#00FBFD",
+    "#0AE4A4",
+    "#FF00F6"
+  ],
+  "iterm_Synthwave Everything_normal": [
+    "#6D77B3",
+    "#FEDE5D",
+    "#F97E72",
+    "#F772E0",
+    "#72F1B8",
+    "#C792EA"
+  ],
+  "iterm_Synthwave Everything_bright": [
+    "#36F9F6",
+    "#FFF951",
+    "#F88414",
+    "#F92AAD",
+    "#72F1B8",
+    "#E1ACFF"
+  ],
+  "iterm_Synthwave_normal": [
+    "#2186EC",
+    "#FDF834",
+    "#F6188F",
+    "#12C3E2",
+    "#1EBB2B",
+    "#F85A21"
+  ],
+  "iterm_Synthwave_bright": [
+    "#2F9DED",
+    "#FDF454",
+    "#F841A0",
+    "#19CDE6",
+    "#25C141",
+    "#F97137"
+  ],
+  "iterm_Tango Adapted_normal": [
+    "#00A2FF",
+    "#F0CB00",
+    "#FF0000",
+    "#00D0D6",
+    "#59D600",
+    "#C17ECC"
+  ],
+  "iterm_Tango Adapted_bright": [
+    "#88C9FF",
+    "#FFF121",
+    "#FF0013",
+    "#00FEFF",
+    "#93FF00",
+    "#E9A7E1"
+  ],
+  "iterm_Tango Half Adapted_normal": [
+    "#008EF6",
+    "#E2C000",
+    "#FF0000",
+    "#00BDC3",
+    "#4CC300",
+    "#A96CB3"
+  ],
+  "iterm_Tango Half Adapted_bright": [
+    "#76BFFF",
+    "#FFEC00",
+    "#FF0013",
+    "#00F6FA",
+    "#8AF600",
+    "#D898D1"
+  ],
+  "iterm_Tearout_normal": [
+    "#B5955E",
+    "#6C9861",
+    "#CC967B",
+    "#D7C483",
+    "#97976D",
+    "#C9A554"
+  ],
+  "iterm_Tearout_bright": [
+    "#B5955E",
+    "#6C9861",
+    "#CC967B",
+    "#D7C483",
+    "#97976D",
+    "#C9A554"
+  ],
+  "iterm_Teerb_normal": [
+    "#86AED6",
+    "#D7AF87",
+    "#D68686",
+    "#8ADBB4",
+    "#AED686",
+    "#D6AED6"
+  ],
+  "iterm_Teerb_bright": [
+    "#86AED6",
+    "#E4C9AF",
+    "#D68686",
+    "#B1E7DD",
+    "#AED686",
+    "#D6AED6"
+  ],
+  "iterm_Terafox_normal": [
+    "#5A93AA",
+    "#FDA47F",
+    "#E85C51",
+    "#A1CDD8",
+    "#7AA4A1",
+    "#AD5C7C"
+  ],
+  "iterm_Terafox_bright": [
+    "#73A3B7",
+    "#FDB292",
+    "#EB746B",
+    "#AFD4DE",
+    "#8EB2AF",
+    "#B97490"
+  ],
+  "iterm_Terminal Basic Dark_normal": [
+    "#6444ED",
+    "#B8B74A",
+    "#C65339",
+    "#69C1CF",
+    "#6AC44B",
+    "#D357DB"
+  ],
+  "iterm_Terminal Basic Dark_bright": [
+    "#D09AF9",
+    "#EFEF53",
+    "#EB5A3A",
+    "#78F1F2",
+    "#77EA51",
+    "#EB5AF7"
+  ],
+  "iterm_Terminal Basic_normal": [
+    "#0000B2",
+    "#999900",
+    "#990000",
+    "#00A6B2",
+    "#00A600",
+    "#B200B2"
+  ],
+  "iterm_Terminal Basic_bright": [
+    "#0000FF",
+    "#E5E500",
+    "#E50000",
+    "#00E5E5",
+    "#00D900",
+    "#E500E5"
+  ],
+  "iterm_Thayer Bright_normal": [
+    "#2757D6",
+    "#F4FD22",
+    "#F92672",
+    "#38C8B5",
+    "#4DF840",
+    "#8C54FE"
+  ],
+  "iterm_Thayer Bright_bright": [
+    "#3F78FF",
+    "#FEED6C",
+    "#FF5995",
+    "#23CFD5",
+    "#B6E354",
+    "#9E6FFE"
+  ],
+  "iterm_The Hulk_normal": [
+    "#2525F5",
+    "#63E457",
+    "#269D1B",
+    "#378CA9",
+    "#13CE30",
+    "#641F74"
+  ],
+  "iterm_The Hulk_bright": [
+    "#506B95",
+    "#3AFE16",
+    "#8DFF2A",
+    "#4085A6",
+    "#48FF77",
+    "#72589D"
+  ],
+  "iterm_Tinacious Design Dark_normal": [
+    "#00CBFF",
+    "#FFCC66",
+    "#FF3399",
+    "#00CECA",
+    "#00D364",
+    "#CC66FF"
+  ],
+  "iterm_Tinacious Design Dark_bright": [
+    "#00CBFF",
+    "#FFD479",
+    "#FF2F92",
+    "#00D5D4",
+    "#00D364",
+    "#D783FF"
+  ],
+  "iterm_Tinacious Design Light_normal": [
+    "#00CBFF",
+    "#FFCC66",
+    "#FF3399",
+    "#00CECA",
+    "#00D364",
+    "#CC66FF"
+  ],
+  "iterm_Tinacious Design Light_bright": [
+    "#00CBFF",
+    "#FFD479",
+    "#FF2F92",
+    "#00D5D4",
+    "#00D364",
+    "#D783FF"
+  ],
+  "iterm_TokyoNight Day_normal": [
+    "#2E7DE9",
+    "#8C6C3E",
+    "#F52A65",
+    "#007197",
+    "#587539",
+    "#9854F1"
+  ],
+  "iterm_TokyoNight Day_bright": [
+    "#2E7DE9",
+    "#8C6C3E",
+    "#F52A65",
+    "#007197",
+    "#587539",
+    "#9854F1"
+  ],
+  "iterm_TokyoNight Moon_normal": [
+    "#82AAFF",
+    "#FFC777",
+    "#FF757F",
+    "#86E1FC",
+    "#C3E88D",
+    "#C099FF"
+  ],
+  "iterm_TokyoNight Moon_bright": [
+    "#82AAFF",
+    "#FFC777",
+    "#FF757F",
+    "#86E1FC",
+    "#C3E88D",
+    "#C099FF"
+  ],
+  "iterm_TokyoNight Night_normal": [
+    "#7AA2F7",
+    "#E0AF68",
+    "#F7768E",
+    "#7DCFFF",
+    "#9ECE6A",
+    "#BB9AF7"
+  ],
+  "iterm_TokyoNight Night_bright": [
+    "#7AA2F7",
+    "#E0AF68",
+    "#F7768E",
+    "#7DCFFF",
+    "#9ECE6A",
+    "#BB9AF7"
+  ],
+  "iterm_TokyoNight Storm_normal": [
+    "#7AA2F7",
+    "#E0AF68",
+    "#F7768E",
+    "#7DCFFF",
+    "#9ECE6A",
+    "#BB9AF7"
+  ],
+  "iterm_TokyoNight Storm_bright": [
+    "#7AA2F7",
+    "#E0AF68",
+    "#F7768E",
+    "#7DCFFF",
+    "#9ECE6A",
+    "#BB9AF7"
+  ],
+  "iterm_TokyoNight_normal": [
+    "#7AA2F7",
+    "#E0AF68",
+    "#F7768E",
+    "#7DCFFF",
+    "#9ECE6A",
+    "#BB9AF7"
+  ],
+  "iterm_TokyoNight_bright": [
+    "#7AA2F7",
+    "#E0AF68",
+    "#F7768E",
+    "#7DCFFF",
+    "#9ECE6A",
+    "#BB9AF7"
+  ],
+  "iterm_Tomorrow Night Blue_normal": [
+    "#BBDAFF",
+    "#FFEEAD",
+    "#FF9DA4",
+    "#99FFFF",
+    "#D1F1A9",
+    "#EBBBFF"
+  ],
+  "iterm_Tomorrow Night Blue_bright": [
+    "#BBDAFF",
+    "#FFEEAD",
+    "#FF9DA4",
+    "#99FFFF",
+    "#D1F1A9",
+    "#EBBBFF"
+  ],
+  "iterm_Tomorrow Night Bright_normal": [
+    "#7AA6DA",
+    "#E7C547",
+    "#D54E53",
+    "#70C0B1",
+    "#B9CA4A",
+    "#C397D8"
+  ],
+  "iterm_Tomorrow Night Bright_bright": [
+    "#7AA6DA",
+    "#E7C547",
+    "#D54E53",
+    "#70C0B1",
+    "#B9CA4A",
+    "#C397D8"
+  ],
+  "iterm_Tomorrow Night Burns_normal": [
+    "#FC595F",
+    "#D3494E",
+    "#832E31",
+    "#BA8586",
+    "#A63C40",
+    "#DF9395"
+  ],
+  "iterm_Tomorrow Night Burns_bright": [
+    "#FC595F",
+    "#D2494E",
+    "#832E31",
+    "#BA8586",
+    "#A63C40",
+    "#DF9395"
+  ],
+  "iterm_Tomorrow Night Eighties_normal": [
+    "#6699CC",
+    "#FFCC66",
+    "#F2777A",
+    "#66CCCC",
+    "#99CC99",
+    "#CC99CC"
+  ],
+  "iterm_Tomorrow Night Eighties_bright": [
+    "#6699CC",
+    "#FFCC66",
+    "#F2777A",
+    "#66CCCC",
+    "#99CC99",
+    "#CC99CC"
+  ],
+  "iterm_Tomorrow Night_normal": [
+    "#81A2BE",
+    "#F0C674",
+    "#CC6666",
+    "#8ABEB7",
+    "#B5BD68",
+    "#B294BB"
+  ],
+  "iterm_Tomorrow Night_bright": [
+    "#81A2BE",
+    "#F0C674",
+    "#CC6666",
+    "#8ABEB7",
+    "#B5BD68",
+    "#B294BB"
+  ],
+  "iterm_Tomorrow_normal": [
+    "#4271AE",
+    "#EAB700",
+    "#C82829",
+    "#3E999F",
+    "#718C00",
+    "#8959A8"
+  ],
+  "iterm_Tomorrow_bright": [
+    "#4271AE",
+    "#EAB700",
+    "#C82829",
+    "#3E999F",
+    "#718C00",
+    "#8959A8"
+  ],
+  "iterm_Toy Chest_normal": [
+    "#325D96",
+    "#DB8E27",
+    "#BE2D26",
+    "#35A08F",
+    "#1A9172",
+    "#8A5EDC"
+  ],
+  "iterm_Toy Chest_bright": [
+    "#34A6DA",
+    "#E7D84B",
+    "#DD5944",
+    "#42C3AE",
+    "#31D07B",
+    "#AE6BDC"
+  ],
+  "iterm_Treehouse_normal": [
+    "#58859A",
+    "#AA820C",
+    "#B2270E",
+    "#B25A1E",
+    "#44A900",
+    "#97363D"
+  ],
+  "iterm_Treehouse_bright": [
+    "#85CFED",
+    "#F2B732",
+    "#ED5D20",
+    "#F07D14",
+    "#55F238",
+    "#E14C5A"
+  ],
+  "iterm_Twilight_normal": [
+    "#44474A",
+    "#C2A86C",
+    "#C06D44",
+    "#778385",
+    "#AFB97A",
+    "#B4BE7C"
+  ],
+  "iterm_Twilight_bright": [
+    "#5A5E62",
+    "#E2C47E",
+    "#DE7C4C",
+    "#8A989B",
+    "#CCD88C",
+    "#D0DC8E"
+  ],
+  "iterm_Ubuntu_normal": [
+    "#3465A4",
+    "#C4A000",
+    "#CC0000",
+    "#06989A",
+    "#4E9A06",
+    "#75507B"
+  ],
+  "iterm_Ubuntu_bright": [
+    "#729FCF",
+    "#FCE94F",
+    "#EF2929",
+    "#34E2E2",
+    "#8AE234",
+    "#AD7FA8"
+  ],
+  "iterm_Ultra Dark_normal": [
+    "#82AAFF",
+    "#FFCB6B",
+    "#F07178",
+    "#89DDFF",
+    "#C3E88D",
+    "#C792EA"
+  ],
+  "iterm_Ultra Dark_bright": [
+    "#B4CCFF",
+    "#FFDFA6",
+    "#F6A9AE",
+    "#B8EAFF",
+    "#DBF1BA",
+    "#DDBDF2"
+  ],
+  "iterm_Ultra Violent_normal": [
+    "#47E0FB",
+    "#FFF727",
+    "#FF0090",
+    "#0EFFBB",
+    "#B6FF00",
+    "#D731FF"
+  ],
+  "iterm_Ultra Violent_bright": [
+    "#7FECFF",
+    "#EBE087",
+    "#FB58B4",
+    "#69FCD3",
+    "#DEFF8C",
+    "#E681FF"
+  ],
+  "iterm_Under The Sea_normal": [
+    "#459A86",
+    "#59819C",
+    "#B2302D",
+    "#5D7E19",
+    "#00A941",
+    "#00599D"
+  ],
+  "iterm_Under The Sea_bright": [
+    "#61D5BA",
+    "#8ED4FD",
+    "#FF4242",
+    "#98D028",
+    "#2AEA5E",
+    "#1298FF"
+  ],
+  "iterm_Unikitty_normal": [
+    "#145FCD",
+    "#EEDF4B",
+    "#A80F20",
+    "#6BD1BC",
+    "#BAFC8B",
+    "#FF36A2"
+  ],
+  "iterm_Unikitty_bright": [
+    "#0075EA",
+    "#FFEF50",
+    "#D91329",
+    "#79ECD5",
+    "#D3FFAF",
+    "#FDD5E5"
+  ],
+  "iterm_Urple_normal": [
+    "#564D9B",
+    "#AD5C42",
+    "#B0425B",
+    "#808080",
+    "#37A415",
+    "#6C3CA1"
+  ],
+  "iterm_Urple_bright": [
+    "#867AED",
+    "#F08161",
+    "#FF6388",
+    "#EAEAEA",
+    "#29E620",
+    "#A05EEE"
+  ],
+  "iterm_Vague_normal": [
+    "#7E98E8",
+    "#F3BE7C",
+    "#DF6882",
+    "#9BB4BC",
+    "#8CB66D",
+    "#C3C3D5"
+  ],
+  "iterm_Vague_bright": [
+    "#7E98E8",
+    "#F3BE7C",
+    "#DF6882",
+    "#9BB4BC",
+    "#8CB66D",
+    "#C3C3D5"
+  ],
+  "iterm_Vaughn_normal": [
+    "#5555FF",
+    "#DFAF8F",
+    "#705050",
+    "#8CD0D3",
+    "#60B48A",
+    "#F08CC3"
+  ],
+  "iterm_Vaughn_bright": [
+    "#5555FF",
+    "#F0DFAF",
+    "#DCA3A3",
+    "#93E0E3",
+    "#60B48A",
+    "#EC93D3"
+  ],
+  "iterm_Vercel_normal": [
+    "#006AFF",
+    "#FFAE00",
+    "#FC0036",
+    "#00AC96",
+    "#29A948",
+    "#F32882"
+  ],
+  "iterm_Vercel_bright": [
+    "#49AEFF",
+    "#FFAE00",
+    "#FF8080",
+    "#00E4C4",
+    "#4BE15D",
+    "#F97EA8"
+  ],
+  "iterm_Vesper_normal": [
+    "#ACA1CF",
+    "#E6B99D",
+    "#F5A191",
+    "#EA83A5",
+    "#90B99F",
+    "#E29ECA"
+  ],
+  "iterm_Vesper_bright": [
+    "#B9AEDA",
+    "#FFC799",
+    "#FF8080",
+    "#F591B2",
+    "#99FFE4",
+    "#ECAAD6"
+  ],
+  "iterm_Vibrant Ink_normal": [
+    "#44B4CC",
+    "#FFCC00",
+    "#FF6600",
+    "#44B4CC",
+    "#CCFF04",
+    "#9933CC"
+  ],
+  "iterm_Vibrant Ink_bright": [
+    "#0000FF",
+    "#FFFF00",
+    "#FF0000",
+    "#00FFFF",
+    "#00FF00",
+    "#FF00FF"
+  ],
+  "iterm_Vimbones_normal": [
+    "#286486",
+    "#944927",
+    "#A8334C",
+    "#3B8992",
+    "#4F6C31",
+    "#88507D"
+  ],
+  "iterm_Vimbones_bright": [
+    "#1D5573",
+    "#803D1C",
+    "#94253E",
+    "#2B747C",
+    "#3F5A22",
+    "#7B3B70"
+  ],
+  "iterm_Violet Dark_normal": [
+    "#2E8BCE",
+    "#B4881D",
+    "#C94C22",
+    "#32A198",
+    "#85981C",
+    "#D13A82"
+  ],
+  "iterm_Violet Dark_bright": [
+    "#2176C7",
+    "#A57705",
+    "#BD3613",
+    "#259286",
+    "#738A04",
+    "#C61C6F"
+  ],
+  "iterm_Violet Light_normal": [
+    "#2E8BCE",
+    "#B4881D",
+    "#C94C22",
+    "#32A198",
+    "#85981C",
+    "#D13A82"
+  ],
+  "iterm_Violet Light_bright": [
+    "#2176C7",
+    "#A57705",
+    "#BD3613",
+    "#259286",
+    "#738A04",
+    "#C61C6F"
+  ],
+  "iterm_Violite_normal": [
+    "#A979EC",
+    "#ECE279",
+    "#EC7979",
+    "#79ECEC",
+    "#79ECB3",
+    "#EC79EC"
+  ],
+  "iterm_Violite_bright": [
+    "#B78FEF",
+    "#EFE78F",
+    "#EF8F8F",
+    "#9FEFEF",
+    "#9FEFBF",
+    "#EF8FCF"
+  ],
+  "iterm_Warm Neon_normal": [
+    "#4261C5",
+    "#DAE145",
+    "#E24346",
+    "#2ABBD4",
+    "#39B13A",
+    "#F920FB"
+  ],
+  "iterm_Warm Neon_bright": [
+    "#7B91D6",
+    "#DDDA7A",
+    "#E97071",
+    "#5ED1E5",
+    "#9CC090",
+    "#F674BA"
+  ],
+  "iterm_Wez_normal": [
+    "#5555CC",
+    "#CDCD55",
+    "#CC5555",
+    "#7ACACA",
+    "#55CC55",
+    "#CC55CC"
+  ],
+  "iterm_Wez_bright": [
+    "#5555FF",
+    "#FFFF55",
+    "#FF5555",
+    "#55FFFF",
+    "#55FF55",
+    "#FF55FF"
+  ],
+  "iterm_Whimsy_normal": [
+    "#65AEF7",
+    "#FDD877",
+    "#EF6487",
+    "#43C1BE",
+    "#5ECA89",
+    "#AA7FF0"
+  ],
+  "iterm_Whimsy_bright": [
+    "#65AEF7",
+    "#FDD877",
+    "#EF6487",
+    "#43C1BE",
+    "#5ECA89",
+    "#AA7FF0"
+  ],
+  "iterm_Wild Cherry_normal": [
+    "#883CDC",
+    "#FFD16F",
+    "#D94085",
+    "#C1B8B7",
+    "#2AB250",
+    "#ECECEC"
+  ],
+  "iterm_Wild Cherry_bright": [
+    "#308CBA",
+    "#EAC066",
+    "#DA6BAC",
+    "#FF919D",
+    "#F4DCA5",
+    "#AE636B"
+  ],
+  "iterm_Wilmersdorf_normal": [
+    "#A6C1E0",
+    "#CCCCCC",
+    "#E06383",
+    "#5B94AB",
+    "#7EBEBD",
+    "#E1C1EE"
+  ],
+  "iterm_Wilmersdorf_bright": [
+    "#B2CFF0",
+    "#D1DFFF",
+    "#FA7193",
+    "#69ABC5",
+    "#8FD7D6",
+    "#EFCCFD"
+  ],
+  "iterm_Wombat_normal": [
+    "#5DA9F6",
+    "#EBD99C",
+    "#FF615A",
+    "#82FFF7",
+    "#B1E969",
+    "#E86AFF"
+  ],
+  "iterm_Wombat_bright": [
+    "#A5C7FF",
+    "#EEE5B2",
+    "#F58C80",
+    "#B7FFF9",
+    "#DDF88F",
+    "#DDAAFF"
+  ],
+  "iterm_Wryan_normal": [
+    "#395573",
+    "#7C7C99",
+    "#8C4665",
+    "#31658C",
+    "#287373",
+    "#5E468C"
+  ],
+  "iterm_Wryan_bright": [
+    "#477AB3",
+    "#9E9ECB",
+    "#BF4D80",
+    "#6096BF",
+    "#53A6A6",
+    "#7E62B3"
+  ],
+  "iterm_Xcode Dark hc_normal": [
+    "#4EC4E6",
+    "#D9C668",
+    "#FF8A7A",
+    "#CDA1FF",
+    "#83C9BC",
+    "#FF85B8"
+  ],
+  "iterm_Xcode Dark hc_bright": [
+    "#6BDFFF",
+    "#FFA14F",
+    "#FF8A7A",
+    "#E5CFFF",
+    "#B1FAEB",
+    "#FF85B8"
+  ],
+  "iterm_Xcode Dark_normal": [
+    "#4EB0CC",
+    "#D9C97C",
+    "#FF8170",
+    "#B281EB",
+    "#78C2B3",
+    "#FF7AB2"
+  ],
+  "iterm_Xcode Dark_bright": [
+    "#6BDFFF",
+    "#FFA14F",
+    "#FF8170",
+    "#DABAFF",
+    "#ACF2E4",
+    "#FF7AB2"
+  ],
+  "iterm_Xcode Light hc_normal": [
+    "#0058A1",
+    "#78492A",
+    "#AD1805",
+    "#703DAA",
+    "#355D61",
+    "#9C2191"
+  ],
+  "iterm_Xcode Light hc_bright": [
+    "#003F73",
+    "#78492A",
+    "#AD1805",
+    "#441EA1",
+    "#174145",
+    "#9C2191"
+  ],
+  "iterm_Xcode Light_normal": [
+    "#0F68A0",
+    "#78492A",
+    "#D12F1B",
+    "#804FB8",
+    "#3E8087",
+    "#AD3DA4"
+  ],
+  "iterm_Xcode Light_bright": [
+    "#0B4F79",
+    "#78492A",
+    "#D12F1B",
+    "#4B21B0",
+    "#23575C",
+    "#AD3DA4"
+  ],
+  "iterm_Xcode WWDC_normal": [
+    "#8884C5",
+    "#D28E5D",
+    "#BB383A",
+    "#00ABA4",
+    "#94C66E",
+    "#B73999"
+  ],
+  "iterm_Xcode WWDC_bright": [
+    "#8884C5",
+    "#D28E5D",
+    "#BB383A",
+    "#00ABA4",
+    "#94C66E",
+    "#B73999"
+  ],
+  "iterm_Zenbones Dark_normal": [
+    "#6099C0",
+    "#B77E64",
+    "#DE6E7C",
+    "#66A5AD",
+    "#819B69",
+    "#B279A7"
+  ],
+  "iterm_Zenbones Dark_bright": [
+    "#61ABDA",
+    "#D68C67",
+    "#E8838F",
+    "#65B8C1",
+    "#8BAE68",
+    "#CF86C1"
+  ],
+  "iterm_Zenbones Light_normal": [
+    "#286486",
+    "#944927",
+    "#A8334C",
+    "#3B8992",
+    "#4F6C31",
+    "#88507D"
+  ],
+  "iterm_Zenbones Light_bright": [
+    "#1D5573",
+    "#803D1C",
+    "#94253E",
+    "#2B747C",
+    "#3F5A22",
+    "#7B3B70"
+  ],
+  "iterm_Zenbones_normal": [
+    "#286486",
+    "#944927",
+    "#A8334C",
+    "#3B8992",
+    "#4F6C31",
+    "#88507D"
+  ],
+  "iterm_Zenbones_bright": [
+    "#1D5573",
+    "#803D1C",
+    "#94253E",
+    "#2B747C",
+    "#3F5A22",
+    "#7B3B70"
+  ],
+  "iterm_Zenburn_normal": [
+    "#506070",
+    "#F0DFAF",
+    "#705050",
+    "#8CD0D3",
+    "#60B48A",
+    "#DC8CC3"
+  ],
+  "iterm_Zenburn_bright": [
+    "#94BFF3",
+    "#E0CF9F",
+    "#DCA3A3",
+    "#93E0E3",
+    "#C3BF9F",
+    "#EC93D3"
+  ],
+  "iterm_Zenburned_normal": [
+    "#6099C0",
+    "#B77E64",
+    "#E3716E",
+    "#66A5AD",
+    "#819B69",
+    "#B279A7"
+  ],
+  "iterm_Zenburned_bright": [
+    "#61ABDA",
+    "#D68C67",
+    "#EC8685",
+    "#65B8C1",
+    "#8BAE68",
+    "#CF86C1"
+  ],
+  "iterm_Zenwritten Dark_normal": [
+    "#6099C0",
+    "#B77E64",
+    "#DE6E7C",
+    "#66A5AD",
+    "#819B69",
+    "#B279A7"
+  ],
+  "iterm_Zenwritten Dark_bright": [
+    "#61ABDA",
+    "#D68C67",
+    "#E8838F",
+    "#65B8C1",
+    "#8BAE68",
+    "#CF86C1"
+  ],
+  "iterm_Zenwritten Light_normal": [
+    "#286486",
+    "#944927",
+    "#A8334C",
+    "#3B8992",
+    "#4F6C31",
+    "#88507D"
+  ],
+  "iterm_Zenwritten Light_bright": [
+    "#1D5573",
+    "#803D1C",
+    "#94253E",
+    "#2B747C",
+    "#3F5A22",
+    "#7B3B70"
+  ]
+}
